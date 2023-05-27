@@ -1,3 +1,5 @@
+//copied from https://raw.githubusercontent.com/pieroxy/lz-string/master/libs/lz-string.min.js
+
 var LZString = function() {
     function o(o, r) { if (!t[o]) { t[o] = {}; for (var n = 0; n < o.length; n++) t[o][o.charAt(n)] = n } return t[o][r] }
     var r = String.fromCharCode,
