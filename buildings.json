@@ -89,6 +89,24 @@
 				"name": "Werkfeuerwehr",
 				"cost": 1e5,
 				"duration": 7
+			},
+			{
+				"id": 14,
+				"name": "NEA50-Erweiterung",
+				"cost": 1e5,
+				"duration": 5
+			},
+			{
+				"id": 15,
+				"name": "NEA50-Erweiterung",
+				"cost": 2e5,
+				"duration": 7
+			},
+			{
+				"id": 16,
+				"name": "Lüfter-Erweiterung",
+				"cost": 0,75E5,
+				"duration": 5
 			}
 		]
 	},
