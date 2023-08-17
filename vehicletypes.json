@@ -2230,4 +2230,135 @@
 			"thw": 1
 		}
 	}
+	{
+		"id": 114,
+		"name": "GW Lüfter",
+		"short_name": "GW Lüfter",
+		"class": ["firetrucks", "water_damage_pump"],
+		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}
+	{
+		"id": 115,
+		"name": "Anhänger Lüfter",
+		"short_name": "Anh Lüfter",
+		"class": ["firetrucks", "water_damage_pump"],
+		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}	
+	{
+		"id": 116,
+		"name": "AB Lüfter",
+		"short_name": "AB Lüfter",
+		"class": ["firetrucks", "water_damage_pump"],
+		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}
+	{
+		"id": 117,
+		"name": "AB Tank",
+		"short_name": "AB Tank",
+		"class": ["firetrucks", "water_damage_pump"],
+		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}	
+	{
+		"id": 118,
+		"name": "Kleintankwagen",
+		"short_name": "Kleintankwagen",
+		"class": ["firetrucks", "water_damage_pump"],
+		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}		
+	{
+		"id": 119,
+		"name": "AB Lösch",
+		"short_name": "AB Lösch",
+		"class": ["firetrucks", "water_damage_pump"],
+		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}	
+	{
+		"id": 120,
+		"name": "Tankwagen",
+		"short_name": "Tankwagen",
+		"class": ["firetrucks", "water_damage_pump"],
+		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}
+	{
+		"id": 121,
+		"name": "GTLF",
+		"short_name": "GTLF",
+		"class": ["firetrucks", "water_damage_pump"],
+		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}
+
+		
+	}
 ]
