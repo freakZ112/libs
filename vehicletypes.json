@@ -2229,7 +2229,7 @@
 		"prerequisites": {
 			"thw": 1
 		}
-	},/*
+	},
 	{
 		"id": 114,
 		"name": "GW Lüfter",
@@ -2364,6 +2364,6 @@
 		"additional": {},
 		"prerequisites": {
 			"thw": 1
-		}	*/	
+		}	
 	}
 ]
