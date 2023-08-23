@@ -404,7 +404,7 @@
 			},
 			{
 				"id": 4,
-				"name": "2. Technischer Zug - Grundvorraussetzungen",
+				"name": "2. Technischer Zug - Bergungsgruppe",
 				"cost": 25e3,
 				"duration": 3
 			},
@@ -443,7 +443,13 @@
 				"name": "Fachgruppe Elektroversorgung",
 				"cost": 2e5,
 				"duration": 7
-			}				
+			},
+			{
+				"id": 11,
+				"name": "Ortsverbands-Manschaftstransportwagen",
+				"cost": 2e5,
+				"duration": 3
+			}	
 		]
 	},
 	{
