@@ -1819,8 +1819,8 @@
 	},
 	{
 		"id": 93,
-		"name": "Mannschaftstransportwagen Ortsverband",
-		"short_name": "MTW-OV",
+		"name": "Mannschaftstransportwagen Hund",
+		"short_name": "MTW-O",
 		"class": [],
 		"class_alias": [],
 		"cost": 19000,
@@ -2365,5 +2365,56 @@
 		"prerequisites": {
 			"thw": 1
 		}	
-	}
+	},
+	{
+		"id": 122,
+		"name": "LKW 7 Lbw (FGr E)",
+		"short_name": "LKW 7 Lbw (FGr E)",
+		"class": [""],
+		"class_alias": [""],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}	
+	},
+	{
+		"id": 123,
+		"name": "LKW 7 Lbw (FGr WP)",
+		"short_name": "LKW 7 Lbw (FGr WP)",
+		"class": [""],
+		"class_alias": [""],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}	
+	},
+	{
+		"id": 124,
+		"name": "Mannschaftstransportwagen Ortsverband",
+		"short_name": "MTW-OV",
+		"class": [""],
+		"class_alias": [""],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}	
+	},
 ]
