@@ -1781,7 +1781,7 @@
 	{
 		"id": 91,
 		"name": "Rettungshundefahrzeug",
-		"short_name": "MTF-Hund",
+		"short_name": "MTF-Hund(SEG)",
 		"class": ["rescue_dog_units"],
 		"class_alias": ["Rettungshunde"],
 		"cost": 25000,
