@@ -2415,6 +2415,26 @@
 		"additional": {},
 		"prerequisites": {
 			"thw": 1
-		}	
+		}
+	},
+	{
+		"id": 125,
+		"name": "MTW-Tr UL",
+		"short_name": "MTW-Tr UL",
+	},
+	{
+		"id": 126,
+		"name": "MTF Drohne",
+		"short_name": "MTF Drohne",
+	},
+	{
+		"id": 127,
+		"name": "GW UAS",
+		"short_name": "GW UAS",
+	},
+	{
+		"id": 128,
+		"name": "ELW Drohne",
+		"short_name": "ELW Drohne",
 	}
 ]
