@@ -98,13 +98,19 @@
 			},
 			{
 				"id": 15,
-				"name": "NEA50-Erweiterung",
+				"name": "NEA200-Erweiterung",
 				"cost": 2e5,
 				"duration": 7
 			},
 			{
 				"id": 16,
 				"name": "Lüfter-Erweiterung",
+				"cost": 1E5,
+				"duration": 5
+			},
+			{
+				"id": 18,
+				"name": "Drohnen-Erweiterung",
 				"cost": 1E5,
 				"duration": 5
 			}
@@ -449,6 +455,12 @@
 				"name": "Ortsverbands-Manschaftstransportwagen",
 				"cost": 2e5,
 				"duration": 3
+			},
+			{
+				"id": 12,
+				"name": "Trupp Unbemannte Luftfahrtsysteme",
+				"cost": 2e5,
+				"duration": 5
 			}	
 		]
 	},
@@ -572,6 +584,18 @@
 				"name": "Rettungshundestaffel",
 				"cost": 35e4,
 				"duration": 7
+			},
+			{
+				"id": 4,
+				"name": "SEG Drohne",
+				"cost": 35e4,
+				"duration": 7
+			},
+			{
+				"id": 5,
+				"name": "Betreuungs- und Verpflegungsdienst-Erweiterungen",
+				"cost": 35e4,
+				"duration": 5
 			}
 		]
 	},
