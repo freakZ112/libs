@@ -2436,5 +2436,30 @@
 		"id": 128,
 		"name": "ELW Drohne",
 		"short_name": "ELW Drohne"
+	},
+	{
+		"id": 129,
+		"name": "ELW2 Drohne",
+		"short_name": "ELW2 Drohne"
+	},
+	{
+		"id": 130,
+		"name": "GW Betreuung",
+		"short_name": "GW-Bt"
+	},
+	{
+		"id": 131,
+		"name": "Betreuung Kombi",
+		"short_name": "Bt-Kombi"
+	},
+	{
+		"id": 132,
+		"name": "Anhänger Feldküche",
+		"short_name": "FKH"
+	},
+	{
+		"id": 133,
+		"name": "Betreuung LKW",
+		"short_name": "Bt LKW"
 	}
 ]
