@@ -1820,7 +1820,7 @@
 	{
 		"id": 93,
 		"name": "Mannschaftstransportwagen Hund",
-		"short_name": "MTW-O",
+		"short_name": "MTW-O (Hund)",
 		"class": [],
 		"class_alias": [],
 		"cost": 19000,
