@@ -2461,5 +2461,26 @@
 		"id": 133,
 		"name": "Betreuung LKW",
 		"short_name": "Bt LKW"
+	},
+	{
+		"id": 134,
+		"name": "Pferdetransporter klein",
+		"short_name": "Pferdetransporter klein"
+	},
+	
+	{
+		"id": 135,
+		"name": "Pferdetransporter groß",
+		"short_name": "Pferdetransporter groß"
+	},
+	{
+		"id": 136,
+		"name": "Anh Pferdetransport",
+		"short_name": "Anh Pferdetransport"
+	},
+	{
+		"id": 137,
+		"name": "Zugfahrzeug Pferdetransport",
+		"short_name": "Zugfahrzeug Pferdetransport"
 	}
 ]
