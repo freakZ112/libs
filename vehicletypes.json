@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"id": 0,
 		"name": "LF 20",
 		"short_name": "LF 20",
@@ -234,7 +235,7 @@
 		},
 		"building": [0, 18],
 		"additional": {
-			"qualification": ["GW-Messtechnik"]
+			"qualification": [{"names": ["GW-Messtechnik"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 10
@@ -529,7 +530,7 @@
 		},
 		"building": [0, 18],
 		"additional": {
-			"qualification": ["GW-Gefahrgut"]
+			"qualification": [{"names": ["GW-Gefahrgut"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 11
@@ -570,7 +571,7 @@
 		"building": [0, 2, 20],
 		"additional": {
 			"critical_patients": true,
-			"qualification": ["Notarzt-Ausbildung"]
+			"qualification": [{"names": ["Notarzt"]}]
 		},
 		"prerequisites": {
 			"rescue_stations": 3
@@ -613,7 +614,7 @@
 			"critical_patients": true,
 			"primary_transport": true,
 			"required_on_mission": [28, 58],
-			"qualification": ["Notarzt-Ausbildung"],
+			"qualification": [{"names": ["Notarzt"]}],
 			"rank": "Stv. Zugführer(in)",
 			"special_conditions": true
 		},
@@ -653,7 +654,7 @@
 		},
 		"building": [0, 18],
 		"additional": {
-			"qualification": ["Höhenrettung Lehrgang"]
+			"qualification": [{"names": ["GW-Höhenrettung"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 12
@@ -672,7 +673,7 @@
 		},
 		"building": [0, 18],
 		"additional": {
-			"qualification": ["ELW 2"]
+			"qualification": [{"names": ["ELW 2"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 13
@@ -691,7 +692,7 @@
 		},
 		"building": [11],
 		"additional": {
-			"qualification": ["Zugführer (leBefKw)"]
+			"qualification": [{"names": ["Zugführer (leBefKw)"]}]
 		},
 		"prerequisites": {
 			"bereitschaftspolizei": 1
@@ -784,7 +785,7 @@
 		},
 		"building": [9],
 		"additional": {
-			"qualification": ["Zugtrupp"]
+			"qualification": [{"names": ["Zugtrupp"]}]
 		},
 		"prerequisites": {
 			"thw": 1
@@ -792,10 +793,10 @@
 	},
 	{
 		"id": 41,
-		"name": "Mehrzweckgerätewagen Notinstandsetzung",
-		"short_name": "MzGW (FGr N)",
+		"name": "Mehrzweckkraftwagen",
+		"short_name": "MzKW",
 		"class": ["thw_mzkw"],
-		"class_alias": ["MzGW (FGr N)"],
+		"class_alias": ["MzKW"],
 		"cost": 15000,
 		"personal": {
 			"min": 1,
@@ -820,7 +821,7 @@
 		},
 		"building": [9],
 		"additional": {
-			"qualification": ["Fachgruppe Räumen"]
+			"qualification": [{"names": ["Fachgruppe Räumen"]}]
 		},
 		"prerequisites": {
 			"thw": 1
@@ -877,7 +878,7 @@
 		},
 		"building": [9],
 		"additional": {
-			"qualification": ["Fachgruppe Räumen"],
+			"qualification": [{"names": ["Fachgruppe Räumen"]}],
 			"mission_time_bonus": 20
 		},
 		"prerequisites": {
@@ -897,7 +898,7 @@
 		},
 		"building": [0, 18],
 		"additional": {
-			"qualification": ["Wechsellader"]
+			"qualification": [{"names": ["Wechsellader"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 1
@@ -990,7 +991,7 @@
 		},
 		"building": [11, 17],
 		"additional": {
-			"qualification": ["Hundertschaftsführer (FüKw)"]
+			"qualification": [{"names": ["Hundertschaftsführer (FüKw)"]}]
 		},
 		"prerequisites": {
 			"bereitschaftspolizei": 1,
@@ -1030,7 +1031,7 @@
 		},
 		"building": [0, 18],
 		"additional": {
-			"qualification": ["Dekon-P"]
+			"qualification": [{"names": ["Dekon-P"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 14
@@ -1050,7 +1051,7 @@
 		"building": [0, 18],
 		"additional": {
 			"trailer": true,
-			"qualification": ["Dekon-P"]
+			"qualification": [{"names": ["Dekon-P"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 14
@@ -1069,7 +1070,7 @@
 		},
 		"building": [2, 20],
 		"additional": {
-			"qualification": ["LNA"]
+			"qualification": [{"names": ["LNA"]}]
 		},
 		"prerequisites": {
 			"rescue_stations": 5,
@@ -1089,7 +1090,7 @@
 		},
 		"building": [2, 20],
 		"additional": {
-			"qualification": ["OrgL"]
+			"qualification": [{"names": ["OrgL"]}]
 		},
 		"prerequisites": {
 			"rescue_stations": 10,
@@ -1109,7 +1110,7 @@
 		},
 		"building": [0, 18],
 		"additional": {
-			"qualification": ["Feuerwehrkran"]
+			"qualification": [{"names": ["Feuerwehrkran"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 14
@@ -1151,7 +1152,7 @@
 		"building": [12],
 		"additional": {
 			"auto_request_transport": true,
-			"qualification": ["SEG - Einsatzleitung"]
+			"qualification": [{"names": ["Einsatzleitung (SEG)"]}]
 		},
 		"prerequisites": {
 			"rescue_stations": 3,
@@ -1161,7 +1162,7 @@
 	{
 		"id": 60,
 		"name": "Gerätewagen Sanität",
-		"short_name": "GW-SAN",
+		"short_name": "GW-San",
 		"class": ["gw_san"],
 		"class_alias": ["GW-San"],
 		"cost": 5000,
@@ -1172,7 +1173,7 @@
 		"building": [12],
 		"additional": {
 			"patients_on_time": 5,
-			"qualification": ["SEG - GW-San"]
+			"qualification": [{"names": ["GW-San"]}]
 		},
 		"prerequisites": {
 			"rescue_stations": 3,
@@ -1193,7 +1194,7 @@
 		},
 		"building": [13],
 		"additional": {
-			"qualification": ["Polizeihubschrauber"],
+			"qualification": [{"names": ["Polizeihubschrauber"]}],
 			"special_conditions": true
 		},
 		"prerequisites": {
@@ -1233,7 +1234,7 @@
 		},
 		"building": [0, 12, 15],
 		"additional": {
-			"qualification": ["GW-Taucher"]
+			"qualification": [{"names": ["GW-Taucher"]}]
 		},
 		"prerequisites": {
 			"wasserrettung": 1
@@ -1252,7 +1253,7 @@
 		},
 		"building": [0, 12, 15],
 		"additional": {
-			"qualification": ["GW-Wasserrettung"]
+			"qualification": [{"names": ["GW-Wasserrettung"]}]
 		},
 		"prerequisites": {
 			"wasserrettung": 1
@@ -1271,7 +1272,7 @@
 		},
 		"building": [9],
 		"additional": {
-			"qualification": ["Wassergefahren"]
+			"qualification": [{"names": ["GW-Wasserrettung"]}]
 		},
 		"prerequisites": {
 			"wasserrettung": 1
@@ -1347,7 +1348,7 @@
 		},
 		"building": [9],
 		"additional": {
-			"qualification": ["Bergungstaucher"]
+			"qualification": [{"names": ["GW-Taucher"]}]
 		},
 		"prerequisites": {
 			"wasserrettung": 1
@@ -1386,7 +1387,7 @@
 		"building": [0, 18],
 		"additional": {
 			"trailer": true,
-			"qualification": ["GW-Wasserrettung"]
+			"qualification": [{"names": ["GW-Wasserrettung"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 1
@@ -1405,7 +1406,7 @@
 		},
 		"building": [11],
 		"additional": {
-			"qualification": ["Wasserwerfer"]
+			"qualification": [{"names": ["Wasserwerfer"]}]
 		},
 		"prerequisites": {
 			"bereitschaftspolizei": 1
@@ -1428,7 +1429,7 @@
 				"critical_patients": true,
 				"primary_transport": true,
 				"patients_on_time": 3,
-				"qualification": ["Notarzt-Ausbildung"]
+				"qualification": [{"names": ["Notarzt"]}]
 			},
 			"option_without_na": {
 				"primary_transport": true,
@@ -1458,7 +1459,7 @@
 		"additional": {
 			"critical_patients": true,
 			"primary_transport": true,
-			"qualification": ["Notarzt-Ausbildung"],
+			"qualification": [{"names": ["Notarzt"]}],
 			"special_conditions": true
 		},
 		"prerequisites": {
@@ -1479,7 +1480,7 @@
 		"building": [0],
 		"additional": {
 			"water": 12000,
-			"qualification": ["Flugfeldlöschfahrzeug"]
+			"qualification": [{"names": ["Flugfeldlöschfahrzeug"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 1
@@ -1498,7 +1499,7 @@
 		},
 		"building": [0],
 		"additional": {
-			"qualification": ["Rettungstreppe"]
+			"qualification": [{"names": ["Rettungstreppe"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 1
@@ -1518,7 +1519,7 @@
 		"building": [0, 18],
 		"additional": {
 			"trailer": true,
-			"qualification": ["GW-Gefahrgut"]
+			"qualification": [{"names": ["GW-Gefahrgut"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 11
@@ -1538,7 +1539,7 @@
 		"building": [0, 18],
 		"additional": {
 			"trailer": true,
-			"qualification": ["ELW 2"]
+			"qualification": [{"names": ["ELW 2"]}]
 		},
 		"prerequisites": {
 			"fire_stations": 13
@@ -1557,7 +1558,7 @@
 		},
 		"building": [11, 17],
 		"additional": {
-			"qualification": ["SEK"]
+			"qualification": [{"names": ["SEK"]}]
 		},
 		"prerequisites": {
 			"sek": 1
@@ -1576,7 +1577,7 @@
 		},
 		"building": [11, 17],
 		"additional": {
-			"qualification": ["SEK"]
+			"qualification": [{"names": ["SEK"]}]
 		},
 		"prerequisites": {
 			"sek": 1
@@ -1595,7 +1596,7 @@
 		},
 		"building": [11, 17],
 		"additional": {
-			"qualification": ["MEK"]
+			"qualification": [{"names": ["MEK"]}]
 		},
 		"prerequisites": {
 			"mek": 1
@@ -1614,7 +1615,7 @@
 		},
 		"building": [11, 17],
 		"additional": {
-			"qualification": ["MEK"]
+			"qualification": [{"names": ["MEK"]}]
 		},
 		"prerequisites": {
 			"mek": 1
@@ -1633,7 +1634,7 @@
 		},
 		"building": [0],
 		"additional": {
-			"qualification": ["Werkfeuerwehr"]
+			"qualification": [{"names": ["Werkfeuerwehr"]}]
 		},
 		"prerequisites": {
 			"werkfeuerwehr": 1
@@ -1653,7 +1654,7 @@
 		"building": [0],
 		"additional": {
 			"water": 5000,
-			"qualification": ["Werkfeuerwehr"]
+			"qualification": [{"names": ["Werkfeuerwehr"]}]
 		},
 		"prerequisites": {
 			"werkfeuerwehr": 1
@@ -1672,7 +1673,7 @@
 		},
 		"building": [0],
 		"additional": {
-			"qualification": ["Werkfeuerwehr"]
+			"qualification": [{"names": ["Werkfeuerwehr"]}]
 		},
 		"prerequisites": {
 			"werkfeuerwehr": 1
@@ -1691,7 +1692,7 @@
 		},
 		"building": [0],
 		"additional": {
-			"qualification": ["Werkfeuerwehr"]
+			"qualification": [{"names": ["Werkfeuerwehr"]}]
 		},
 		"prerequisites": {
 			"werkfeuerwehr": 1
@@ -1781,7 +1782,7 @@
 	{
 		"id": 91,
 		"name": "Rettungshundefahrzeug",
-		"short_name": "MTF-Hund(SEG)",
+		"short_name": "MTF-Hund",
 		"class": ["rescue_dog_units"],
 		"class_alias": ["Rettungshunde"],
 		"cost": 25000,
@@ -1791,7 +1792,7 @@
 		},
 		"building": [12, 21],
 		"additional": {
-			"qualification": ["Rettungshundeführer (SEG)"]
+			"qualification": [{"names": ["Rettungshundeführer (SEG)"]}]
 		},
 		"prerequisites": {
 			"rescue_dog_units": 1
@@ -1811,7 +1812,7 @@
 		"building": [9],
 		"additional": {
 			"trailer": true,
-			"qualification": ["Rettungshundeführer (THW)"]
+			"qualification": [{"names": ["Rettungshundeführer (THW)"]}]
 		},
 		"prerequisites": {
 			"rescue_dog_units": 1
@@ -1819,8 +1820,8 @@
 	},
 	{
 		"id": 93,
-		"name": "Mannschaftstransportwagen Hund",
-		"short_name": "MTW-O (Hund)",
+		"name": "Mannschaftstransportwagen Ortsverband",
+		"short_name": "MTW-OV",
 		"class": [],
 		"class_alias": [],
 		"cost": 19000,
@@ -1847,7 +1848,7 @@
 		},
 		"building": [6, 11, 17],
 		"additional": {
-			"qualification": ["Hundeführer"]
+			"qualification": [{"names": ["Hundeführer (Schutzhund)"]}]
 		},
 		"prerequisites": {
 			"k9": 1
@@ -1866,7 +1867,7 @@
 		},
 		"building": [6, 19],
 		"additional": {
-			"qualification": ["Motorradstaffel"]
+			"qualification": [{"names": ["Motorradstaffel"]}]
 		},
 		"prerequisites": {
 			"police_stations": 1
@@ -1885,7 +1886,7 @@
 		},
 		"building": [13],
 		"additional": {
-			"qualification": ["Brandbekämpfung"],
+			"qualification": [{"names": ["Brandbekämpfung"]}],
 			"trailer": true,
 			"water": 1000
 		},
@@ -1909,7 +1910,7 @@
 			"critical_patients": true,
 			"primary_transport": true,
 			"secondary_transport": true,
-			"qualification": ["Intensivpflege", "Notarzt-Ausbildung"],
+			"qualification": [{"names": ["Notarzt"], "min": 1, "max": 1}, {"names": ["Intensivpflege"], "min": 2, "max": 2}],
 			"special_conditions": true
 		},
 		"prerequisites": {
@@ -1932,7 +1933,7 @@
 		},
 		"building": [6, 19],
 		"additional": {
-			"qualification": ["Kriminalpolizei"],
+			"qualification": [{"names": ["Kriminalpolizist"]}],
 			"prisoners_transport": 1
 		},
 		"prerequisites": {
@@ -1952,7 +1953,7 @@
 		},
 		"building": [9],
 		"additional": {
-			"qualification": ["Fachgruppe Wasserschaden/Pumpen"]
+			"qualification": [{"names": ["Fachgruppe Wasserschaden/Pumpen"]}]
 		},
 		"prerequisites": {
 			"thw": 1
@@ -1971,7 +1972,7 @@
 		},
 		"building": [9],
 		"additional": {
-			"qualification": ["Fachgruppe Wasserschaden/Pumpen"]
+			"qualification": [{"names": ["Fachgruppe Wasserschaden/Pumpen"]}]
 		},
 		"prerequisites": {
 			"thw": 1
@@ -2041,7 +2042,7 @@
 		"building": [6],
 		"additional": {
 			"prisoners_transport": 1,
-			"qualification": ["Dienstgruppenleitung"]
+			"qualification": [{"names": ["Dienstgruppenleitung"]}]
 		},
 		"prerequisites": {
 			"police_stations": 1
@@ -2145,342 +2146,410 @@
 			"fire_stations": 1
 		}
 	},
- 	{
+	{
 		"id": 109,
-		"name": "Mehrzweckgerätewagen Schwere Bergung",
+		"name": "Mehrzweck-Gerätewagen (SB)",
 		"short_name": "MzGW SB",
-		"class": ["thw_mzkw"],
-		"class_alias": ["MzGW SB"],
 		"cost": 15000,
 		"personal": {
 			"min": 1,
 			"max": 9
 		},
 		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
+		"additional": {
+			"qualification": [{"names": ["FGr SB"]}]
 		}
 	},
- 	{
+	{
 		"id": 110,
 		"name": "Netzersatzanlage 50 kVA",
-		"short_name": "NEA50-THW",
-		"class": ["thw_mzkw"],
-		"class_alias": ["NEA50-THW"],
+		"short_name": "NEA50 (THW)",
 		"cost": 10000,
 		"personal": {
 			"min": 0,
 			"max": 0
 		},
 		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
+		"additional": {
+			"trailer": true
 		}
 	},
-  	{
+	{
 		"id": 111,
-		"name": "Netzersatzanlage 50 kVA",
-		"short_name": "NEA50-FW",
-		"class": ["thw_mzkw"],
-		"class_alias": ["NEA50-FW"],
+		"name": "NEA50",
+		"short_name": "NEA50 (FW)",
 		"cost": 10000,
 		"personal": {
 			"min": 0,
 			"max": 0
 		},
-		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
+		"building": [0, 18],
+		"additional": {
+			"trailer": true
 		}
 	},
-  	{
+	{
 		"id": 112,
 		"name": "Netzersatzanlage 200 kVA",
-		"short_name": "NEA200-THW",
-		"class": ["thw_mzkw"],
-		"class_alias": ["NEA200-THW"],
-		"cost": 10000,
+		"short_name": "NEA200 (THW)",
+		"cost": 50000,
 		"personal": {
 			"min": 0,
 			"max": 0
 		},
 		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
+		"additional": {
+			"trailer": true
 		}
 	},
-   	{
+	{
 		"id": 113,
-		"name": "Netzersatzanlage 200 kVA",
-		"short_name": "NEA200-FW",
-		"class": ["thw_mzkw"],
-		"class_alias": ["NEA200-FW"],
-		"cost": 10000,
+		"name": "NEA200",
+		"short_name": "NEA200 (FW)",
+		"cost": 50000,
 		"personal": {
 			"min": 0,
 			"max": 0
 		},
-		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
+		"building": [0, 18],
+		"additional": {
+			"trailer": true
 		}
 	},
 	{
 		"id": 114,
-		"name": "GW Lüfter",
-		"short_name": "GW Lüfter",
-		"class": ["firetrucks", "water_damage_pump"],
-		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
-		"cost": 10000,
+		"name": "Gerätewagen Lüfter",
+		"short_name": "GW-Lüfter",
+		"cost": 25000,
 		"personal": {
-			"min": 0,
-			"max": 0
+			"min": 1,
+			"max": 2
 		},
-		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
-		}
+		"building": [0, 18]
 	},
 	{
 		"id": 115,
 		"name": "Anhänger Lüfter",
 		"short_name": "Anh Lüfter",
-		"class": ["firetrucks", "water_damage_pump"],
-		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
 		"cost": 10000,
 		"personal": {
 			"min": 0,
 			"max": 0
 		},
-		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
+		"building": [0, 18],
+		"additional": {
+			"trailer": true
 		}
 	},
 	{
 		"id": 116,
-		"name": "AB Lüfter",
+		"name": "Abrollbehälter Lüfter",
 		"short_name": "AB Lüfter",
-		"class": ["firetrucks", "water_damage_pump"],
-		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
-		"cost": 10000,
+		"cost": 7000,
 		"personal": {
 			"min": 0,
 			"max": 0
 		},
-		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
+		"building": [0, 18],
+		"additional": {
+			"trailer": true
 		}
 	},
 	{
 		"id": 117,
-		"name": "AB Tank",
-		"short_name": "AB Tank",
-		"class": ["firetrucks", "water_damage_pump"],
-		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
-		"cost": 10000,
+		"name": "Abrollbehälter Tank",
+		"short_name": "AB-Tank",
+		"cost": 4000,
 		"personal": {
 			"min": 0,
 			"max": 0
 		},
-		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
-		}	
+		"building": [0, 18],
+		"additional": {
+			"trailer": true,
+			"water": 10000 
+		}
 	},
 	{
 		"id": 118,
 		"name": "Kleintankwagen",
 		"short_name": "Kleintankwagen",
-		"class": ["firetrucks", "water_damage_pump"],
-		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
 		"cost": 10000,
 		"personal": {
-			"min": 0,
-			"max": 0
+			"min": 1,
+			"max": 3
 		},
-		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
-		}		
+		"building": [0, 18],
+		"additional": {
+			"water": 10000
+		}
 	},
 	{
 		"id": 119,
-		"name": "AB Lösch",
-		"short_name": "AB Lösch",
-		"class": ["firetrucks", "water_damage_pump"],
-		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
-		"cost": 10000,
+		"name": "Abrollbehälter Löschwasser",
+		"short_name": "AB-Lösch",
+		"cost": 8000,
 		"personal": {
 			"min": 0,
 			"max": 0
 		},
-		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
-		}	
+		"building": [0, 18],
+		"additional": {
+			"trailer": true,
+			"water": 8000
+		}
 	},
 	{
 		"id": 120,
 		"name": "Tankwagen",
 		"short_name": "Tankwagen",
-		"class": ["firetrucks", "water_damage_pump"],
-		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
+		"cost": 15000,
+		"personal": {
+			"min": 1,
+			"max": 3
+		},
+		"building": [0, 18],
+		"additional": {
+			"water": 20000
+		}
+	},
+	{
+		"id": 121,
+		"name": "Großtanklöschfahrzeuge",
+		"short_name": "GTLF",
 		"cost": 10000,
 		"personal": {
-			"min": 0,
-			"max": 0
+			"min": 1,
+			"max": 3
+		},
+		"building": [0, 18],
+		"additional": {
+			"water": 10000
+		}
+	},
+		{
+		"id": 122,
+		"name": "Lastkraftwagen Plane/Spriegel mit Ladebordwand, 7 t, Fachgruppe Elerktroversorgung",
+		"short_name": "LKW 7 Lbw (FGr E)",
+		"class": [],
+		"class_alias": [],
+		"cost": 15000,
+		"personal": {
+			"min": 1,
+			"max": 3
 		},
 		"building": [9],
-		"additional": {},
+		"additional": {
+			"qualification": [{"names": ["FGr E"]}]
+		},
 		"prerequisites": {
 			"thw": 1
 		}
 	},
 	{
-		"id": 121,
-		"name": "GTLF",
-		"short_name": "GTLF",
-		"class": ["firetrucks", "water_damage_pump"],
-		"class_alias": ["Löschfahrzeuge", "Feuerlöschpumpe"],
-		"cost": 10000,
-		"personal": {
-			"min": 0,
-			"max": 0
-		},
-		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
-		}	
-	},
-	{
-		"id": 122,
-		"name": "LKW 7 Lbw (FGr E)",
-		"short_name": "LKW 7 Lbw (FGr E)",
-		"class": [""],
-		"class_alias": [""],
-		"cost": 10000,
-		"personal": {
-			"min": 0,
-			"max": 0
-		},
-		"building": [9],
-		"additional": {},
-		"prerequisites": {
-			"thw": 1
-		}	
-	},
-	{
 		"id": 123,
-		"name": "LKW 7 Lbw (FGr WP)",
+		"name": "Lastkraftwagen Plane/Spriegel mit Ladebordwand, 7 t, Fachgruppe Wasserschaden/Pumpen",
 		"short_name": "LKW 7 Lbw (FGr WP)",
-		"class": [""],
-		"class_alias": [""],
-		"cost": 10000,
+		"class": [],
+		"class_alias": [],
+		"cost": 15000,
 		"personal": {
-			"min": 0,
-			"max": 0
+			"min": 1,
+			"max": 3
 		},
 		"building": [9],
-		"additional": {},
+		"additional": {
+			"qualification": [{"names": ["Fachgruppe Wasserschaden/Pumpen"]}]
+		},
 		"prerequisites": {
 			"thw": 1
-		}	
+		}
 	},
 	{
 		"id": 124,
-		"name": "Mannschaftstransportwagen Ortsverband",
+		"name": "Mannschaftstransportwagen des Ortsverbands",
 		"short_name": "MTW-OV",
-		"class": [""],
-		"class_alias": [""],
-		"cost": 10000,
+		"class": [],
+		"class_alias": [],
+		"cost": 15000,
 		"personal": {
-			"min": 0,
-			"max": 0
+			"min": 1,
+			"max": 7
 		},
 		"building": [9],
-		"additional": {},
 		"prerequisites": {
 			"thw": 1
 		}
 	},
 	{
 		"id": 125,
-		"name": "MTW-Tr UL",
-		"short_name": "MTW-Tr UL"
+		"name": "Mannschaftstransportwagen Trupp Unbemannte Luftfahrtsysteme",
+		"short_name": "MTW-Tr UL",
+		"class": [],
+		"class_alias": [],
+		"cost": 10000,
+		"personal": {
+			"min": 4,
+			"max": 4
+		},
+		"building": [9],
+		"additional": {
+			"qualification": [{"names": ["Tr UL"]}]
+		},
+		"prerequisites": {
+			"thw": 1
+		}
 	},
 	{
 		"id": 126,
-		"name": "MTF Drohne",
-		"short_name": "MTF Drohne"
+		"name": "Mannschaftstransportfahrzeug Drohne",
+		"short_name": "MTF Drohne",
+		"class": [],
+		"class_alias": [],
+		"cost": 10000,
+		"personal": {
+			"min": 4,
+			"max": 5
+		},
+		"building": [0, 18],
+		"additional": {
+			"qualification": [{"names": ["Drohnen-Schulung"]}]
+		},
+		"prerequisites": {
+			"fire_stations": 1
+		}
 	},
 	{
 		"id": 127,
-		"name": "GW UAS",
-		"short_name": "GW UAS"
+		"name": "Gerätewagen Drohne",
+		"short_name": "GW UAS",
+		"class": [],
+		"class_alias": [],
+		"cost": 10000,
+		"personal": {
+			"min": 4,
+			"max": 4
+		},
+		"building": [12],
+		"additional": {
+			"qualification": [{"names": ["SEG Drohne"]}]
+		},
+		"prerequisites": {
+			"seg": 1
+		}
 	},
 	{
 		"id": 128,
-		"name": "ELW Drohne",
-		"short_name": "ELW Drohne"
+		"name": "Einsatzleitwagen Drohne",
+		"short_name": "ELW Drohne",
+		"class": [],
+		"class_alias": [],
+		"cost": 20000,
+		"personal": {
+			"min": 4,
+			"max": 5
+		},
+		"building": [0, 18],
+		"additional": {
+			"qualification": [{"names": ["Drohnen-Schulung"]}]
+		},
+		"prerequisites": {
+			"fire_stations": 1
+		}
 	},
 	{
 		"id": 129,
-		"name": "ELW2 Drohne",
-		"short_name": "ELW2 Drohne"
+		"name": "Einsatzleitwagen 2 Drohne",
+		"short_name": "ELW2 Drohne",
+		"class": [],
+		"class_alias": [],
+		"cost": 35000,
+		"personal": {
+			"min": 4,
+			"max": 6
+		},
+		"building": [0, 18],
+		"additional": {
+			"qualification": [{"names": ["ELW 2", "Drohnen-Schulung"]}]
+		},
+		"prerequisites": {
+			"fire_stations": 1
+		}
 	},
 	{
 		"id": 130,
-		"name": "GW Betreuung",
-		"short_name": "GW-Bt"
+		"name": "Gerätewagen Betreuung",
+		"short_name": "GW-Bt",
+		"class": [],
+		"class_alias": [],
+		"cost": 35000,
+		"personal": {
+			"min": 3,
+			"max": 3
+		},
+		"building": [12],
+		"additional": {
+			"qualification": [{"names": ["Betreuungshelfer"], "min": 1, "max": 1}, {"names": ["Verpflegungshelfer"], "min": 2, "max": 2}]
+		},
+		"prerequisites": {
+			"seg": 1
+		}
 	},
 	{
 		"id": 131,
-		"name": "Betreuung Kombi",
-		"short_name": "Bt-Kombi"
+		"name": "Betreuungskombi",
+		"short_name": "Bt-Kombi",
+		"class": [],
+		"class_alias": [],
+		"cost": 25000,
+		"personal": {
+			"min": 1,
+			"max": 9
+		},
+		"building": [12],
+		"additional": {
+			"qualification": [{"names": ["Betreuungshelfer"]}]
+		},
+		"prerequisites": {
+			"seg": 1
+		}
 	},
 	{
 		"id": 132,
-		"name": "Anhänger Feldküche",
-		"short_name": "FKH"
+		"name": "Anhänger Feldkochherd",
+		"short_name": "FKH",
+		"class": [],
+		"class_alias": [],
+		"cost": 20000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [12],
+		"additional": {
+			"trailer": true
+		},
+		"prerequisites": {
+			"seg": 1
+		}
 	},
 	{
 		"id": 133,
-		"name": "Betreuung LKW",
-		"short_name": "Bt LKW"
-	},
-	{
-		"id": 134,
-		"name": "Pferdetransporter klein",
-		"short_name": "Pferdetransporter klein"
-	},
-	
-	{
-		"id": 135,
-		"name": "Pferdetransporter groß",
-		"short_name": "Pferdetransporter groß"
-	},
-	{
-		"id": 136,
-		"name": "Anh Pferdetransport",
-		"short_name": "Anh Pferdetransport"
-	},
-	{
-		"id": 137,
-		"name": "Zugfahrzeug Pferdetransport",
-		"short_name": "Zugfahrzeug Pferdetransport"
+		"name": "Betreuungs-Lastkraftwagen",
+		"short_name": "Bt LKW",
+		"class": [],
+		"class_alias": [],
+		"cost": 15000,
+		"personal": {
+			"min": 3,
+			"max": 3
+		},
+		"building": [12],
+		"additional": {
+			"qualification": [{"names": ["Betreuungshelfer"], "min": 1, "max": 1}, {"names": ["Verpflegungshelfer"], "min": 2, "max": 2}]
+		},
+		"prerequisites": {
+			"seg": 1
+		}
 	}
 ]
