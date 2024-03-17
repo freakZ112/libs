@@ -793,10 +793,10 @@
 	},
 	{
 		"id": 41,
-		"name": "Mehrzweckkraftwagen",
-		"short_name": "MzKW",
+		"name": "Mehrzweck-Gerätewagen der Fachgruppe N",
+		"short_name": "Mehrzweck-Gerätewagen der Fachgruppe N",
 		"class": ["thw_mzkw"],
-		"class_alias": ["MzKW"],
+		"class_alias": ["MzGW (FGr N)"],
 		"cost": 15000,
 		"personal": {
 			"min": 1,
@@ -1821,7 +1821,7 @@
 	{
 		"id": 93,
 		"name": "Mannschaftstransportwagen Ortsverband",
-		"short_name": "MTW-OV",
+		"short_name": "MTW-O (Hunde)",
 		"class": [],
 		"class_alias": [],
 		"cost": 19000,
