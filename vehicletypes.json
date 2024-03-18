@@ -2551,7 +2551,7 @@
 		"prerequisites": {
 			"seg": 1
 		}
-	},
+	},/*
 	{
 		"id": 134,
 		"name": "Pferdetransporter klein",
@@ -2596,5 +2596,5 @@
 		"id": 142,
 		"name": "AB-Küche",
 		"short_name": "AB-Küche",
-	}
+	}*/
 ]
