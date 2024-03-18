@@ -2551,5 +2551,12 @@
 		"prerequisites": {
 			"seg": 1
 		}
+	},
+	{
+		"id": 134,
+		"name": "Pferdetransporter-klein",
+		"short_name": "Pferde-klein",
+		"class": [],
+		"class_alias": [],
 	}
 ]
