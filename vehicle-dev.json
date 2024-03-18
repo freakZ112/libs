@@ -2551,10 +2551,5 @@
 		"prerequisites": {
 			"seg": 1
 		}
-	},
-	{
-		"id": 134,
-		"name": "Pferdetransporter klein",
-		"short_name": "Pferd-k",
 	}
 ]
