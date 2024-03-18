@@ -794,7 +794,7 @@
 	{
 		"id": 41,
 		"name": "Mehrzweck-Gerätewagen der Fachgruppe N",
-		"short_name": "Mehrzweck-Gerätewagen der Fachgruppe N",
+		"short_name": "MzGw N",
 		"class": ["thw_mzkw"],
 		"class_alias": ["MzGW (FGr N)"],
 		"cost": 15000,
