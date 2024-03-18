@@ -2552,23 +2552,50 @@
 			"seg": 1
 		}
 	},
+,
 	{
 		"id": 134,
-		"name": "Pferdetransporter-klein",
-		"short_name": "Pferde-klein",
-		"class": [],
-		"class_alias": [],
-		"cost": 15000,
-		"personal": {
-			"min": 3,
-			"max": 3
-		},
-		"building": [12],
-		"additional": {
-			"qualification": [{"names": ["Betreuungshelfer"], "min": 1, "max": 1}, {"names": ["Verpflegungshelfer"], "min": 2, "max": 2}]
-		},
-		"prerequisites": {
-			"seg": 1
-		}
+		"name": "Pferdetransporter klein",
+		"short_name": "Pferd-k"
+	},
+	{
+		"id": 135,
+		"name": "Pferdetransporter groß",
+		"short_name": "Pferd-g"
+	},
+	{
+		"id": 136,
+		"name": "Anh Pferdetransport",
+		"short_name": "Anh Pferd"
+	},
+	{
+		"id": 137,
+		"name": "Zugfahrzeug Pferdetransport",
+		"short_name": "Zugf. Pferd"
+	},
+	{
+		"id": 138,
+		"name": "GW-Verpflegung",
+		"short_name": "GW V"
+	},
+	{
+		"id": 139,
+		"name": "GW-Küche",
+		"short_name": "GW K"
+	},
+	{
+		"id": 140,
+		"name": "MTW-Verpflegung",
+		"short_name": "MTW-V"
+	},
+	{
+		"id": 141,
+		"name": "FKH (FW)",
+		"short_name": "FKH (FW)"
+	},
+	{
+		"id": 142,
+		"name": "AB-Küche",
+		"short_name": "AB-Küche"
 	}
 ]
