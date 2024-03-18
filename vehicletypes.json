@@ -2563,38 +2563,38 @@
 		"short_name": "Pferd-g",
 	},
 	{
-		"id": 136
+		"id": 136,
 		"name": "Anh Pferdetransport",
 		"short_name": "Anh Pferd",
 	},
 	{
-		"id": 137
+		"id": 137,
 		"name": "Zugfahrzeug Pferdetransport",
 		"short_name": "Zugf. Pferd",
 	},
 	{
-		"id": 138
+		"id": 138,
 		"name": "GW-Verpflegung",
 		"short_name": "GW V",
 	},
 	{
-		"id": 139
+		"id": 139,
 		"name": "GW-Küche",
 		"short_name": "GW K",
 	},
 	{
-		"id": 140
+		"id": 140,
 		"name": "MTW-Verpflegung",
 		"short_name": "MTW-V",
 	},
 	{
-		"id": 141
+		"id": 141,
 		"name": "FKH (FW)",
 		"short_name": "FKH (FW)",
 	},
 	{
-		"id": 142
+		"id": 142,
 		"name": "AB-Küche",
 		"short_name": "AB-Küche",
-	},
+	}
 ]
