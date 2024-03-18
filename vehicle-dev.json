@@ -2558,5 +2558,17 @@
 		"short_name": "Pferde-klein",
 		"class": [],
 		"class_alias": [],
+		"cost": 15000,
+		"personal": {
+			"min": 3,
+			"max": 3
+		},
+		"building": [12],
+		"additional": {
+			"qualification": [{"names": ["Betreuungshelfer"], "min": 1, "max": 1}, {"names": ["Verpflegungshelfer"], "min": 2, "max": 2}]
+		},
+		"prerequisites": {
+			"seg": 1
+		}
 	}
 ]
