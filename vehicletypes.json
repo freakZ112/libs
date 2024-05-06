@@ -2596,5 +2596,35 @@
 		"id": 142,
 		"name": "AB-Küche",
 		"short_name": "AB-Küche"
+	},
+	{
+		"id": 143,
+		"name": "Ahn Schlauch",
+		"short_name": "Ahn Schlauch"
+	},
+	{
+		"id": 144,
+		"name": "FüKW (THW)",
+		"short_name": "FüKW (THW)"
+	},
+	{
+		"id": 145,
+		"name": "FüKomKW",
+		"short_name": "FüKomKW"
+	},
+	{
+		"id": 146,
+		"name": "Ahn FüLa",
+		"short_name": "Ahn FüLa"
+	},
+	{
+		"id": 147,
+		"name": "FmKW",
+		"short_name": "FmKW"
+	},
+	{
+		"id": 148,
+		"name": "MTW-FGr K",
+		"short_name": "MTW-FGr K"
 	}
 ]
