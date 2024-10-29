@@ -969,5 +969,36 @@
         "name": "Seenotrettungswache",
         "max_level": 4,
         "extensions": []
+    },
+    {
+        "id": 27,
+        "name": "Schule für Seefahrt und Seenotrettung",
+        "max_level": 0,
+        "extensions": [
+            {
+                "id": 0,
+                "name": "Weiterer Klassenraum",
+                "cost": 400000,
+                "duration": 7
+            },
+            {
+                "id": 1,
+                "name": "Weiterer Klassenraum",
+                "cost": 400000,
+                "duration": 7
+            },
+            {
+                "id": 2,
+                "name": "Weiterer Klassenraum",
+                "cost": 400000,
+                "duration": 7
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Hubschrauberstation (Seenotrettung)",
+        "max_level": 0,
+        "extensions": []
     }	
 ]
