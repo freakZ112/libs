@@ -932,7 +932,7 @@
                 "duration": 5
             }
 		]
-	},/*
+	},
 	{
         "id": 25,
         "name": "Bergrettungswache",
@@ -1001,5 +1001,4 @@
         "max_level": 0,
         "extensions": []
     }
-	*/
 ]
