@@ -885,14 +885,6 @@
         "extensions": []
     },
     {
-        "id": 22,
-        "name": "Gebäudekomplex",
-        "class": [],
-        "class_alias": [],
-        "max_level": 20,
-        "extensions": []
-    },
-    {
         "id": 24,
         "name": "Reiterstaffel",
         "class": [
@@ -939,6 +931,74 @@
                 "cost": 300000,
                 "duration": 5
             }
+		]
+	},
+    {
+        "id": 25,
+        "name": "Bergrettungswache",
+        "max_level": 0,
+        "extensions": [
+            {
+                "id": 0,
+                "name": "Höhenrettung",
+                "cost": 50000,
+                "duration": 5
+            },
+            {
+                "id": 1,
+                "name": "Drohneneinheit",
+                "cost": 75000,
+                "duration": 5
+            },
+            {
+                "id": 2,
+                "name": "Rettungshundestaffel",
+                "cost": 350000,
+                "duration": 5
+            },
+            {
+                "id": 3,
+                "name": "Rettungsdienst",
+                "cost": 100000,
+                "duration": 7
+            }
         ]
-    }
+    },
+    {
+        "id": 26,
+        "name": "Seenotrettungswache",
+        "max_level": 4,
+        "extensions": []
+    },
+    {
+        "id": 27,
+        "name": "Schule für Seefahrt und Seenotrettung",
+        "max_level": 0,
+        "extensions": [
+            {
+                "id": 0,
+                "name": "Weiterer Klassenraum",
+                "cost": 400000,
+                "duration": 7
+            },
+            {
+                "id": 1,
+                "name": "Weiterer Klassenraum",
+                "cost": 400000,
+                "duration": 7
+            },
+            {
+                "id": 2,
+                "name": "Weiterer Klassenraum",
+                "cost": 400000,
+                "duration": 7
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Hubschrauberstation (Seenotrettung)",
+        "max_level": 0,
+        "extensions": []
+    }	
 ]
