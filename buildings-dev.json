@@ -963,6 +963,11 @@
                 "duration": 7
             }
         ]
-    }
-	
+    },
+{
+        "id": 26,
+        "name": "Seenotrettungswache",
+        "max_level": 4,
+        "extensions": []
+    }	
 ]
