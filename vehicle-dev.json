@@ -2626,5 +2626,70 @@
 		"id": 148,
 		"name": "MTW-FGr K",
 		"short_name": "MTW-FGr K"
+	},
+		{
+		"id": 149,
+		"name": "GW-Bergrettung (NEF)",
+		"short_name": "GW-Bergrettung (NEF)"
+	},
+		{
+		"id": 150,
+		"name": "GW-Bergrettung",
+		"short_name": "GW-Bergrettung"
+	},
+		{
+		"id": 151,
+		"name": "ELW Bergrettung",
+		"short_name": "ELW Bergrettung"
+	},
+		{
+		"id": 152,
+		"name": "ATV",
+		"short_name": "ATV"
+	},
+		{
+		"id": 153,
+		"name": "Hundestaffel (Bergrettung)",
+		"short_name": "Hundestaffel (Bergrettung)"
+	},
+		{
+		"id": 154,
+		"name": "Schneefahrzeug",
+		"short_name": "Schneefahrzeug"
+	},
+		{
+		"id": 155,
+		"name": "Anh Höhenrettung (Bergrettung)",
+		"short_name": "Anh Höhenrettung (Bergrettung)"
+	},
+		{
+		"id": 156,
+		"name": "Polizeihubschrauber mit verbauter Winde",
+		"short_name": "Polizeihubschrauber mit verbauter Winde"
+	},
+		{
+		"id": 157,
+		"name": "RTH Winde",
+		"short_name": "RTH Winde"
+	},
+		{
+		"id": 158,
+		"name": "GW-Höhenrettung (Bergrettung)",
+		"short_name": "GW-Höhenrettung (Bergrettung)"
+	},
+		{
+		"id": 159,
+		"name": "Seenotrettungskreuzer",
+		"short_name": "Seenotrettungskreuzer"
+	},
+		{
+		"id": 160,
+		"name": "Seenotrettungsboot",
+		"short_name": "Seenotrettungsboot"
+	},
+		{
+		"id": 161,
+		"name": "Hubschrauber (Seenotrettung)",
+		"short_name": "Hubschrauber (Seenotrettung)"
 	}
 ]
