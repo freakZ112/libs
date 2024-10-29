@@ -885,14 +885,6 @@
         "extensions": []
     },
     {
-        "id": 22,
-        "name": "Gebäudekomplex",
-        "class": [],
-        "class_alias": [],
-        "max_level": 20,
-        "extensions": []
-    },
-    {
         "id": 24,
         "name": "Reiterstaffel",
         "class": [
@@ -938,16 +930,12 @@
                 "name": "Reiterstaffel",
                 "cost": 300000,
                 "duration": 5
-            },
-{
+            }
+		]
+	},
+	{
         "id": 25,
         "name": "Bergrettungswache",
-        "class": [
-            "police_horse"
-        ],
-        "class_alias": [
-            "Reiterstaffel"
-        ],
         "max_level": 0,
         "extensions": [
             {
@@ -975,5 +963,45 @@
                 "duration": 7
             }
         ]
-    }
+    },
+	{
+        "id": 26,
+        "name": "Seenotrettungswache",
+        "max_level": 4,
+        "extensions": [
+        ]
+    },
+	{
+        "id": 27,
+        "name": "Schule für Seefahrt und Seenotrettung",
+        "max_level": 0,
+        "extensions": [
+            {
+                "id": 0,
+                "name": "Weiterer Klassenraum",
+                "cost": 400000,
+                "duration": 7
+            },
+            {
+                "id": 1,
+                "name": "Weiterer Klassenraum",
+                "cost": 400000,
+                "duration": 7
+            },
+            {
+                "id": 2,
+                "name": "Weiterer Klassenraum",
+                "cost": 400000,
+                "duration": 7
+            }
+        ]
+    },
+	{
+        "id": 28,
+        "name": "Hubschrauberstation (Seenotrettung)",
+        "max_level": 0,
+        "extensions": [
+        ]
+    },
+	
 ]
