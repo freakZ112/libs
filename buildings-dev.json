@@ -968,8 +968,7 @@
         "id": 26,
         "name": "Seenotrettungswache",
         "max_level": 4,
-        "extensions": [
-        ]
+        "extensions": []
     },
 	{
         "id": 27,
@@ -1000,8 +999,7 @@
         "id": 28,
         "name": "Hubschrauberstation (Seenotrettung)",
         "max_level": 0,
-        "extensions": [
-        ]
+        "extensions": []
     }
 	
 ]
