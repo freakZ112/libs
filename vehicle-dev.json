@@ -1081,7 +1081,7 @@
 		"id": 56,
 		"name": "Kommandowagen - für den OrgL",
 		"short_name": "KdoW-OrgL",
-		"class": ["OrgL],
+		"class": ["OrgL"],
 		"class_alias": [],
 		"cost": 20000,
 		"personal": {
