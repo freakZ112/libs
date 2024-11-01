@@ -1061,7 +1061,7 @@
 		"id": 55,
 		"name": "Kommandowagen - für den LNA",
 		"short_name": "KdoW-LNA",
-		"class": [],
+		"class": ["LNA"],
 		"class_alias": [],
 		"cost": 20000,
 		"personal": {
@@ -1081,7 +1081,7 @@
 		"id": 56,
 		"name": "Kommandowagen - für den OrgL",
 		"short_name": "KdoW-OrgL",
-		"class": [],
+		"class": ["OrgL],
 		"class_alias": [],
 		"cost": 20000,
 		"personal": {
@@ -2072,7 +2072,7 @@
 		"name": "Gerätewagen Logistik 2",
 		"short_name": "GW-L2",
 		"class": [],
-		"class_alias": [],
+		"class_alias": ["Schlauchwagen"],
 		"cost": 12000,
 		"personal": {
 			"min": 1,
@@ -2150,6 +2150,7 @@
 		"id": 109,
 		"name": "Mehrzweck-Gerätewagen (SB)",
 		"short_name": "MzGW SB",
+		"class": ["heavy_rescue"],
 		"cost": 15000,
 		"personal": {
 			"min": 1,
@@ -2164,6 +2165,7 @@
 		"id": 110,
 		"name": "Netzersatzanlage 50 kVA",
 		"short_name": "NEA50 (THW)",
+		"class": ["energy_supply"],
 		"cost": 10000,
 		"personal": {
 			"min": 0,
@@ -2178,6 +2180,7 @@
 		"id": 111,
 		"name": "NEA50",
 		"short_name": "NEA50 (FW)",
+		"class": ["energy_supply"],
 		"cost": 10000,
 		"personal": {
 			"min": 0,
@@ -2192,6 +2195,7 @@
 		"id": 112,
 		"name": "Netzersatzanlage 200 kVA",
 		"short_name": "NEA200 (THW)",
+		"class": ["energy_supply_2"],
 		"cost": 50000,
 		"personal": {
 			"min": 0,
@@ -2206,6 +2210,7 @@
 		"id": 113,
 		"name": "NEA200",
 		"short_name": "NEA200 (FW)",
+		"class": ["energy_supply_2"],
 		"cost": 50000,
 		"personal": {
 			"min": 0,
@@ -2220,6 +2225,7 @@
 		"id": 114,
 		"name": "Gerätewagen Lüfter",
 		"short_name": "GW-Lüfter",
+		"class": ["ventilation"],
 		"cost": 25000,
 		"personal": {
 			"min": 1,
@@ -2231,6 +2237,7 @@
 		"id": 115,
 		"name": "Anhänger Lüfter",
 		"short_name": "Anh Lüfter",
+		"class": ["ventilation"],
 		"cost": 10000,
 		"personal": {
 			"min": 0,
@@ -2245,6 +2252,7 @@
 		"id": 116,
 		"name": "Abrollbehälter Lüfter",
 		"short_name": "AB Lüfter",
+		"class": ["ventilation"],
 		"cost": 7000,
 		"personal": {
 			"min": 0,
@@ -2259,6 +2267,7 @@
 		"id": 117,
 		"name": "Abrollbehälter Tank",
 		"short_name": "AB-Tank",
+		"class": ["water_tankers"],
 		"cost": 4000,
 		"personal": {
 			"min": 0,
@@ -2274,6 +2283,7 @@
 		"id": 118,
 		"name": "Kleintankwagen",
 		"short_name": "Kleintankwagen",
+		"class": ["water_tankers", "firetrucks"]
 		"cost": 10000,
 		"personal": {
 			"min": 1,
@@ -2288,6 +2298,7 @@
 		"id": 119,
 		"name": "Abrollbehälter Löschwasser",
 		"short_name": "AB-Lösch",
+		"class": [],
 		"cost": 8000,
 		"personal": {
 			"min": 0,
@@ -2303,6 +2314,7 @@
 		"id": 120,
 		"name": "Tankwagen",
 		"short_name": "Tankwagen",
+		"class": ["water_tankers", "firetrucks"]
 		"cost": 15000,
 		"personal": {
 			"min": 1,
@@ -2317,6 +2329,7 @@
 		"id": 121,
 		"name": "Großtanklöschfahrzeuge",
 		"short_name": "GTLF",
+		"class": ["water_tankers", "firetrucks"]
 		"cost": 10000,
 		"personal": {
 			"min": 1,
@@ -2385,7 +2398,7 @@
 		"id": 125,
 		"name": "Mannschaftstransportwagen Trupp Unbemannte Luftfahrtsysteme",
 		"short_name": "MTW-Tr UL",
-		"class": [],
+		"class": ["drone"],
 		"class_alias": [],
 		"cost": 10000,
 		"personal": {
@@ -2404,7 +2417,7 @@
 		"id": 126,
 		"name": "Mannschaftstransportfahrzeug Drohne",
 		"short_name": "MTF Drohne",
-		"class": [],
+		"class": ["drone"],
 		"class_alias": [],
 		"cost": 10000,
 		"personal": {
@@ -2423,7 +2436,7 @@
 		"id": 127,
 		"name": "Gerätewagen Drohne",
 		"short_name": "GW UAS",
-		"class": [],
+		"class": ["drone"],
 		"class_alias": [],
 		"cost": 10000,
 		"personal": {
@@ -2442,7 +2455,7 @@
 		"id": 128,
 		"name": "Einsatzleitwagen Drohne",
 		"short_name": "ELW Drohne",
-		"class": [],
+		"class": ["battalion_chief_vehicles", "drone"],
 		"class_alias": [],
 		"cost": 20000,
 		"personal": {
@@ -2461,7 +2474,7 @@
 		"id": 129,
 		"name": "Einsatzleitwagen 2 Drohne",
 		"short_name": "ELW2 Drohne",
-		"class": [],
+		"class": ["mobile_command_vehicles", "battalion_chief_vehicles", "drone"],
 		"class_alias": [],
 		"cost": 35000,
 		"personal": {
@@ -2480,7 +2493,7 @@
 		"id": 130,
 		"name": "Gerätewagen Betreuung",
 		"short_name": "GW-Bt",
-		"class": [],
+		"class": ["fire_care_service"],
 		"class_alias": [],
 		"cost": 35000,
 		"personal": {
@@ -2499,7 +2512,7 @@
 		"id": 131,
 		"name": "Betreuungskombi",
 		"short_name": "Bt-Kombi",
-		"class": [],
+		"class": ["fire_care_service"],
 		"class_alias": [],
 		"cost": 25000,
 		"personal": {
@@ -2518,7 +2531,7 @@
 		"id": 132,
 		"name": "Anhänger Feldkochherd",
 		"short_name": "FKH",
-		"class": [],
+		"class": ["fire_care_service"],
 		"class_alias": [],
 		"cost": 20000,
 		"personal": {
@@ -2537,7 +2550,7 @@
 		"id": 133,
 		"name": "Betreuungs-Lastkraftwagen",
 		"short_name": "Bt LKW",
-		"class": [],
+		"class": ["fire_care_service"],
 		"class_alias": [],
 		"cost": 15000,
 		"personal": {
@@ -2555,141 +2568,169 @@
 	{
 		"id": 134,
 		"name": "Pferdetransporter klein",
-		"short_name": "Pferd-k"
+		"short_name": "Pferd-k",
+		"class": ["police_horse"]
 	},
 	{
 		"id": 135,
 		"name": "Pferdetransporter groß",
-		"short_name": "Pferd-g"
+		"short_name": "Pferd-g",
+		"class": ["police_horse"]
 	},
 	{
 		"id": 136,
 		"name": "Anh Pferdetransport",
-		"short_name": "Anh Pferd"
+		"short_name": "Anh Pferd",
+		"class": ["police_horse"]
 	},
 	{
 		"id": 137,
 		"name": "Zugfahrzeug Pferdetransport",
-		"short_name": "Zugf. Pferd"
+		"short_name": "Zugf. Pferd",
+		"class": ["police_horse"]
 	},
 	{
 		"id": 138,
 		"name": "GW-Verpflegung",
-		"short_name": "GW V"
+		"short_name": "GW V",
+		"class": ["fire_care_service"]
 	},
 	{
 		"id": 139,
 		"name": "GW-Küche",
-		"short_name": "GW K"
+		"short_name": "GW K",
+		"class": ["fire_care_service"]
 	},
 	{
 		"id": 140,
 		"name": "MTW-Verpflegung",
-		"short_name": "MTW-V"
+		"short_name": "MTW-V",
+		"class": ["fire_care_service"]
 	},
 	{
 		"id": 141,
 		"name": "FKH (FW)",
-		"short_name": "FKH (FW)"
+		"short_name": "FKH (FW)",
+		"class": ["fire_care_service"]
 	},
 	{
 		"id": 142,
 		"name": "AB-Küche",
-		"short_name": "AB-Küche"
+		"short_name": "AB-Küche",
+		"class": ["fire_care_service"]
 	},
 	{
 		"id": 143,
-		"name": "Ahn Schlauch",
-		"short_name": "Ahn Schlauch"
+		"name": "Anh Schlauch",
+		"short_name": "Anh Schlauch",
+		"class": []
 	},
 	{
 		"id": 144,
 		"name": "FüKW (THW)",
-		"short_name": "FüKW (THW)"
+		"short_name": "FüKW (THW)",
+		"class": ["thw_command"]
 	},
 	{
 		"id": 145,
 		"name": "FüKomKW",
-		"short_name": "FüKomKW"
+		"short_name": "FüKomKW",
+		"class": ["thw_command_2"]
 	},
 	{
 		"id": 146,
-		"name": "Ahn FüLa",
-		"short_name": "Ahn FüLa"
+		"name": "Anh FüLa",
+		"short_name": "Anh FüLa",
+		"class": ["thw_command_trailer"]
 	},
 	{
 		"id": 147,
 		"name": "FmKW",
-		"short_name": "FmKW"
+		"short_name": "FmKW",
+		"class": ["thw_command_3"]
 	},
 	{
 		"id": 148,
 		"name": "MTW-FGr K",
-		"short_name": "MTW-FGr K"
+		"short_name": "MTW-FGr K",
+		"class": ["thw_command_4"]
 	},
 		{
 		"id": 149,
 		"name": "GW-Bergrettung (NEF)",
-		"short_name": "GW-Bergrettung (NEF)"
+		"short_name": "GW-Bergrettung (NEF)",
+		"class": ["mountain_equipment", "nef"]
 	},
 		{
 		"id": 150,
 		"name": "GW-Bergrettung",
-		"short_name": "GW-Bergrettung"
+		"short_name": "GW-Bergrettung",
+		"class": ["mountain_equipment"]
 	},
 		{
 		"id": 151,
 		"name": "ELW Bergrettung",
-		"short_name": "ELW Bergrettung"
+		"short_name": "ELW Bergrettung",
+		"class": ["mountain_equipment", "mountain_command"]
 	},
 		{
 		"id": 152,
 		"name": "ATV",
-		"short_name": "ATV"
+		"short_name": "ATV",
+		"class": ["mountain_atv"]
 	},
 		{
 		"id": 153,
 		"name": "Hundestaffel (Bergrettung)",
-		"short_name": "Hundestaffel (Bergrettung)"
+		"short_name": "Hundestaffel (Bergrettung)",
+		"class": ["rescue_dog_units"]
 	},
 		{
 		"id": 154,
 		"name": "Schneefahrzeug",
-		"short_name": "Schneefahrzeug"
+		"short_name": "Schneefahrzeug",
+		"class": ["mountain_atv"]
 	},
 		{
 		"id": 155,
 		"name": "Anh Höhenrettung (Bergrettung)",
-		"short_name": "Anh Höhenrettung (Bergrettung)"
+		"short_name": "Anh Höhenrettung (Bergrettung)",
+		"class": ["mountain_height_rescue"]
 	},
 		{
 		"id": 156,
 		"name": "Polizeihubschrauber mit verbauter Winde",
-		"short_name": "Polizeihubschrauber mit verbauter Winde"
+		"short_name": "Polizeihubschrauber mit verbauter Winde",
+		"class": ["lift"]
 	},
 		{
 		"id": 157,
 		"name": "RTH Winde",
-		"short_name": "RTH Winde"
+		"short_name": "RTH Winde",
+		"class": ["lift"]
 	},
 		{
 		"id": 158,
 		"name": "GW-Höhenrettung (Bergrettung)",
-		"short_name": "GW-Höhenrettung (Bergrettung)"
+		"short_name": "GW-Höhenrettung (Bergrettung)",
+		"class": ["mountain_height_rescue"]
 	},
 		{
 		"id": 159,
 		"name": "Seenotrettungskreuzer",
-		"short_name": "Seenotrettungskreuzer"
+		"short_name": "Seenotrettungskreuzer",
+		"class": ["coastal_boat_large", "oneof_coastal_rescue_boat_or_boat_large"]
 	},
 		{
 		"id": 160,
 		"name": "Seenotrettungsboot",
-		"short_name": "Seenotrettungsboot"
+		"short_name": "Seenotrettungsboot",
+		"class": ["oneof_coastal_rescue_boat_or_boat_large"]
 	},
 		{
 		"id": 161,
 		"name": "Hubschrauber (Seenotrettung)",
-		"short_name": "Hubschrauber (Seenotrettung)"
+		"short_name": "Hubschrauber (Seenotrettung)",
+		"class": ["coastal_helicopter"]
 	}
 ]
