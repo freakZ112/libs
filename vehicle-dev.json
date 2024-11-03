@@ -3840,7 +3840,11 @@
         "short_name": "Pferd-k",
         "class": [
             "police_horse"
-        ]
+        ],
+		"personal": {
+			"min": 2,
+			"max": 4
+		}
     },
     {
         "id": 135,
@@ -3848,7 +3852,11 @@
         "short_name": "Pferd-g",
         "class": [
             "police_horse"
-        ]
+        ],
+		"personal": {
+			"min": 2,
+			"max": 2
+		}
     },
     {
         "id": 136,
@@ -3856,7 +3864,14 @@
         "short_name": "Anh Pferd",
         "class": [
             "police_horse"
-        ]
+        ],		
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+        "additional": {
+			"trailer": true
+        }
     },
     {
         "id": 137,
@@ -3864,7 +3879,11 @@
         "short_name": "Zugf. Pferd",
         "class": [
             "police_horse"
-        ]
+        ],
+		"personal": {
+            "min": 1,
+            "max": 6
+        }
     },
     {
         "id": 138,
@@ -3872,7 +3891,11 @@
         "short_name": "GW V",
         "class": [
             "fire_care_service"
-        ]
+        ],		
+		"personal": {
+			"min": 3,
+			"max": 6
+		}
     },
     {
         "id": 139,
@@ -3880,7 +3903,11 @@
         "short_name": "GW K",
         "class": [
             "fire_care_service"
-        ]
+        ],		
+		"personal": {
+			"min": 1,
+			"max": 2
+		}
     },
     {
         "id": 140,
@@ -3888,7 +3915,11 @@
         "short_name": "MTW-V",
         "class": [
             "fire_care_service"
-        ]
+        ],		
+		"personal": {
+			"min": 6,
+			"max": 6
+		}
     },
     {
         "id": 141,
@@ -3896,7 +3927,14 @@
         "short_name": "FKH (FW)",
         "class": [
             "fire_care_service"
-        ]
+        ],		
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+        "additional": {
+            "trailer": true
+        }
     },
     {
         "id": 142,
@@ -3904,13 +3942,28 @@
         "short_name": "AB-Küche",
         "class": [
             "fire_care_service"
-        ]
+        ],		
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+        "additional": {
+            "trailer": true
+        }
     },
     {
         "id": 143,
         "name": "Anh Schlauch",
         "short_name": "Anh Schlauch",
         "class": []
+		,		
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+        "additional": {
+            "trailer": true
+        }
     },
     {
         "id": 144,
@@ -3918,7 +3971,11 @@
         "short_name": "FüKW (THW)",
         "class": [
             "thw_command"
-        ]
+        ],		
+		"personal": {
+			"min": 1,
+			"max": 4
+		}
     },
     {
         "id": 145,
@@ -3926,7 +3983,11 @@
         "short_name": "FüKomKW",
         "class": [
             "thw_command_2"
-        ]
+        ],		
+		"personal": {
+			"min": 1,
+			"max": 7
+		}
     },
     {
         "id": 146,
@@ -3934,7 +3995,14 @@
         "short_name": "Anh FüLa",
         "class": [
             "thw_command_trailer"
-        ]
+        ],		
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+        "additional": {
+            "trailer": true
+        }
     },
     {
         "id": 147,
@@ -3942,7 +4010,11 @@
         "short_name": "FmKW",
         "class": [
             "thw_command_3"
-        ]
+        ],		
+		"personal": {
+			"min": 1,
+			"max": 7
+		}
     },
     {
         "id": 148,
@@ -3950,7 +4022,11 @@
         "short_name": "MTW-FGr K",
         "class": [
             "thw_command_4"
-        ]
+        ],		
+		"personal": {
+			"min": 4,
+			"max": 4
+		}
     },
     {
         "id": 149,
@@ -3959,7 +4035,11 @@
         "class": [
             "mountain_equipment",
             "nef"
-        ]
+        ],		
+		"personal": {
+			"min": 3,
+			"max": 6
+		}
     },
     {
         "id": 150,
@@ -3967,7 +4047,11 @@
         "short_name": "GW-Bergrettung",
         "class": [
             "mountain_equipment"
-        ]
+        ],		
+		"personal": {
+			"min": 3,
+			"max": 6
+		}
     },
     {
         "id": 151,
@@ -3976,7 +4060,11 @@
         "class": [
             "mountain_equipment",
             "mountain_command"
-        ]
+        ],		
+		"personal": {
+			"min": 1,
+			"max": 3
+		}
     },
     {
         "id": 152,
@@ -3984,7 +4072,11 @@
         "short_name": "ATV",
         "class": [
             "mountain_atv"
-        ]
+        ],		
+		"personal": {
+			"min": 1,
+			"max": 1
+		}
     },
     {
         "id": 153,
@@ -3992,7 +4084,11 @@
         "short_name": "Hundestaffel (Bergrettung)",
         "class": [
             "rescue_dog_units"
-        ]
+        ],		
+		"personal": {
+			"min": 4,
+			"max": 5
+		}
     },
     {
         "id": 154,
@@ -4000,7 +4096,11 @@
         "short_name": "Schneefahrzeug",
         "class": [
             "mountain_atv"
-        ]
+        ],		
+		"personal": {
+			"min": 1,
+			"max": 1
+		}
     },
     {
         "id": 155,
@@ -4008,7 +4108,14 @@
         "short_name": "Anh Höhenrettung (Bergrettung)",
         "class": [
             "mountain_height_rescue"
-        ]
+        ],		
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+        "additional": {
+            "trailer": true
+        }
     },
     {
         "id": 156,
@@ -4016,7 +4123,11 @@
         "short_name": "Polizeihubschrauber mit verbauter Winde",
         "class": [
             "lift"
-        ]
+        ],		
+		"personal": {
+			"min": 1,
+			"max": 3
+		}
     },
     {
         "id": 157,
@@ -4024,7 +4135,11 @@
         "short_name": "RTH Winde",
         "class": [
             "lift"
-        ]
+        ],		
+		"personal": {
+			"min": 1,
+			"max": 2
+		}
     },
     {
         "id": 158,
@@ -4032,7 +4147,11 @@
         "short_name": "GW-Höhenrettung (Bergrettung)",
         "class": [
             "mountain_height_rescue"
-        ]
+        ],		
+		"personal": {
+			"min": 4,
+			"max": 4
+		}
     },
     {
         "id": 159,
@@ -4041,7 +4160,11 @@
         "class": [
             "coastal_boat_large",
             "oneof_coastal_rescue_boat_or_boat_large"
-        ]
+        ],		
+		"personal": {
+			"min": 4,
+			"max": 9
+		}
     },
     {
         "id": 160,
@@ -4049,7 +4172,11 @@
         "short_name": "Seenotrettungsboot",
         "class": [
             "oneof_coastal_rescue_boat_or_boat_large"
-        ]
+        ],		
+		"personal": {
+			"min": 1,
+			"max": 2
+		}
     },
     {
         "id": 161,
@@ -4057,6 +4184,10 @@
         "short_name": "Hubschrauber (Seenotrettung)",
         "class": [
             "coastal_helicopter"
-        ]
+        ],		
+		"personal": {
+			"min": 3,
+			"max": 4
+		}
     }
 ]
