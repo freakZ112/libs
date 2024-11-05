@@ -3014,12 +3014,10 @@
         "short_name": "Anh SwPu",
         "class": [
             "pump",
-            "water_tankers",
             "water_damage_pump"
         ],
         "class_alias": [
             "Schmutzwasserpumpe",
-            "Schlauchwagen",
             "Feuerlöschpumpe"
         ],
         "cost": 15000,
@@ -3045,12 +3043,10 @@
         "short_name": "Anh 7",
         "class": [
             "pump",
-            "water_tankers",
             "water_damage_pump"
         ],
         "class_alias": [
             "Schmutzwasserpumpe",
-            "Schlauchwagen",
             "Feuerlöschpumpe"
         ],
         "cost": 6000,
@@ -3384,7 +3380,7 @@
         "name": "Abrollbehälter Tank",
         "short_name": "AB-Tank",
         "class": [
-            "water_tankers"
+            "firetrucks"
         ],
         "cost": 4000,
         "personal": {
@@ -3405,7 +3401,6 @@
         "name": "Kleintankwagen",
         "short_name": "Kleintankwagen",
         "class": [
-            "water_tankers",
             "firetrucks"
         ],
         "cost": 10000,
@@ -3445,7 +3440,6 @@
         "name": "Tankwagen",
         "short_name": "Tankwagen",
         "class": [
-            "water_tankers",
             "firetrucks"
         ],
         "cost": 15000,
@@ -3466,7 +3460,6 @@
         "name": "Großtanklöschfahrzeuge",
         "short_name": "GTLF",
         "class": [
-            "water_tankers",
             "firetrucks"
         ],
         "cost": 10000,
