@@ -1002,6 +1002,16 @@
     "maxpersonnel": 2,
     "water": 0,
     "foam": 0
+  },
+ {
+    "id": 109,
+    "short_name": "CCTU",
+    "coins": 30,
+    "credits": 10000,
+    "minpersonnel": 2,
+    "maxpersonnel": 2,
+    "water": 0,
+    "foam": 0
   }
 
 
