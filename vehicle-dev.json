@@ -878,11 +878,9 @@
         "short_name": "RTH",
         "class": [
             "helicopter",
-            "nef"
         ],
         "class_alias": [
             "RTH",
-            "Notarzt"
         ],
         "cost": 300000,
         "personal": {
