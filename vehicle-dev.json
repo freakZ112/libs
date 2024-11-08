@@ -877,10 +877,10 @@
         "name": "Rettungshubschrauber",
         "short_name": "RTH",
         "class": [
-            "helicopter",
+            "helicopter"
         ],
         "class_alias": [
-            "RTH",
+            "RTH"
         ],
         "cost": 300000,
         "personal": {
