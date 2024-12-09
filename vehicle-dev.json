@@ -9,7 +9,38 @@
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe"{
+        "id": 30,
+        "name": "HLF 20",
+        "short_name": "HLF 20",
+        "class": [
+            "firetrucks",
+            "water_damage_pump",
+            "heavy_rescue_vehicles"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe",
+            "Rüstwagen"
+        ],
+        "cost": 20000,
+        "personal": {
+            "min": 1,
+            "max": 9
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+            "water": 1600,
+            "pump_engine": 2000,
+            "rank": "Gruppenführer(in)"
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
         ],
         "cost": 5000,
         "personal": {
@@ -4180,5 +4211,87 @@
 			"min": 3,
 			"max": 4
 		}
-    }
+    },
+    {
+        "id": 162,
+        "name": "Rüstwagen-Schiene",
+        "short_name": "RW-Schiene",
+        "class": [
+            "heavy_rescue_vehicles"
+        ],
+        "class_alias": [
+            "Rüstwagen-Schiene"
+        ],
+        "cost": 18500,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {},
+        "prerequisites": {
+            "fire_stations": 4
+        }
+    },
+    {
+        "id": 163,
+        "name": "HLF Schiene",
+        "short_name": "HLF Schiene",
+        "class": [
+            "firetrucks",
+            "water_damage_pump",
+            "heavy_rescue_vehicles"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe",
+            "Rüstwagen"
+        ],
+        "cost": 30000,
+        "personal": {
+            "min": 1,
+            "max": 9
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+            "water": 1460,
+            "pump_engine": 2400,
+            "rank": "Gruppenführer(in)"
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
+    {
+        "id": 164,
+        "name": "Abrollbehälter-Schiene",
+        "short_name": "AB-Schiene",
+        "class": [
+            "heavy_rescue_vehicles"
+        ],
+        "class_alias": [
+            "Rüstwagen"
+        ],
+        "cost": 7000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+            "trailer": true
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
 ]
