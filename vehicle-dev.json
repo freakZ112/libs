@@ -9,20 +9,8 @@
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"{
-        "id": 30,
-        "name": "HLF 20",
-        "short_name": "HLF 20",
-        "class": [
-            "firetrucks",
-            "water_damage_pump",
-            "heavy_rescue_vehicles"
-        ],
-        "class_alias": [
-            "Löschfahrzeuge",
-            "Feuerlöschpumpe",
-            "Rüstwagen"
-        ],
+            "Feuerlöschpumpe"
+		],
         "cost": 20000,
         "personal": {
             "min": 1,
@@ -36,24 +24,6 @@
             "water": 1600,
             "pump_engine": 2000,
             "rank": "Gruppenführer(in)"
-        },
-        "prerequisites": {
-            "fire_stations": 1
-        }
-    },
-        ],
-        "cost": 5000,
-        "personal": {
-            "min": 1,
-            "max": 9
-        },
-        "building": [
-            0,
-            18
-        ],
-        "additional": {
-            "water": 2000,
-            "pump_engine": 2000
         },
         "prerequisites": {
             "fire_stations": 1
