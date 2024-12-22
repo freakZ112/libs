@@ -3015,8 +3015,8 @@
     "additional": {
       "possible_patient": 3,
       "filter_id": "firehouse_missions",
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
+      "date_start": "2025-01-03T10:00:00Z",
+      "date_end": "2025-03-03T22:59:00Z",
       "patient_specialization_ids": [
         4
       ],
@@ -22194,532 +22194,6 @@
     ]
   },
   {
-    "id": "259",
-    "name": "Brennender PKW durch Feuerwerkskörper",
-    "place": "",
-    "place_array": [],
-    "average_credits": 370,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "firetrucks": 1
-    },
-    "chances": {},
-    "additional": {
-      "expansion_missions_ids": [
-        28,
-        138,
-        141,
-        146
-      ],
-      "filter_id": "firehouse_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "fire_stations": 1
-    },
-    "overlay_index": null,
-    "base_mission_id": 259,
-    "additive_overlays": "",
-    "mission_categories": [
-      "fire"
-    ]
-  },
-  {
-    "id": "259-0",
-    "name": "Brennender PKW (E-Auto)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 800,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "battalion_chief_vehicles": 1,
-      "firetrucks": 2,
-      "police_cars": 1
-    },
-    "chances": {
-      "battalion_chief_vehicles": 25,
-      "police_cars": 30
-    },
-    "additional": {
-      "expansion_missions_ids": [
-        28,
-        138,
-        141,
-        146
-      ],
-      "filter_id": "firehouse_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "police_stations": 1,
-      "fire_stations": 2
-    },
-    "overlay_index": 0,
-    "base_mission_id": 259,
-    "additive_overlays": "",
-    "mission_categories": [
-      "fire"
-    ]
-  },
-  {
-    "id": "260",
-    "name": "Sperrmüllbrand durch Feuerwerkskörper",
-    "place": "",
-    "place_array": [],
-    "average_credits": 220,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "firetrucks": 1
-    },
-    "chances": {},
-    "additional": {
-      "filter_id": "firehouse_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "fire_stations": 1
-    },
-    "overlay_index": null,
-    "base_mission_id": 260,
-    "additive_overlays": "",
-    "mission_categories": [
-      "fire"
-    ]
-  },
-  {
-    "id": "261",
-    "name": "Kleiner Feldbrand durch Feuerwerkskörper",
-    "place": "",
-    "place_array": [],
-    "average_credits": 1000,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "firetrucks": 2
-    },
-    "chances": {},
-    "additional": {
-      "filter_id": "firehouse_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "fire_stations": 2
-    },
-    "overlay_index": null,
-    "base_mission_id": 261,
-    "additive_overlays": "",
-    "mission_categories": [
-      "fire"
-    ]
-  },
-  {
-    "id": "262",
-    "name": "Kellerbrand durch Feuerwerkskörper",
-    "place": "",
-    "place_array": [],
-    "average_credits": 2500,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "battalion_chief_vehicles": 1,
-      "firetrucks": 3
-    },
-    "chances": {
-      "battalion_chief_vehicles": 90,
-      "patient_transport": 30
-    },
-    "additional": {
-      "possible_patient": 2,
-      "filter_id": "firehouse_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "fire_stations": 3
-    },
-    "overlay_index": null,
-    "base_mission_id": 262,
-    "additive_overlays": "",
-    "mission_categories": [
-      "fire"
-    ]
-  },
-  {
-    "id": "263",
-    "name": "Brennendes Bus-Häuschen durch Feuerwerkskörper",
-    "place": "Bushaltestelle",
-    "place_array": [
-      "Bushaltestelle"
-    ],
-    "average_credits": 900,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "firetrucks": 1
-    },
-    "chances": {},
-    "additional": {
-      "filter_id": "firehouse_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "fire_stations": 3
-    },
-    "overlay_index": null,
-    "base_mission_id": 263,
-    "additive_overlays": "",
-    "mission_categories": [
-      "fire"
-    ]
-  },
-  {
-    "id": "264",
-    "name": "Feuer auf Balkon durch Feuerwerkskörper",
-    "place": "",
-    "place_array": [],
-    "average_credits": 1500,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "platform_trucks": 1,
-      "firetrucks": 2
-    },
-    "chances": {
-      "platform_trucks": 30
-    },
-    "additional": {
-      "expansion_missions_ids": [
-        447
-      ],
-      "filter_id": "firehouse_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "fire_stations": 2
-    },
-    "overlay_index": null,
-    "base_mission_id": 264,
-    "additive_overlays": "",
-    "mission_categories": [
-      "fire"
-    ]
-  },
-  {
-    "id": "265",
-    "name": "Brennende Papiercontainer durch Feuerwerkskörper",
-    "place": "",
-    "place_array": [],
-    "average_credits": 400,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "firetrucks": 1
-    },
-    "chances": {},
-    "additional": {
-      "filter_id": "firehouse_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "fire_stations": 1
-    },
-    "overlay_index": null,
-    "base_mission_id": 265,
-    "additive_overlays": "",
-    "mission_categories": [
-      "fire"
-    ]
-  },
-  {
-    "id": "266",
-    "name": "Brennende Hecke durch Feuerwerkskörper",
-    "place": "",
-    "place_array": [],
-    "average_credits": 400,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "firetrucks": 1
-    },
-    "chances": {},
-    "additional": {
-      "filter_id": "firehouse_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "fire_stations": 1
-    },
-    "overlay_index": null,
-    "base_mission_id": 266,
-    "additive_overlays": "",
-    "mission_categories": [
-      "fire"
-    ]
-  },
-  {
-    "id": "267",
-    "name": "Trunkenheitsfahrt nach Silvesterparty",
-    "place": "",
-    "place_array": [],
-    "average_credits": 150,
-    "generated_by": "",
-    "icons": [
-      "/images/icy_road_gruen.png",
-      "/images/icy_road_gelb.png",
-      "/images/icy_road_rot.png"
-    ],
-    "requirements": {
-      "police_cars": 1
-    },
-    "chances": {},
-    "additional": {
-      "filter_id": "police_station_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 6,
-      "police_stations": 1
-    },
-    "overlay_index": null,
-    "base_mission_id": 267,
-    "additive_overlays": "",
-    "mission_categories": [
-      "police"
-    ]
-  },
-  {
-    "id": "268",
-    "name": "Brennendes Reetdachhaus durch Feuerwerkskörper",
-    "place": "",
-    "place_array": [],
-    "average_credits": 4200,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "platform_trucks": 1,
-      "battalion_chief_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "firetrucks": 5,
-      "police_cars": 2
-    },
-    "chances": {
-      "mobile_air_vehicles": 30,
-      "nef": 50,
-      "patient_transport": 50
-    },
-    "additional": {
-      "possible_patient": 2,
-      "possible_patient_min": 1,
-      "filter_id": "firehouse_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "rescue_stations": 3,
-      "police_stations": 2,
-      "fire_stations": 7
-    },
-    "overlay_index": null,
-    "base_mission_id": 268,
-    "additive_overlays": "",
-    "mission_categories": [
-      "fire"
-    ]
-  },
-  {
-    "id": "268/a",
-    "name": "Brennendes Reetdachhaus durch Feuerwerkskörper",
-    "place": "",
-    "place_array": [],
-    "average_credits": 4600,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "platform_trucks": 1,
-      "battalion_chief_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "police_service_group_leader": 1,
-      "firetrucks": 5,
-      "police_cars": 2
-    },
-    "chances": {
-      "mobile_air_vehicles": 30,
-      "nef": 50,
-      "patient_transport": 50
-    },
-    "additional": {
-      "possible_patient": 2,
-      "possible_patient_min": 1,
-      "filter_id": "firehouse_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "rescue_stations": 3,
-      "police_stations": 5,
-      "police_service_group_leader": 3,
-      "fire_stations": 7
-    },
-    "overlay_index": null,
-    "base_mission_id": 268,
-    "additive_overlays": "a",
-    "mission_categories": [
-      "fire"
-    ]
-  },
-  {
-    "id": "269",
-    "name": "Kfz durch Feuerwerkskörper beschädigt",
-    "place": "",
-    "place_array": [],
-    "average_credits": 200,
-    "generated_by": "",
-    "icons": [
-      "/images/caraccident_gruen.png",
-      "/images/caraccident_gelb.png",
-      "/images/caraccident_rot.png"
-    ],
-    "requirements": {
-      "police_cars": 1
-    },
-    "chances": {},
-    "additional": {
-      "filter_id": "police_station_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 6,
-      "police_stations": 1
-    },
-    "overlay_index": null,
-    "base_mission_id": 269,
-    "additive_overlays": "",
-    "mission_categories": [
-      "police"
-    ]
-  },
-  {
-    "id": "270",
-    "name": "Verstoß gegen Sprengstoffverordnung",
-    "place": "",
-    "place_array": [],
-    "average_credits": 200,
-    "generated_by": "",
-    "icons": [
-      "/images/blast_gruen.png",
-      "/images/blast_gelb.png",
-      "/images/blast_rot.png"
-    ],
-    "requirements": {
-      "police_cars": 1
-    },
-    "chances": {},
-    "additional": {
-      "filter_id": "police_station_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 6,
-      "police_stations": 1
-    },
-    "overlay_index": null,
-    "base_mission_id": 270,
-    "additive_overlays": "",
-    "mission_categories": [
-      "police"
-    ]
-  },
-  {
     "id": "271",
     "name": "Beschädigter Kesselwagen",
     "place": "Güterbahnhof",
@@ -30203,48 +29677,6 @@
     "additive_overlays": "a",
     "mission_categories": [
       "riot_police"
-    ]
-  },
-  {
-    "id": "326",
-    "name": "Handverletzung durch Feuerwerkskörper",
-    "place": "",
-    "place_array": [],
-    "average_credits": null,
-    "generated_by": "",
-    "icons": [
-      "/images/medicalstore_gruen.png",
-      "/images/medicalstore_gelb.png",
-      "/images/medicalstore_rot.png"
-    ],
-    "requirements": {},
-    "chances": {
-      "nef": 80,
-      "patient_transport": 90
-    },
-    "additional": {
-      "possible_patient": 1,
-      "possible_patient_min": 1,
-      "filter_id": "ambulance_station_missions",
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        4
-      ],
-      "patient_specialization_captions": [
-        "Unfallchirurgie"
-      ],
-      "patient_specializations": "Unfallchirurgie"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 3
-    },
-    "overlay_index": null,
-    "base_mission_id": 326,
-    "additive_overlays": "",
-    "mission_categories": [
-      "ambulance"
     ]
   },
   {
@@ -39961,8 +39393,8 @@
     "additional": {
       "filter_id": "firehouse_missions",
       "allow_police_motorcycle_instead_of_fustw": true,
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z"
+      "date_start": "2025-01-03T10:00:00Z",
+      "date_end": "2025-03-03T22:59:00Z"
     },
     "prerequisites": {
       "main_building": 0,
@@ -68114,8 +67546,8 @@
       "possible_patient": 1,
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
+      "date_start": "2025-01-03T10:00:00Z",
+      "date_end": "2025-03-03T22:59:00Z",
       "patient_specialization_ids": [
         1
       ],
@@ -68976,55 +68408,6 @@
     "additive_overlays": "",
     "mission_categories": [
       "police"
-    ]
-  },
-  {
-    "id": "591",
-    "name": "Fassadenbrand durch Feuerwerksbatterien",
-    "place": "",
-    "place_array": [],
-    "average_credits": 2000,
-    "generated_by": "",
-    "icons": [
-      "/images/fire_gruen.png",
-      "/images/fire_gelb.png",
-      "/images/fire_rot.png"
-    ],
-    "requirements": {
-      "platform_trucks": 1,
-      "battalion_chief_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "firetrucks": 3,
-      "police_cars": 1
-    },
-    "chances": {
-      "mobile_air_vehicles": 10,
-      "patient_transport": 40
-    },
-    "additional": {
-      "possible_patient": 1,
-      "filter_id": "firehouse_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 0,
-      "police_stations": 1,
-      "fire_stations": 5
-    },
-    "overlay_index": null,
-    "base_mission_id": 591,
-    "additive_overlays": "",
-    "mission_categories": [
-      "fire"
     ]
   },
   {
@@ -77076,8 +76459,8 @@
       "possible_patient": 1,
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
+      "date_start": "2025-01-03T10:00:00Z",
+      "date_end": "2025-03-03T22:59:00Z",
       "patient_specialization_ids": [
         0
       ],
@@ -79331,716 +78714,6 @@
     "additive_overlays": "",
     "mission_categories": [
       "fire"
-    ]
-  },
-  {
-    "id": "695",
-    "name": "Massenanfall beim Fondue essen (klein)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 2500,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "firetrucks": 2,
-      "police_cars": 2
-    },
-    "chances": {
-      "hazmat_dekon": 10,
-      "mobile_air_vehicles": 5,
-      "gwmess": 15,
-      "nef": 20,
-      "patient_transport": 25
-    },
-    "additional": {
-      "possible_patient": 25,
-      "possible_patient_min": 10,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 10,
-      "police_stations": 2,
-      "fire_stations": 6
-    },
-    "overlay_index": null,
-    "base_mission_id": 695,
-    "additive_overlays": "",
-    "mission_categories": [
-      "ambulance"
-    ]
-  },
-  {
-    "id": "695/a",
-    "name": "Massenanfall beim Fondue essen (klein)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 2900,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "police_service_group_leader": 1,
-      "firetrucks": 2,
-      "police_cars": 2
-    },
-    "chances": {
-      "hazmat_dekon": 10,
-      "mobile_air_vehicles": 5,
-      "gwmess": 15,
-      "nef": 20,
-      "patient_transport": 25
-    },
-    "additional": {
-      "possible_patient": 25,
-      "possible_patient_min": 10,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 10,
-      "police_stations": 2,
-      "police_service_group_leader": 1,
-      "fire_stations": 6
-    },
-    "overlay_index": null,
-    "base_mission_id": 695,
-    "additive_overlays": "a",
-    "mission_categories": [
-      "ambulance"
-    ]
-  },
-  {
-    "id": "695/b",
-    "name": "Massenanfall beim Fondue essen (klein)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 4375,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "firetrucks": 2,
-      "police_cars": 2
-    },
-    "chances": {
-      "hazmat_dekon": 10,
-      "mobile_air_vehicles": 5,
-      "gwmess": 15,
-      "nef": 20,
-      "patient_transport": 25
-    },
-    "additional": {
-      "possible_patient": 25,
-      "possible_patient_min": 10,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "care_affected_people_min": 250,
-      "care_affected_people_max": 500,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 10,
-      "police_stations": 2,
-      "care_service": 2,
-      "fire_stations": 6
-    },
-    "overlay_index": null,
-    "base_mission_id": 695,
-    "additive_overlays": "b",
-    "mission_categories": [
-      "ambulance"
-    ]
-  },
-  {
-    "id": "695/ab",
-    "name": "Massenanfall beim Fondue essen (klein)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 4775,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "police_service_group_leader": 1,
-      "firetrucks": 2,
-      "police_cars": 2
-    },
-    "chances": {
-      "hazmat_dekon": 10,
-      "mobile_air_vehicles": 5,
-      "gwmess": 15,
-      "nef": 20,
-      "patient_transport": 25
-    },
-    "additional": {
-      "possible_patient": 25,
-      "possible_patient_min": 10,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "care_affected_people_min": 250,
-      "care_affected_people_max": 500,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 10,
-      "police_stations": 2,
-      "police_service_group_leader": 1,
-      "care_service": 2,
-      "fire_stations": 6
-    },
-    "overlay_index": null,
-    "base_mission_id": 695,
-    "additive_overlays": "ab",
-    "mission_categories": [
-      "ambulance"
-    ]
-  },
-  {
-    "id": "695-0",
-    "name": "Massenanfall beim Fondue essen (groß)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 5000,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "heavy_rescue_vehicles": 1,
-      "firetrucks": 3,
-      "police_cars": 6
-    },
-    "chances": {
-      "hazmat_dekon": 5,
-      "mobile_air_vehicles": 10,
-      "gwmess": 20,
-      "nef": 20,
-      "patient_transport": 25
-    },
-    "additional": {
-      "possible_patient": 70,
-      "possible_patient_min": 35,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 15,
-      "police_stations": 5,
-      "fire_stations": 11
-    },
-    "overlay_index": 0,
-    "base_mission_id": 695,
-    "additive_overlays": "",
-    "mission_categories": [
-      "ambulance"
-    ]
-  },
-  {
-    "id": "695-0/a",
-    "name": "Massenanfall beim Fondue essen (groß)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 5400,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "police_service_group_leader": 1,
-      "heavy_rescue_vehicles": 1,
-      "firetrucks": 3,
-      "police_cars": 6
-    },
-    "chances": {
-      "hazmat_dekon": 5,
-      "mobile_air_vehicles": 10,
-      "gwmess": 20,
-      "nef": 20,
-      "patient_transport": 25
-    },
-    "additional": {
-      "possible_patient": 70,
-      "possible_patient_min": 35,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 15,
-      "police_stations": 5,
-      "police_service_group_leader": 1,
-      "fire_stations": 11
-    },
-    "overlay_index": 0,
-    "base_mission_id": 695,
-    "additive_overlays": "a",
-    "mission_categories": [
-      "ambulance"
-    ]
-  },
-  {
-    "id": "695-0/b",
-    "name": "Massenanfall beim Fondue essen (groß)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 6875,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "heavy_rescue_vehicles": 1,
-      "firetrucks": 3,
-      "police_cars": 6
-    },
-    "chances": {
-      "hazmat_dekon": 5,
-      "mobile_air_vehicles": 10,
-      "gwmess": 20,
-      "nef": 20,
-      "patient_transport": 25
-    },
-    "additional": {
-      "possible_patient": 70,
-      "possible_patient_min": 35,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "care_affected_people_min": 250,
-      "care_affected_people_max": 500,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 15,
-      "police_stations": 5,
-      "care_service": 2,
-      "fire_stations": 11
-    },
-    "overlay_index": 0,
-    "base_mission_id": 695,
-    "additive_overlays": "b",
-    "mission_categories": [
-      "ambulance"
-    ]
-  },
-  {
-    "id": "695-0/ab",
-    "name": "Massenanfall beim Fondue essen (groß)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 7275,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "police_service_group_leader": 1,
-      "heavy_rescue_vehicles": 1,
-      "firetrucks": 3,
-      "police_cars": 6
-    },
-    "chances": {
-      "hazmat_dekon": 5,
-      "mobile_air_vehicles": 10,
-      "gwmess": 20,
-      "nef": 20,
-      "patient_transport": 25
-    },
-    "additional": {
-      "possible_patient": 70,
-      "possible_patient_min": 35,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "care_affected_people_min": 250,
-      "care_affected_people_max": 500,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 15,
-      "police_stations": 5,
-      "police_service_group_leader": 1,
-      "care_service": 2,
-      "fire_stations": 11
-    },
-    "overlay_index": 0,
-    "base_mission_id": 695,
-    "additive_overlays": "ab",
-    "mission_categories": [
-      "ambulance"
-    ]
-  },
-  {
-    "id": "695-1",
-    "name": "Massenanfall beim Fondue essen (riesig)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 14000,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 3,
-      "mobile_command_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "heavy_rescue_vehicles": 1,
-      "firetrucks": 16,
-      "police_cars": 14
-    },
-    "chances": {
-      "hazmat_dekon": 5,
-      "mobile_command_vehicles": 50,
-      "mobile_air_vehicles": 25,
-      "gwmess": 50,
-      "nef": 20,
-      "patient_transport": 25,
-      "helicopter": 2
-    },
-    "additional": {
-      "possible_patient": 250,
-      "possible_patient_min": 120,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 46,
-      "police_stations": 9,
-      "fire_stations": 16
-    },
-    "overlay_index": 1,
-    "base_mission_id": 695,
-    "additive_overlays": "",
-    "mission_categories": [
-      "ambulance"
-    ]
-  },
-  {
-    "id": "695-1/a",
-    "name": "Massenanfall beim Fondue essen (riesig)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 14400,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 3,
-      "mobile_command_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "police_service_group_leader": 1,
-      "heavy_rescue_vehicles": 1,
-      "firetrucks": 16,
-      "police_cars": 14
-    },
-    "chances": {
-      "hazmat_dekon": 5,
-      "mobile_command_vehicles": 50,
-      "mobile_air_vehicles": 25,
-      "gwmess": 50,
-      "nef": 20,
-      "patient_transport": 25,
-      "helicopter": 2
-    },
-    "additional": {
-      "possible_patient": 250,
-      "possible_patient_min": 120,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 46,
-      "police_stations": 9,
-      "police_service_group_leader": 1,
-      "fire_stations": 16
-    },
-    "overlay_index": 1,
-    "base_mission_id": 695,
-    "additive_overlays": "a",
-    "mission_categories": [
-      "ambulance"
-    ]
-  },
-  {
-    "id": "695-1/b",
-    "name": "Massenanfall beim Fondue essen (riesig)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 15875,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 3,
-      "mobile_command_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "heavy_rescue_vehicles": 1,
-      "firetrucks": 16,
-      "police_cars": 14
-    },
-    "chances": {
-      "hazmat_dekon": 5,
-      "mobile_command_vehicles": 50,
-      "mobile_air_vehicles": 25,
-      "gwmess": 50,
-      "nef": 20,
-      "patient_transport": 25,
-      "helicopter": 2
-    },
-    "additional": {
-      "possible_patient": 250,
-      "possible_patient_min": 120,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "care_affected_people_min": 250,
-      "care_affected_people_max": 500,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 46,
-      "police_stations": 9,
-      "care_service": 2,
-      "fire_stations": 16
-    },
-    "overlay_index": 1,
-    "base_mission_id": 695,
-    "additive_overlays": "b",
-    "mission_categories": [
-      "ambulance"
-    ]
-  },
-  {
-    "id": "695-1/ab",
-    "name": "Massenanfall beim Fondue essen (riesig)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 16275,
-    "generated_by": "",
-    "icons": [
-      "/images/dancinghall_gruen.png",
-      "/images/dancinghall_gelb.png",
-      "/images/dancinghall_rot.png"
-    ],
-    "requirements": {
-      "hazmat_dekon": 1,
-      "battalion_chief_vehicles": 3,
-      "mobile_command_vehicles": 1,
-      "mobile_air_vehicles": 1,
-      "gwmess": 1,
-      "police_service_group_leader": 1,
-      "heavy_rescue_vehicles": 1,
-      "firetrucks": 16,
-      "police_cars": 14
-    },
-    "chances": {
-      "hazmat_dekon": 5,
-      "mobile_command_vehicles": 50,
-      "mobile_air_vehicles": 25,
-      "gwmess": 50,
-      "nef": 20,
-      "patient_transport": 25,
-      "helicopter": 2
-    },
-    "additional": {
-      "possible_patient": 250,
-      "possible_patient_min": 120,
-      "filter_id": "ambulance_station_missions",
-      "allow_police_motorcycle_instead_of_fustw": true,
-      "care_affected_people_min": 250,
-      "care_affected_people_max": 500,
-      "date_start": "2023-12-29T10:00:00Z",
-      "date_end": "2024-01-02T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 2,
-      "rescue_stations": 46,
-      "police_stations": 9,
-      "police_service_group_leader": 1,
-      "care_service": 2,
-      "fire_stations": 16
-    },
-    "overlay_index": 1,
-    "base_mission_id": 695,
-    "additive_overlays": "ab",
-    "mission_categories": [
-      "ambulance"
     ]
   },
   {
@@ -86099,8 +84772,8 @@
     "additional": {
       "possible_patient": 1,
       "filter_id": "firehouse_missions",
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
+      "date_start": "2025-01-03T10:00:00Z",
+      "date_end": "2025-03-03T22:59:00Z",
       "patient_specialization_ids": [
         1
       ],
@@ -86141,8 +84814,8 @@
     "additional": {
       "possible_patient": 2,
       "filter_id": "police_station_missions",
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
+      "date_start": "2025-01-03T10:00:00Z",
+      "date_end": "2025-03-03T22:59:00Z",
       "patient_specialization_ids": [
         0
       ],
@@ -86180,8 +84853,8 @@
     "chances": {},
     "additional": {
       "filter_id": "police_station_missions",
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z"
+      "date_start": "2025-01-03T10:00:00Z",
+      "date_end": "2025-03-03T22:59:00Z"
     },
     "prerequisites": {
       "main_building": 6,
@@ -86313,8 +84986,8 @@
     "chances": {},
     "additional": {
       "filter_id": "water_watch_missions",
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z"
+      "date_start": "2025-01-03T10:00:00Z",
+      "date_end": "2025-03-03T22:59:00Z"
     },
     "prerequisites": {
       "main_building": 0,
@@ -86347,8 +85020,8 @@
     "chances": {},
     "additional": {
       "filter_id": "police_station_missions",
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z"
+      "date_start": "2025-01-03T10:00:00Z",
+      "date_end": "2025-03-03T22:59:00Z"
     },
     "prerequisites": {
       "main_building": 6,
@@ -86359,46 +85032,6 @@
     "additive_overlays": "",
     "mission_categories": [
       "police"
-    ]
-  },
-  {
-    "id": "795",
-    "name": "Absicherung Eisbaden",
-    "place": "See\nFluss",
-    "place_array": [
-      "See",
-      "Fluss"
-    ],
-    "average_credits": 1200,
-    "generated_by": "",
-    "icons": [
-      "/images/snowy_gruen.png",
-      "/images/snowy_gelb.png",
-      "/images/snowy_rot.png"
-    ],
-    "requirements": {
-      "boats": 1,
-      "ambulances": 1
-    },
-    "chances": {},
-    "additional": {
-      "duration_text": "1 Stunde",
-      "duration": 3600,
-      "guard_mission": true,
-      "filter_id": "water_watch_missions",
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z"
-    },
-    "prerequisites": {
-      "main_building": 15,
-      "wasserrettung": 1,
-      "rescue_stations": 1
-    },
-    "overlay_index": null,
-    "base_mission_id": 795,
-    "additive_overlays": "",
-    "mission_categories": [
-      "water_rescue"
     ]
   },
   {
@@ -90311,8 +88944,8 @@
       "possible_patient_min": 1,
       "filter_id": "water_watch_missions",
       "patient_at_end_of_mission": true,
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
+      "date_start": "2025-01-03T10:00:00Z",
+      "date_end": "2025-03-03T22:59:00Z",
       "patient_specialization_ids": [
         0
       ],
@@ -99341,370 +97974,6 @@
     ]
   },
   {
-    "id": "861",
-    "name": "Personensuche nach Lawine",
-    "place": "",
-    "place_array": [],
-    "average_credits": 4385,
-    "generated_by": "",
-    "icons": [
-      "/images/snowy_gruen.png",
-      "/images/snowy_gelb.png",
-      "/images/snowy_rot.png"
-    ],
-    "requirements": {
-      "mountain_equipment": 2,
-      "mountain_command": 1,
-      "mountain_snow": 2,
-      "lift": 2
-    },
-    "chances": {
-      "nef": 80,
-      "patient_transport": 100,
-      "helicopter": 20
-    },
-    "additional": {
-      "possible_patient": 1,
-      "possible_patient_min": 1,
-      "average_min_ambulance_personnel": 40,
-      "filter_id": "mountain_missions",
-      "vehicle_groups": [
-        "mountain_missions"
-      ],
-      "uses_custom_spawn_area": true,
-      "handoff_possible_via_building_types": [
-        25
-      ],
-      "patient_at_end_of_mission": true,
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
-      "patient_specialization_ids": [
-        0,
-        1,
-        4
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere",
-        "Allgemeine Chirurgie",
-        "Unfallchirurgie"
-      ],
-      "patient_specializations": "Allgemeine Innere, Allgemeine Chirurgie, Unfallchirurgie"
-    },
-    "prerequisites": {
-      "main_building": 25,
-      "mountain_rescue": 1,
-      "lift": 2
-    },
-    "overlay_index": null,
-    "base_mission_id": 861,
-    "additive_overlays": "",
-    "mission_categories": [
-      "mountain"
-    ]
-  },
-  {
-    "id": "861/a",
-    "name": "Personensuche nach Lawine",
-    "place": "",
-    "place_array": [],
-    "average_credits": 4750,
-    "generated_by": "",
-    "icons": [
-      "/images/snowy_gruen.png",
-      "/images/snowy_gelb.png",
-      "/images/snowy_rot.png"
-    ],
-    "requirements": {
-      "rescue_dog_units": 1,
-      "mountain_equipment": 2,
-      "mountain_command": 1,
-      "mountain_snow": 2,
-      "lift": 2
-    },
-    "chances": {
-      "nef": 80,
-      "patient_transport": 100,
-      "helicopter": 20
-    },
-    "additional": {
-      "possible_patient": 1,
-      "possible_patient_min": 1,
-      "average_min_ambulance_personnel": 40,
-      "filter_id": "mountain_missions",
-      "vehicle_groups": [
-        "mountain_missions"
-      ],
-      "uses_custom_spawn_area": true,
-      "handoff_possible_via_building_types": [
-        25
-      ],
-      "patient_at_end_of_mission": true,
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
-      "patient_specialization_ids": [
-        0,
-        1,
-        4
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere",
-        "Allgemeine Chirurgie",
-        "Unfallchirurgie"
-      ],
-      "patient_specializations": "Allgemeine Innere, Allgemeine Chirurgie, Unfallchirurgie"
-    },
-    "prerequisites": {
-      "main_building": 25,
-      "rescue_dog_units": 1,
-      "mountain_rescue": 1,
-      "lift": 2
-    },
-    "overlay_index": null,
-    "base_mission_id": 861,
-    "additive_overlays": "a",
-    "mission_categories": [
-      "mountain"
-    ]
-  },
-  {
-    "id": "861/b",
-    "name": "Personensuche nach Lawine",
-    "place": "",
-    "place_array": [],
-    "average_credits": 4785,
-    "generated_by": "",
-    "icons": [
-      "/images/snowy_gruen.png",
-      "/images/snowy_gelb.png",
-      "/images/snowy_rot.png"
-    ],
-    "requirements": {
-      "drone": 1,
-      "mountain_equipment": 2,
-      "mountain_command": 1,
-      "mountain_snow": 2,
-      "lift": 2
-    },
-    "chances": {
-      "nef": 80,
-      "patient_transport": 100,
-      "helicopter": 20
-    },
-    "additional": {
-      "possible_patient": 1,
-      "possible_patient_min": 1,
-      "average_min_ambulance_personnel": 40,
-      "filter_id": "mountain_missions",
-      "vehicle_groups": [
-        "mountain_missions"
-      ],
-      "uses_custom_spawn_area": true,
-      "handoff_possible_via_building_types": [
-        25
-      ],
-      "patient_at_end_of_mission": true,
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
-      "patient_specialization_ids": [
-        0,
-        1,
-        4
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere",
-        "Allgemeine Chirurgie",
-        "Unfallchirurgie"
-      ],
-      "patient_specializations": "Allgemeine Innere, Allgemeine Chirurgie, Unfallchirurgie"
-    },
-    "prerequisites": {
-      "main_building": 25,
-      "drone": 1,
-      "mountain_rescue": 1,
-      "lift": 2
-    },
-    "overlay_index": null,
-    "base_mission_id": 861,
-    "additive_overlays": "b",
-    "mission_categories": [
-      "mountain"
-    ]
-  },
-  {
-    "id": "861/ab",
-    "name": "Personensuche nach Lawine",
-    "place": "",
-    "place_array": [],
-    "average_credits": 5150,
-    "generated_by": "",
-    "icons": [
-      "/images/snowy_gruen.png",
-      "/images/snowy_gelb.png",
-      "/images/snowy_rot.png"
-    ],
-    "requirements": {
-      "rescue_dog_units": 1,
-      "drone": 1,
-      "mountain_equipment": 2,
-      "mountain_command": 1,
-      "mountain_snow": 2,
-      "lift": 2
-    },
-    "chances": {
-      "nef": 80,
-      "patient_transport": 100,
-      "helicopter": 20
-    },
-    "additional": {
-      "possible_patient": 1,
-      "possible_patient_min": 1,
-      "average_min_ambulance_personnel": 40,
-      "filter_id": "mountain_missions",
-      "vehicle_groups": [
-        "mountain_missions"
-      ],
-      "uses_custom_spawn_area": true,
-      "handoff_possible_via_building_types": [
-        25
-      ],
-      "patient_at_end_of_mission": true,
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
-      "patient_specialization_ids": [
-        0,
-        1,
-        4
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere",
-        "Allgemeine Chirurgie",
-        "Unfallchirurgie"
-      ],
-      "patient_specializations": "Allgemeine Innere, Allgemeine Chirurgie, Unfallchirurgie"
-    },
-    "prerequisites": {
-      "main_building": 25,
-      "rescue_dog_units": 1,
-      "drone": 1,
-      "mountain_rescue": 1,
-      "lift": 2
-    },
-    "overlay_index": null,
-    "base_mission_id": 861,
-    "additive_overlays": "ab",
-    "mission_categories": [
-      "mountain"
-    ]
-  },
-  {
-    "id": "862",
-    "name": "Unterkühlung",
-    "place": "",
-    "place_array": [],
-    "average_credits": 550,
-    "generated_by": "",
-    "icons": [
-      "/images/snowy_gruen.png",
-      "/images/snowy_gelb.png",
-      "/images/snowy_rot.png"
-    ],
-    "requirements": {
-      "mountain": 1
-    },
-    "chances": {
-      "nef": 40,
-      "patient_transport": 100
-    },
-    "additional": {
-      "possible_patient": 1,
-      "possible_patient_min": 1,
-      "filter_id": "mountain_missions",
-      "vehicle_groups": [
-        "mountain_missions"
-      ],
-      "uses_custom_spawn_area": true,
-      "handoff_possible_via_building_types": [
-        25
-      ],
-      "patient_at_end_of_mission": true,
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 25,
-      "mountain_rescue": 1
-    },
-    "overlay_index": null,
-    "base_mission_id": 862,
-    "additive_overlays": "",
-    "mission_categories": [
-      "mountain"
-    ]
-  },
-  {
-    "id": "862/a",
-    "name": "Unterkühlung (Windenrettung)",
-    "place": "",
-    "place_array": [],
-    "average_credits": 1450,
-    "generated_by": "",
-    "icons": [
-      "/images/snowy_gruen.png",
-      "/images/snowy_gelb.png",
-      "/images/snowy_rot.png"
-    ],
-    "requirements": {
-      "mountain_equipment": 1,
-      "lift": 1,
-      "mountain": 1
-    },
-    "chances": {
-      "mountain_equipment": 50,
-      "nef": 40,
-      "patient_transport": 100
-    },
-    "additional": {
-      "possible_patient": 1,
-      "possible_patient_min": 1,
-      "filter_id": "mountain_missions",
-      "vehicle_groups": [
-        "mountain_missions"
-      ],
-      "uses_custom_spawn_area": true,
-      "handoff_possible_via_building_types": [
-        25
-      ],
-      "patient_at_end_of_mission": true,
-      "date_start": "2024-01-05T10:00:00Z",
-      "date_end": "2024-03-03T22:59:00Z",
-      "patient_specialization_ids": [
-        0
-      ],
-      "patient_specialization_captions": [
-        "Allgemeine Innere"
-      ],
-      "patient_specializations": "Allgemeine Innere"
-    },
-    "prerequisites": {
-      "main_building": 25,
-      "mountain_rescue": 1,
-      "lift": 1
-    },
-    "overlay_index": null,
-    "base_mission_id": 862,
-    "additive_overlays": "a",
-    "mission_categories": [
-      "mountain"
-    ]
-  },
-  {
     "id": "863",
     "name": "Hitzschlag",
     "place": "",
@@ -103528,6 +101797,4966 @@
     "additive_overlays": "",
     "mission_categories": [
       "fire"
+    ]
+  },
+  {
+    "id": "902",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 11225,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/a",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 14375,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "a",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/b",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 12640,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "b",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/c",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 11625,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "heavy_rescue": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "c",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/d",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 11625,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "drone": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "d",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/e",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 14341,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "e",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/ab",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 15790,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "ab",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/ac",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 14775,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "heavy_rescue": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "ac",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/ad",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 14775,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "drone": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "ad",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/ae",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 18278,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "ae",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/bc",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 13040,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "heavy_rescue": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "bc",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/bd",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 13040,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "drone": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "bd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/be",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 16110,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "be",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/cd",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 12025,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "cd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/ce",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 14841,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "heavy_rescue": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "ce",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/de",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 14841,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "drone": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "de",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/abc",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 16190,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "heavy_rescue": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "abc",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/abd",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 16190,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "drone": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "abd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/abe",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 20047,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "abe",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/acd",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 15175,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "acd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/ace",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 18778,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "heavy_rescue": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "ace",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/ade",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 18778,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "drone": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "ade",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/bcd",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 13440,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "bcd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/bce",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 16610,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "heavy_rescue": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "bce",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/bde",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 16610,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "drone": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "bde",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/cde",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 15341,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "cde",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/abcd",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 16590,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "abcd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/abce",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 20547,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "heavy_rescue": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "abce",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/abde",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 20547,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "drone": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "abde",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/acde",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 19278,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "acde",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/bcde",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 17110,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "bcde",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "902/abcde",
+    "name": "Brückeneinsturz (klein)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 21047,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "height_rescue_units": 1,
+      "diver_units": 5,
+      "police_service_group_leader": 1,
+      "rescue_dog_units": 2,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 2,
+      "thw_dle": 1,
+      "thw_gkw": 2,
+      "thw_mtwtz": 2,
+      "thw_mzkw": 2,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "firetrucks": 10,
+      "police_cars": 4
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 70,
+      "patient_transport": 80,
+      "helicopter": 20
+    },
+    "additional": {
+      "possible_patient": 15,
+      "possible_patient_min": 5,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 50,
+      "care_affected_people_max": 75,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 5,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 2,
+      "thw_bergung_count": 4,
+      "thw_zugtrupp_count": 4,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "heavy_rescue": 1,
+      "drone": 1,
+      "care_service": 1,
+      "fire_stations": 10
+    },
+    "overlay_index": null,
+    "base_mission_id": 902,
+    "additive_overlays": "abcde",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 20115,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/a",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 23265,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "a",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/b",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 21530,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "b",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/c",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 20515,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "heavy_rescue": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "c",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/d",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 20515,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "drone": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "d",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/e",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 25643,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "e",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/ab",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 24680,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "ab",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/ac",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 23665,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "heavy_rescue": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "ac",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/ad",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 23665,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "drone": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "ad",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/ae",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 29581,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "ae",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/bc",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 21930,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "heavy_rescue": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "bc",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/bd",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 21930,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "drone": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "bd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/be",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 27412,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "be",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/cd",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 20915,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "cd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/ce",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 26143,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "heavy_rescue": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "ce",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/de",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 26143,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "drone": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "de",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/abc",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 25080,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "heavy_rescue": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "abc",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/abd",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 25080,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "drone": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "abd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/abe",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 31350,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "abe",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/acd",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 24065,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "acd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/ace",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 30081,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "heavy_rescue": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "ace",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/ade",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 30081,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "drone": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "ade",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/bcd",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 22330,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "bcd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/bce",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 27912,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "heavy_rescue": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "bce",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/bde",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 27912,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "drone": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "bde",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/cde",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 26643,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "cde",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/abcd",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 25480,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "abcd",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/abce",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 31850,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "heavy_rescue": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "abce",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/abde",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 31850,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "drone": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "abde",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/acde",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 30581,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "acde",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/bcde",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 28412,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "bcde",
+    "mission_categories": [
+      "fire",
+      "thw"
+    ]
+  },
+  {
+    "id": "903/abcde",
+    "name": "Brückeneinsturz (Groß)",
+    "place": "Brücke",
+    "place_array": [
+      "Brücke"
+    ],
+    "average_credits": 32350,
+    "generated_by": "",
+    "icons": [
+      "/images/bridge_gruen.png",
+      "/images/bridge_gelb.png",
+      "/images/bridge_rot.png"
+    ],
+    "requirements": {
+      "boats": 5,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 5,
+      "mobile_command_vehicles": 1,
+      "fwk": 2,
+      "height_rescue_units": 2,
+      "diver_units": 5,
+      "police_service_group_leader": 2,
+      "rescue_dog_units": 4,
+      "heavy_rescue_vehicles": 5,
+      "thw_brmg_r": 3,
+      "thw_dle": 2,
+      "thw_gkw": 4,
+      "thw_mtwtz": 4,
+      "thw_mzkw": 4,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "firetrucks": 18,
+      "police_cars": 8
+    },
+    "chances": {
+      "height_rescue_units": 75,
+      "nef": 80,
+      "patient_transport": 95,
+      "helicopter": 25
+    },
+    "additional": {
+      "possible_patient": 50,
+      "possible_patient_min": 20,
+      "followup_missions_ids": [
+        233
+      ],
+      "filter_id": "firehouse_missions",
+      "max_police_motorcycle_replacing_police_cars": 2,
+      "care_includes_staff_members": true,
+      "care_affected_people_min": 80,
+      "care_affected_people_max": 120,
+      "patient_specialization_ids": [
+        4
+      ],
+      "patient_specialization_captions": [
+        "Unfallchirurgie"
+      ],
+      "patient_specializations": "Unfallchirurgie"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "wasserrettung": 8,
+      "rescue_stations": 20,
+      "police_stations": 5,
+      "thw": 5,
+      "rescue_dog_units": 4,
+      "thw_bergung_count": 5,
+      "thw_zugtrupp_count": 5,
+      "thw_fg_raeumen_count": 4,
+      "police_service_group_leader": 7,
+      "heavy_rescue": 2,
+      "drone": 2,
+      "care_service": 2,
+      "fire_stations": 30
+    },
+    "overlay_index": null,
+    "base_mission_id": 903,
+    "additive_overlays": "abcde",
+    "mission_categories": [
+      "fire",
+      "thw"
     ]
   },
   {
