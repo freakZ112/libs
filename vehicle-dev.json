@@ -4263,5 +4263,20 @@
         "prerequisites": {
             "fire_stations": 1
         }
-    }
+    },
+{
+	"id":165,
+	"name": "Lautsprecherkraftwagen",
+	"short_name": "LauKw",
+},
+{
+	"id":166,
+	"name":"PTLF",
+	"short_name": "PTLF",
+},
+{
+	"id":167,
+	"name":"SLF",
+	"short_name": "STLF",
+},
 ]
