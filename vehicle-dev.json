@@ -4417,7 +4417,7 @@
             18
         ],
         "additional": {
-	    "trailer": true
+	    "trailer": true,
 	    "water": 3000,
             "foam": 5000
 	},
