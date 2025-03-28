@@ -4317,18 +4317,15 @@
     },
     {
         "id": 167,
-        "name": "Pulvertanklöschfahrzeug 4000",
-        "short_name": "PTLF 4000",
+        "name": "Sonderlöschfahrzeug",
+        "short_name": "SLF",
         "class": [
 	    "foamTank"
-            "firetrucks",
-            "water_damage_pump"
         ],
         "class_alias": [
-            "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+
         ],
-        "cost": 4000,
+        "cost": 10000,
         "personal": {
             "min": 1,
             "max": 2
@@ -4338,10 +4335,9 @@
             18
         ],
         "additional": {
-            "water": 4000,
-	    "foam": 1000,
-            "pump_engine": 2000
-        },
+            "water": 3500,
+	    "foam": 5000,
+	},
         "prerequisites": {
             "fire_stations": 1
         }
