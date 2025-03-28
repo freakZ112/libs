@@ -4263,5 +4263,87 @@
         "prerequisites": {
             "fire_stations": 1
         }
-    }
+    },
+    {
+        "id": 165,
+        "name": "Lautsprecherkraftwagen",
+        "short_name": "LauKw",
+	"class: [
+            "police_speaker_operator"
+	],
+	"class_alias":[
+	    "Lautsprecherkraftwagen"
+	],
+	"cost": 32000,
+	"personal": {
+		"min": 5,
+		"max": 5
+	},
+	"building": [
+		11
+	],
+	"additional": {},
+    },
+    {
+        "id": 166,
+        "name": "Pulvertanklöschfahrzeug 4000",
+        "short_name": "PTLF 4000",
+        "class": [
+	    "foamTank"
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 4000,
+        "personal": {
+            "min": 1,
+            "max": 2
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+            "water": 4000,
+	    "foam": 1000,
+            "pump_engine": 2000
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
+    {
+        "id": 167,
+        "name": "Pulvertanklöschfahrzeug 4000",
+        "short_name": "PTLF 4000",
+        "class": [
+	    "foamTank"
+            "firetrucks",
+            "water_damage_pump"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe"
+        ],
+        "cost": 4000,
+        "personal": {
+            "min": 1,
+            "max": 2
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+            "water": 4000,
+	    "foam": 1000,
+            "pump_engine": 2000
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
 ]
