@@ -568,7 +568,7 @@
         "additional": {
             "water": 1800,
             "pump_engine": 800,
-			"foam": 5000
+			"foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
