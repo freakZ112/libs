@@ -554,7 +554,7 @@
         "class_alias": [
             "Löschfahrzeuge",
             "Feuerlöschpumpe",
-			"Sonderlöschmittel"
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -568,7 +568,7 @@
         "additional": {
             "water": 1800,
             "pump_engine": 800,
-			"foam": 150
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
