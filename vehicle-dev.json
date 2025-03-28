@@ -4289,13 +4289,14 @@
         "name": "Pulvertanklöschfahrzeug 4000",
         "short_name": "PTLF 4000",
         "class": [
-	    "foamTank"
+	    "foamTank",
             "firetrucks",
             "water_damage_pump"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+	    "Sonderlöschmittel"
         ],
         "cost": 4000,
         "personal": {
@@ -4323,7 +4324,7 @@
 	    "foamTank"
         ],
         "class_alias": [
-
+	    "Sonderlöschmittel"
         ],
         "cost": 10000,
         "personal": {
@@ -4336,10 +4337,92 @@
         ],
         "additional": {
             "water": 3500,
-	    "foam": 5000,
+	    "foam": 5000
 	},
         "prerequisites": {
             "fire_stations": 1
         }
     },
+    {
+        "id": 168,
+        "name": "Anh Sonderlöschmittel",
+        "short_name": "Anh Sonderlöschmittel",
+        "class": [
+	    "foamTank"
+        ],
+        "class_alias": [
+	    "Sonderlöschmittel"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+	    "trailer": true,
+            "foam": 250
+	},
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
+    {
+        "id": 169,
+        "name": "Abrollbehälter Sonderlöschmittel",
+        "short_name": "AB-Sonderlöschmittel",
+        "class": [
+	    "foamTank"
+        ],
+        "class_alias": [
+	    "Sonderlöschmittel"
+        ],
+        "cost": 6000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+	    "trailer": true,
+            "foam": 10000
+	},
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
+    {
+        "id": 170,
+        "name": "Abrollbehälter Wasser/Schaum",
+        "short_name": "AB-Wasser/Schaum",
+        "class": [
+	    "foamTank"
+        ],
+        "class_alias": [
+	    "Sonderlöschmittel"
+        ],
+        "cost": 6000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+	    "trailer": true
+	    "water": 3000,
+            "foam": 5000
+	},
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    }
 ]
