@@ -1914,6 +1914,7 @@
       "mobile_air_vehicles": 1,
       "water_tankers": 1,
       "heavy_rescue_vehicles": 1,
+      "foam_needed": 300,
       "firetrucks": 3
     },
     "chances": {
@@ -2400,6 +2401,7 @@
       "battalion_chief_vehicles": 1,
       "gwmess": 1,
       "heavy_rescue_vehicles": 2,
+      "foam_needed": 250,
       "firetrucks": 4
     },
     "chances": {
@@ -2446,6 +2448,7 @@
       "gwmess": 1,
       "heavy_rescue_vehicles": 2,
       "railway_fire": 1,
+      "foam_needed": 250,
       "firetrucks": 4
     },
     "chances": {
@@ -2533,6 +2536,7 @@
       "gwmess": 1,
       "gwoil": 1,
       "heavy_rescue_vehicles": 2,
+      "foam_needed": 600,
       "firetrucks": 4,
       "police_cars": 2
     },
@@ -4442,6 +4446,7 @@
       "mobile_air_vehicles": 1,
       "water_tankers": 1,
       "heavy_rescue_vehicles": 1,
+      "foam_needed": 200,
       "firetrucks": 4
     },
     "chances": {
@@ -4497,6 +4502,7 @@
       "water_tankers": 1,
       "heavy_rescue_vehicles": 1,
       "railway_fire": 1,
+      "foam_needed": 200,
       "firetrucks": 4
     },
     "chances": {
@@ -4584,6 +4590,7 @@
       "mobile_command_vehicles": 1,
       "mobile_air_vehicles": 1,
       "water_tankers": 1,
+      "foam_needed": 1200,
       "firetrucks": 7
     },
     "chances": {
@@ -4970,6 +4977,7 @@
       "battalion_chief_vehicles": 2,
       "mobile_command_vehicles": 1,
       "heavy_rescue_vehicles": 2,
+      "foam_needed": 150,
       "firetrucks": 6,
       "police_cars": 5
     },
@@ -5019,6 +5027,7 @@
       "mobile_command_vehicles": 1,
       "police_service_group_leader": 1,
       "heavy_rescue_vehicles": 2,
+      "foam_needed": 150,
       "firetrucks": 6,
       "police_cars": 5
     },
@@ -12380,6 +12389,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 3100,
       "firetrucks": 5
     },
     "chances": {
@@ -12450,6 +12460,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 3100,
       "firetrucks": 5
     },
     "chances": {
@@ -12521,6 +12532,7 @@
       "thw_mtwtz": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 3100,
       "firetrucks": 5
     },
     "chances": {
@@ -12593,6 +12605,7 @@
       "thw_mtwtz": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 3100,
       "firetrucks": 5
     },
     "chances": {
@@ -28365,6 +28378,7 @@
       "water_tankers": 1,
       "gwoil": 1,
       "heavy_rescue_vehicles": 1,
+      "foam_needed": 200,
       "firetrucks": 8,
       "police_cars": 3
     },
@@ -28420,6 +28434,7 @@
       "gwoil": 1,
       "police_service_group_leader": 1,
       "heavy_rescue_vehicles": 1,
+      "foam_needed": 200,
       "firetrucks": 8,
       "police_cars": 3
     },
@@ -28501,7 +28516,7 @@
   },
   {
     "id": "304",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 24400,
@@ -28552,7 +28567,7 @@
   },
   {
     "id": "304/a",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 26000,
@@ -28605,7 +28620,7 @@
   },
   {
     "id": "304/b",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 29200,
@@ -28658,7 +28673,7 @@
   },
   {
     "id": "304/c",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 40600,
@@ -28717,7 +28732,7 @@
   },
   {
     "id": "304/d",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 26000,
@@ -28770,7 +28785,7 @@
   },
   {
     "id": "304/ab",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 30800,
@@ -28825,7 +28840,7 @@
   },
   {
     "id": "304/ac",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 42200,
@@ -28886,7 +28901,7 @@
   },
   {
     "id": "304/ad",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 27600,
@@ -28941,7 +28956,7 @@
   },
   {
     "id": "304/bc",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 45400,
@@ -29002,7 +29017,7 @@
   },
   {
     "id": "304/bd",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 30800,
@@ -29057,7 +29072,7 @@
   },
   {
     "id": "304/cd",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 42200,
@@ -29118,7 +29133,7 @@
   },
   {
     "id": "304/abc",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 47000,
@@ -29181,7 +29196,7 @@
   },
   {
     "id": "304/abd",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 32400,
@@ -29238,7 +29253,7 @@
   },
   {
     "id": "304/acd",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 43800,
@@ -29301,7 +29316,7 @@
   },
   {
     "id": "304/bcd",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 47000,
@@ -29364,7 +29379,7 @@
   },
   {
     "id": "304/abcd",
-    "name": "Angemeldete Demonstration - Gefahrenpotential",
+    "name": "Angemeldete Demonstration - Gefahrenpotenzial",
     "place": "",
     "place_array": [],
     "average_credits": 48600,
@@ -30437,7 +30452,7 @@
   },
   {
     "id": "306",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -30487,7 +30502,7 @@
   },
   {
     "id": "306/a",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -30539,7 +30554,7 @@
   },
   {
     "id": "306/b",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -30591,7 +30606,7 @@
   },
   {
     "id": "306/c",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -30649,7 +30664,7 @@
   },
   {
     "id": "306/d",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -30701,7 +30716,7 @@
   },
   {
     "id": "306/ab",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -30755,7 +30770,7 @@
   },
   {
     "id": "306/ac",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -30815,7 +30830,7 @@
   },
   {
     "id": "306/ad",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -30869,7 +30884,7 @@
   },
   {
     "id": "306/bc",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -30929,7 +30944,7 @@
   },
   {
     "id": "306/bd",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -30983,7 +30998,7 @@
   },
   {
     "id": "306/cd",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -31043,7 +31058,7 @@
   },
   {
     "id": "306/abc",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -31105,7 +31120,7 @@
   },
   {
     "id": "306/abd",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -31161,7 +31176,7 @@
   },
   {
     "id": "306/acd",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -31223,7 +31238,7 @@
   },
   {
     "id": "306/bcd",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -31285,7 +31300,7 @@
   },
   {
     "id": "306/abcd",
-    "name": "Absicherung Rockkonzert - Gefahrenpotential",
+    "name": "Absicherung Rockkonzert - Gefahrenpotenzial",
     "place": "Stadion",
     "place_array": [
       "Stadion"
@@ -32164,6 +32179,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -32232,6 +32248,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -32301,6 +32318,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "ventilation": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -32370,6 +32388,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "drone": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -32438,6 +32457,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -32510,6 +32530,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "ventilation": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -32581,6 +32602,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "drone": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -32651,6 +32673,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -32724,6 +32747,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "drone": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -32794,6 +32818,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "ventilation": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -32866,6 +32891,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "drone": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -32940,6 +32966,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "drone": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -33012,6 +33039,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "ventilation": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -33086,6 +33114,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "drone": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -33160,6 +33189,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "drone": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -33235,6 +33265,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "drone": 1,
+      "foam_needed": 2500,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -33465,6 +33496,7 @@
       "thw_lkw": 2,
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
+      "foam_needed": 5600,
       "firetrucks": 15,
       "police_cars": 5
     },
@@ -33533,6 +33565,7 @@
       "thw_lkw": 2,
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
+      "foam_needed": 5600,
       "firetrucks": 15,
       "police_cars": 5
     },
@@ -33602,6 +33635,7 @@
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
       "ventilation": 1,
+      "foam_needed": 5600,
       "firetrucks": 15,
       "police_cars": 5
     },
@@ -33670,6 +33704,7 @@
       "thw_lkw": 2,
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
+      "foam_needed": 5600,
       "firetrucks": 15,
       "police_cars": 5
     },
@@ -33741,6 +33776,7 @@
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
       "ventilation": 1,
+      "foam_needed": 5600,
       "firetrucks": 15,
       "police_cars": 5
     },
@@ -33811,6 +33847,7 @@
       "thw_lkw": 2,
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
+      "foam_needed": 5600,
       "firetrucks": 15,
       "police_cars": 5
     },
@@ -33882,6 +33919,7 @@
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
       "ventilation": 1,
+      "foam_needed": 5600,
       "firetrucks": 15,
       "police_cars": 5
     },
@@ -33954,6 +33992,7 @@
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
       "ventilation": 1,
+      "foam_needed": 5600,
       "firetrucks": 15,
       "police_cars": 5
     },
@@ -34585,6 +34624,108 @@
     ]
   },
   {
+    "id": "332/b",
+    "name": "Flugzeugbrand",
+    "place": "Flughafen (groß): Vorfeld / Standplätze",
+    "place_array": [
+      "Flughafen (groß): Vorfeld / Standplätze"
+    ],
+    "average_credits": 10000,
+    "generated_by": "",
+    "icons": [
+      "/images/planecrash_gruen.png",
+      "/images/planecrash_gelb.png",
+      "/images/planecrash_rot.png"
+    ],
+    "requirements": {
+      "arff": 4,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "rettungstreppe": 1,
+      "heavy_rescue_vehicles": 3,
+      "foam_needed": 7000,
+      "firetrucks": 10
+    },
+    "chances": {
+      "nef": 20,
+      "patient_transport": 30
+    },
+    "additional": {
+      "possible_patient": 30,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 10,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 332,
+    "additive_overlays": "b",
+    "mission_categories": [
+      "airport"
+    ]
+  },
+  {
+    "id": "332/ab",
+    "name": "Flugzeugbrand",
+    "place": "Flughafen (groß): Vorfeld / Standplätze",
+    "place_array": [
+      "Flughafen (groß): Vorfeld / Standplätze"
+    ],
+    "average_credits": 12500,
+    "generated_by": "",
+    "icons": [
+      "/images/planecrash_gruen.png",
+      "/images/planecrash_gelb.png",
+      "/images/planecrash_rot.png"
+    ],
+    "requirements": {
+      "arff": 4,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "rettungstreppe": 1,
+      "heavy_rescue_vehicles": 3,
+      "foam_needed": 7000,
+      "firetrucks": 10
+    },
+    "chances": {
+      "nef": 20,
+      "patient_transport": 30
+    },
+    "additional": {
+      "possible_patient": 30,
+      "filter_id": "firehouse_missions",
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 10,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 332,
+    "additive_overlays": "ab",
+    "mission_categories": [
+      "airport"
+    ]
+  },
+  {
     "id": "333",
     "name": "Flugzeugbrand",
     "place": "Flughafen (groß): Start-/Landebahn",
@@ -34680,6 +34821,108 @@
     "overlay_index": null,
     "base_mission_id": 333,
     "additive_overlays": "a",
+    "mission_categories": [
+      "airport"
+    ]
+  },
+  {
+    "id": "333/b",
+    "name": "Flugzeugbrand",
+    "place": "Flughafen (groß): Start-/Landebahn",
+    "place_array": [
+      "Flughafen (groß): Start-/Landebahn"
+    ],
+    "average_credits": 10000,
+    "generated_by": "",
+    "icons": [
+      "/images/planecrash_gruen.png",
+      "/images/planecrash_gelb.png",
+      "/images/planecrash_rot.png"
+    ],
+    "requirements": {
+      "arff": 4,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "rettungstreppe": 1,
+      "heavy_rescue_vehicles": 3,
+      "foam_needed": 7000,
+      "firetrucks": 10
+    },
+    "chances": {
+      "nef": 50,
+      "patient_transport": 40
+    },
+    "additional": {
+      "possible_patient": 30,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 10,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 333,
+    "additive_overlays": "b",
+    "mission_categories": [
+      "airport"
+    ]
+  },
+  {
+    "id": "333/ab",
+    "name": "Flugzeugbrand",
+    "place": "Flughafen (groß): Start-/Landebahn",
+    "place_array": [
+      "Flughafen (groß): Start-/Landebahn"
+    ],
+    "average_credits": 12500,
+    "generated_by": "",
+    "icons": [
+      "/images/planecrash_gruen.png",
+      "/images/planecrash_gelb.png",
+      "/images/planecrash_rot.png"
+    ],
+    "requirements": {
+      "arff": 4,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "rettungstreppe": 1,
+      "heavy_rescue_vehicles": 3,
+      "foam_needed": 7000,
+      "firetrucks": 10
+    },
+    "chances": {
+      "nef": 50,
+      "patient_transport": 40
+    },
+    "additional": {
+      "possible_patient": 30,
+      "filter_id": "firehouse_missions",
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 10,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 333,
+    "additive_overlays": "ab",
     "mission_categories": [
       "airport"
     ]
@@ -35136,6 +35379,42 @@
     ]
   },
   {
+    "id": "342/a",
+    "name": "Triebwerksbrand",
+    "place": "Flughafen (groß): Vorfeld / Standplätze",
+    "place_array": [
+      "Flughafen (groß): Vorfeld / Standplätze"
+    ],
+    "average_credits": 2500,
+    "generated_by": "",
+    "icons": [
+      "/images/planecrash_gruen.png",
+      "/images/planecrash_gelb.png",
+      "/images/planecrash_rot.png"
+    ],
+    "requirements": {
+      "arff": 4,
+      "battalion_chief_vehicles": 1,
+      "heavy_rescue_vehicles": 1,
+      "foam_needed": 200,
+      "firetrucks": 2
+    },
+    "chances": {},
+    "additional": {
+      "filter_id": "firehouse_missions"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "fire_stations": 5
+    },
+    "overlay_index": null,
+    "base_mission_id": 342,
+    "additive_overlays": "a",
+    "mission_categories": [
+      "airport"
+    ]
+  },
+  {
     "id": "343",
     "name": "Triebwerksbrand",
     "place": "Flughafen (groß): Start-/Landebahn",
@@ -35166,6 +35445,42 @@
     "overlay_index": null,
     "base_mission_id": 343,
     "additive_overlays": "",
+    "mission_categories": [
+      "airport"
+    ]
+  },
+  {
+    "id": "343/a",
+    "name": "Triebwerksbrand",
+    "place": "Flughafen (groß): Start-/Landebahn",
+    "place_array": [
+      "Flughafen (groß): Start-/Landebahn"
+    ],
+    "average_credits": 2500,
+    "generated_by": "",
+    "icons": [
+      "/images/planecrash_gruen.png",
+      "/images/planecrash_gelb.png",
+      "/images/planecrash_rot.png"
+    ],
+    "requirements": {
+      "arff": 4,
+      "battalion_chief_vehicles": 1,
+      "heavy_rescue_vehicles": 1,
+      "foam_needed": 200,
+      "firetrucks": 2
+    },
+    "chances": {},
+    "additional": {
+      "filter_id": "firehouse_missions"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "fire_stations": 5
+    },
+    "overlay_index": null,
+    "base_mission_id": 343,
+    "additive_overlays": "a",
     "mission_categories": [
       "airport"
     ]
@@ -38906,6 +39221,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 1800,
       "firetrucks": 15,
       "police_cars": 4
     },
@@ -38973,6 +39289,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 1800,
       "firetrucks": 15,
       "police_cars": 4
     },
@@ -39041,6 +39358,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "ventilation": 1,
+      "foam_needed": 1800,
       "firetrucks": 15,
       "police_cars": 4
     },
@@ -39108,6 +39426,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 1800,
       "firetrucks": 15,
       "police_cars": 4
     },
@@ -39178,6 +39497,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "ventilation": 1,
+      "foam_needed": 1800,
       "firetrucks": 15,
       "police_cars": 4
     },
@@ -39247,6 +39567,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 1800,
       "firetrucks": 15,
       "police_cars": 4
     },
@@ -39317,6 +39638,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "ventilation": 1,
+      "foam_needed": 1800,
       "firetrucks": 15,
       "police_cars": 4
     },
@@ -39388,6 +39710,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "ventilation": 1,
+      "foam_needed": 1800,
       "firetrucks": 15,
       "police_cars": 4
     },
@@ -40658,6 +40981,120 @@
     ]
   },
   {
+    "id": "387/b",
+    "name": "Brennende Pipeline-Isolierung",
+    "place": "Chemiepark",
+    "place_array": [
+      "Chemiepark"
+    ],
+    "average_credits": 6500,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "battalion_chief_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "hazmat_vehicles": 1,
+      "gwmess": 1,
+      "teleskopmast": 1,
+      "turboloescher": 1,
+      "ulf": 1,
+      "foam_needed": 1200,
+      "firetrucks": 8
+    },
+    "chances": {
+      "hazmat_dekon": 20,
+      "nef": 20,
+      "patient_transport": 70
+    },
+    "additional": {
+      "possible_patient": 1,
+      "filter_id": "factory_fire_brigade_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "rescue_stations": 2,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 387,
+    "additive_overlays": "b",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
+    "id": "387/ab",
+    "name": "Brennende Pipeline-Isolierung",
+    "place": "Chemiepark",
+    "place_array": [
+      "Chemiepark"
+    ],
+    "average_credits": 8125,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "battalion_chief_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "hazmat_vehicles": 1,
+      "gwmess": 1,
+      "teleskopmast": 1,
+      "turboloescher": 1,
+      "ulf": 1,
+      "foam_needed": 1200,
+      "firetrucks": 8
+    },
+    "chances": {
+      "hazmat_dekon": 20,
+      "nef": 20,
+      "patient_transport": 70
+    },
+    "additional": {
+      "possible_patient": 1,
+      "filter_id": "factory_fire_brigade_missions",
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "rescue_stations": 2,
+      "fire_care_service": 1,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 387,
+    "additive_overlays": "ab",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
     "id": "388",
     "name": "Feuer in Verwaltungsgebäude",
     "place": "Chemiepark",
@@ -40954,6 +41391,71 @@
     ]
   },
   {
+    "id": "389/c",
+    "name": "Brand in Chemiepark - Produktion",
+    "place": "Chemiepark",
+    "place_array": [
+      "Chemiepark"
+    ],
+    "average_credits": 8500,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "hazmat_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 1,
+      "teleskopmast": 1,
+      "turboloescher": 1,
+      "ulf": 1,
+      "foam_needed": 10000,
+      "firetrucks": 16,
+      "police_cars": 3
+    },
+    "chances": {
+      "hazmat_dekon": 60,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 3,
+      "filter_id": "factory_fire_brigade_missions",
+      "fire_alarm_system_possible": true,
+      "max_police_motorcycle_replacing_police_cars": 1,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "rescue_stations": 3,
+      "police_stations": 3,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 389,
+    "additive_overlays": "c",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
     "id": "389/ab",
     "name": "Brand in Chemiepark - Produktion",
     "place": "Chemiepark",
@@ -41017,6 +41519,209 @@
     "overlay_index": null,
     "base_mission_id": 389,
     "additive_overlays": "ab",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
+    "id": "389/ac",
+    "name": "Brand in Chemiepark - Produktion",
+    "place": "Chemiepark",
+    "place_array": [
+      "Chemiepark"
+    ],
+    "average_credits": 8900,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "hazmat_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 1,
+      "teleskopmast": 1,
+      "turboloescher": 1,
+      "ulf": 1,
+      "foam_needed": 10000,
+      "firetrucks": 16,
+      "police_cars": 3
+    },
+    "chances": {
+      "hazmat_dekon": 60,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 3,
+      "filter_id": "factory_fire_brigade_missions",
+      "fire_alarm_system_possible": true,
+      "max_police_motorcycle_replacing_police_cars": 1,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "rescue_stations": 3,
+      "police_stations": 7,
+      "police_service_group_leader": 5,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 389,
+    "additive_overlays": "ac",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
+    "id": "389/bc",
+    "name": "Brand in Chemiepark - Produktion",
+    "place": "Chemiepark",
+    "place_array": [
+      "Chemiepark"
+    ],
+    "average_credits": 10625,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "hazmat_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 1,
+      "teleskopmast": 1,
+      "turboloescher": 1,
+      "ulf": 1,
+      "foam_needed": 10000,
+      "firetrucks": 16,
+      "police_cars": 3
+    },
+    "chances": {
+      "hazmat_dekon": 60,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 3,
+      "filter_id": "factory_fire_brigade_missions",
+      "fire_alarm_system_possible": true,
+      "max_police_motorcycle_replacing_police_cars": 1,
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "rescue_stations": 3,
+      "police_stations": 3,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 389,
+    "additive_overlays": "bc",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
+    "id": "389/abc",
+    "name": "Brand in Chemiepark - Produktion",
+    "place": "Chemiepark",
+    "place_array": [
+      "Chemiepark"
+    ],
+    "average_credits": 11125,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "hazmat_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 1,
+      "teleskopmast": 1,
+      "turboloescher": 1,
+      "ulf": 1,
+      "foam_needed": 10000,
+      "firetrucks": 16,
+      "police_cars": 3
+    },
+    "chances": {
+      "hazmat_dekon": 60,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 3,
+      "filter_id": "factory_fire_brigade_missions",
+      "fire_alarm_system_possible": true,
+      "max_police_motorcycle_replacing_police_cars": 1,
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "rescue_stations": 3,
+      "police_stations": 7,
+      "police_service_group_leader": 5,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 389,
+    "additive_overlays": "abc",
     "mission_categories": [
       "factory_fire_brigade"
     ]
@@ -41318,6 +42023,7 @@
       "gw_werkfeuerwehr": 1,
       "mobile_air_vehicles": 1,
       "heavy_rescue_vehicles": 1,
+      "foam_needed": 300,
       "firetrucks": 3
     },
     "chances": {
@@ -41363,6 +42069,7 @@
       "mobile_air_vehicles": 1,
       "heavy_rescue_vehicles": 1,
       "ventilation": 1,
+      "foam_needed": 300,
       "firetrucks": 3
     },
     "chances": {
@@ -41407,6 +42114,7 @@
       "gw_werkfeuerwehr": 1,
       "mobile_air_vehicles": 1,
       "heavy_rescue_vehicles": 1,
+      "foam_needed": 300,
       "firetrucks": 3
     },
     "chances": {
@@ -41448,6 +42156,7 @@
       "mobile_air_vehicles": 1,
       "heavy_rescue_vehicles": 1,
       "ventilation": 1,
+      "foam_needed": 300,
       "firetrucks": 3
     },
     "chances": {
@@ -41670,6 +42379,92 @@
     "overlay_index": null,
     "base_mission_id": 400,
     "additive_overlays": "a",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
+    "id": "400/b",
+    "name": "Brand in Lackiererei",
+    "place": "Automobilindustrie",
+    "place_array": [
+      "Automobilindustrie"
+    ],
+    "average_credits": 5050,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "heavy_rescue_vehicles": 1,
+      "teleskopmast": 1,
+      "ulf": 1,
+      "foam_needed": 1000,
+      "firetrucks": 7
+    },
+    "chances": {},
+    "additional": {
+      "filter_id": "factory_fire_brigade_missions",
+      "fire_alarm_system_possible": true
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 400,
+    "additive_overlays": "b",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
+    "id": "400/ab",
+    "name": "Brand in Lackiererei",
+    "place": "Automobilindustrie",
+    "place_array": [
+      "Automobilindustrie"
+    ],
+    "average_credits": 5450,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "heavy_rescue_vehicles": 1,
+      "teleskopmast": 1,
+      "ulf": 1,
+      "ventilation": 1,
+      "foam_needed": 1000,
+      "firetrucks": 7
+    },
+    "chances": {},
+    "additional": {
+      "filter_id": "factory_fire_brigade_missions",
+      "fire_alarm_system_possible": true
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "ventilation": 1,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 400,
+    "additive_overlays": "ab",
     "mission_categories": [
       "factory_fire_brigade"
     ]
@@ -43164,6 +43959,75 @@
     ]
   },
   {
+    "id": "424/e",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 8600,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 5,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "e",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
     "id": "424/ab",
     "name": "Großbrand Müllverbrennungsanlage",
     "place": "Müllverbrennungsanlage",
@@ -43380,6 +44244,77 @@
     ]
   },
   {
+    "id": "424/ae",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 9000,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 7,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "police_service_group_leader": 5,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "ae",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
     "id": "424/bc",
     "name": "Großbrand Müllverbrennungsanlage",
     "place": "Müllverbrennungsanlage",
@@ -43524,6 +44459,77 @@
     ]
   },
   {
+    "id": "424/be",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 9000,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "ventilation": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 5,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "ventilation": 3,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "be",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
     "id": "424/cd",
     "name": "Großbrand Müllverbrennungsanlage",
     "place": "Müllverbrennungsanlage",
@@ -43591,6 +44597,148 @@
     "overlay_index": null,
     "base_mission_id": 424,
     "additive_overlays": "cd",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "424/ce",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 9000,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "drone": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 5,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "drone": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "ce",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "424/de",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 10750,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 5,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "de",
     "mission_categories": [
       "fire"
     ]
@@ -43744,6 +44892,79 @@
     ]
   },
   {
+    "id": "424/abe",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 9400,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "ventilation": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 7,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "police_service_group_leader": 5,
+      "ventilation": 3,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "abe",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
     "id": "424/acd",
     "name": "Großbrand Müllverbrennungsanlage",
     "place": "Müllverbrennungsanlage",
@@ -43813,6 +45034,152 @@
     "overlay_index": null,
     "base_mission_id": 424,
     "additive_overlays": "acd",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "424/ace",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 9400,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "drone": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 7,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "police_service_group_leader": 5,
+      "drone": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "ace",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "424/ade",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 11250,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 7,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "police_service_group_leader": 5,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "ade",
     "mission_categories": [
       "fire"
     ]
@@ -43892,6 +45259,225 @@
     ]
   },
   {
+    "id": "424/bce",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 9400,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "ventilation": 1,
+      "drone": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 5,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "ventilation": 3,
+      "drone": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "bce",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "424/bde",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 11250,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "ventilation": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 5,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "ventilation": 3,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "bde",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "424/cde",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 11250,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "drone": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 5,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "drone": 1,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "cde",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
     "id": "424/abcd",
     "name": "Großbrand Müllverbrennungsanlage",
     "place": "Müllverbrennungsanlage",
@@ -43963,6 +45549,383 @@
     "overlay_index": null,
     "base_mission_id": 424,
     "additive_overlays": "abcd",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "424/abce",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 9800,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "ventilation": 1,
+      "drone": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 7,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "police_service_group_leader": 5,
+      "ventilation": 3,
+      "drone": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "abce",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "424/abde",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 11750,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "ventilation": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 7,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "police_service_group_leader": 5,
+      "ventilation": 3,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "abde",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "424/acde",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 11750,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "drone": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 7,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "police_service_group_leader": 5,
+      "drone": 1,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "acde",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "424/bcde",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 11750,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "ventilation": 1,
+      "drone": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 5,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "ventilation": 3,
+      "drone": 1,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "bcde",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "424/abcde",
+    "name": "Großbrand Müllverbrennungsanlage",
+    "place": "Müllverbrennungsanlage",
+    "place_array": [
+      "Müllverbrennungsanlage"
+    ],
+    "average_credits": 12250,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "fwk": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 4,
+      "thw_brmg_r": 1,
+      "thw_dle": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "ventilation": 1,
+      "drone": 1,
+      "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 6500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "fwk": 10,
+      "water_tankers": 10,
+      "nef": 10,
+      "patient_transport": 50
+    },
+    "additional": {
+      "possible_patient": 5,
+      "filter_id": "firehouse_missions",
+      "care_includes_staff_members": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 2,
+      "police_stations": 7,
+      "thw": 3,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "police_service_group_leader": 5,
+      "ventilation": 3,
+      "drone": 1,
+      "fire_care_service": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 424,
+    "additive_overlays": "abcde",
     "mission_categories": [
       "fire"
     ]
@@ -44890,6 +46853,7 @@
       "gwmess": 1,
       "heavy_rescue_vehicles": 2,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -44946,6 +46910,7 @@
       "police_service_group_leader": 1,
       "heavy_rescue_vehicles": 2,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45003,6 +46968,7 @@
       "heavy_rescue_vehicles": 2,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45060,6 +47026,7 @@
       "heavy_rescue_vehicles": 2,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45116,6 +47083,7 @@
       "gwmess": 1,
       "heavy_rescue_vehicles": 2,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45175,6 +47143,7 @@
       "heavy_rescue_vehicles": 2,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45234,6 +47203,7 @@
       "heavy_rescue_vehicles": 2,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45292,6 +47262,7 @@
       "police_service_group_leader": 1,
       "heavy_rescue_vehicles": 2,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45352,6 +47323,7 @@
       "ventilation": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45410,6 +47382,7 @@
       "heavy_rescue_vehicles": 2,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45469,6 +47442,7 @@
       "heavy_rescue_vehicles": 2,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45530,6 +47504,7 @@
       "ventilation": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45590,6 +47565,7 @@
       "heavy_rescue_vehicles": 2,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45651,6 +47627,7 @@
       "heavy_rescue_vehicles": 2,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45712,6 +47689,7 @@
       "ventilation": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45774,6 +47752,7 @@
       "ventilation": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 5,
+      "foam_needed": 1300,
       "firetrucks": 10
     },
     "chances": {
@@ -45838,6 +47817,7 @@
       "gwmess": 1,
       "heavy_rescue_vehicles": 4,
       "oneof_police_patrol_or_motorcycle": 3,
+      "foam_needed": 2000,
       "firetrucks": 12
     },
     "chances": {
@@ -45897,6 +47877,7 @@
       "police_service_group_leader": 1,
       "heavy_rescue_vehicles": 4,
       "oneof_police_patrol_or_motorcycle": 3,
+      "foam_needed": 2000,
       "firetrucks": 12
     },
     "chances": {
@@ -45957,6 +47938,7 @@
       "heavy_rescue_vehicles": 4,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 3,
+      "foam_needed": 2000,
       "firetrucks": 12
     },
     "chances": {
@@ -46016,6 +47998,7 @@
       "gwmess": 1,
       "heavy_rescue_vehicles": 4,
       "oneof_police_patrol_or_motorcycle": 3,
+      "foam_needed": 2000,
       "firetrucks": 12
     },
     "chances": {
@@ -46078,6 +48061,7 @@
       "heavy_rescue_vehicles": 4,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 3,
+      "foam_needed": 2000,
       "firetrucks": 12
     },
     "chances": {
@@ -46139,6 +48123,7 @@
       "police_service_group_leader": 1,
       "heavy_rescue_vehicles": 4,
       "oneof_police_patrol_or_motorcycle": 3,
+      "foam_needed": 2000,
       "firetrucks": 12
     },
     "chances": {
@@ -46201,6 +48186,7 @@
       "heavy_rescue_vehicles": 4,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 3,
+      "foam_needed": 2000,
       "firetrucks": 12
     },
     "chances": {
@@ -46264,6 +48250,7 @@
       "heavy_rescue_vehicles": 4,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 3,
+      "foam_needed": 2000,
       "firetrucks": 12
     },
     "chances": {
@@ -48818,6 +50805,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -48887,6 +50875,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -48957,6 +50946,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49027,6 +51017,7 @@
       "thw_mzkw": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49096,6 +51087,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49168,6 +51160,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49240,6 +51233,7 @@
       "thw_mzkw": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49311,6 +51305,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49384,6 +51379,7 @@
       "ventilation": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49455,6 +51451,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49527,6 +51524,7 @@
       "thw_mzkw": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49601,6 +51599,7 @@
       "ventilation": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49674,6 +51673,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49748,6 +51748,7 @@
       "thw_mzkw": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49822,6 +51823,7 @@
       "ventilation": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -49897,6 +51899,7 @@
       "ventilation": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 9900,
       "firetrucks": 18
     },
     "chances": {
@@ -50247,6 +52250,7 @@
       "turboloescher": 1,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 10000,
       "firetrucks": 20
     },
     "chances": {
@@ -50324,6 +52328,7 @@
       "turboloescher": 1,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 10000,
       "firetrucks": 20
     },
     "chances": {
@@ -50402,6 +52407,7 @@
       "ulf": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 10000,
       "firetrucks": 20
     },
     "chances": {
@@ -50479,6 +52485,7 @@
       "turboloescher": 1,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 10000,
       "firetrucks": 20
     },
     "chances": {
@@ -50559,6 +52566,7 @@
       "ulf": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 10000,
       "firetrucks": 20
     },
     "chances": {
@@ -50638,6 +52646,7 @@
       "turboloescher": 1,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 10000,
       "firetrucks": 20
     },
     "chances": {
@@ -50718,6 +52727,7 @@
       "ulf": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 10000,
       "firetrucks": 20
     },
     "chances": {
@@ -50799,6 +52809,7 @@
       "ulf": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 10000,
       "firetrucks": 20
     },
     "chances": {
@@ -52591,6 +54602,60 @@
     ]
   },
   {
+    "id": "485/c",
+    "name": "Brand mehrerer E-Autos in Auslieferungshalle",
+    "place": "Automobilindustrie",
+    "place_array": [
+      "Automobilindustrie"
+    ],
+    "average_credits": 3700,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "battalion_chief_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 1,
+      "teleskopmast": 1,
+      "ulf": 2,
+      "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 1000,
+      "firetrucks": 4
+    },
+    "chances": {
+      "hazmat_dekon": 5,
+      "mobile_air_vehicles": 40,
+      "water_tankers": 50,
+      "gwmess": 25
+    },
+    "additional": {
+      "expansion_missions_ids": [
+        462,
+        465
+      ],
+      "filter_id": "factory_fire_brigade_missions"
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "police_stations": 2,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 485,
+    "additive_overlays": "c",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
     "id": "485/ab",
     "name": "Brand mehrerer E-Autos in Auslieferungshalle",
     "place": "Automobilindustrie",
@@ -52643,6 +54708,176 @@
     "overlay_index": null,
     "base_mission_id": 485,
     "additive_overlays": "ab",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
+    "id": "485/ac",
+    "name": "Brand mehrerer E-Autos in Auslieferungshalle",
+    "place": "Automobilindustrie",
+    "place_array": [
+      "Automobilindustrie"
+    ],
+    "average_credits": 4100,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "battalion_chief_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 1,
+      "teleskopmast": 1,
+      "ulf": 2,
+      "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 1000,
+      "firetrucks": 4
+    },
+    "chances": {
+      "hazmat_dekon": 5,
+      "mobile_air_vehicles": 40,
+      "water_tankers": 50,
+      "gwmess": 25
+    },
+    "additional": {
+      "expansion_missions_ids": [
+        462,
+        465
+      ],
+      "filter_id": "factory_fire_brigade_missions"
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "police_stations": 7,
+      "police_service_group_leader": 5,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 485,
+    "additive_overlays": "ac",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
+    "id": "485/bc",
+    "name": "Brand mehrerer E-Autos in Auslieferungshalle",
+    "place": "Automobilindustrie",
+    "place_array": [
+      "Automobilindustrie"
+    ],
+    "average_credits": 4625,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "battalion_chief_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 1,
+      "teleskopmast": 1,
+      "ulf": 2,
+      "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 1000,
+      "firetrucks": 4
+    },
+    "chances": {
+      "hazmat_dekon": 5,
+      "mobile_air_vehicles": 40,
+      "water_tankers": 50,
+      "gwmess": 25
+    },
+    "additional": {
+      "expansion_missions_ids": [
+        462,
+        465
+      ],
+      "filter_id": "factory_fire_brigade_missions",
+      "care_includes_staff_members": true
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "police_stations": 2,
+      "fire_care_service": 1,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 485,
+    "additive_overlays": "bc",
+    "mission_categories": [
+      "factory_fire_brigade"
+    ]
+  },
+  {
+    "id": "485/abc",
+    "name": "Brand mehrerer E-Autos in Auslieferungshalle",
+    "place": "Automobilindustrie",
+    "place_array": [
+      "Automobilindustrie"
+    ],
+    "average_credits": 5125,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "hazmat_dekon": 1,
+      "battalion_chief_vehicles": 1,
+      "gw_werkfeuerwehr": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 1,
+      "teleskopmast": 1,
+      "ulf": 2,
+      "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 1000,
+      "firetrucks": 4
+    },
+    "chances": {
+      "hazmat_dekon": 5,
+      "mobile_air_vehicles": 40,
+      "water_tankers": 50,
+      "gwmess": 25
+    },
+    "additional": {
+      "expansion_missions_ids": [
+        462,
+        465
+      ],
+      "filter_id": "factory_fire_brigade_missions",
+      "care_includes_staff_members": true
+    },
+    "prerequisites": {
+      "main_building": -2,
+      "werkfeuerwehr": 1,
+      "police_stations": 7,
+      "police_service_group_leader": 5,
+      "fire_care_service": 1,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 485,
+    "additive_overlays": "abc",
     "mission_categories": [
       "factory_fire_brigade"
     ]
@@ -59753,6 +61988,7 @@
       "thw_mzkw": 2,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 8000,
       "firetrucks": 40
     },
     "chances": {
@@ -59835,6 +62071,7 @@
       "thw_mzkw": 2,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 8000,
       "firetrucks": 40
     },
     "chances": {
@@ -59918,6 +62155,7 @@
       "ulf": 1,
       "heavy_rescue": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 8000,
       "firetrucks": 40
     },
     "chances": {
@@ -60000,6 +62238,7 @@
       "thw_mzkw": 2,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 8000,
       "firetrucks": 40
     },
     "chances": {
@@ -60086,6 +62325,7 @@
       "ulf": 1,
       "heavy_rescue": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 8000,
       "firetrucks": 40
     },
     "chances": {
@@ -60170,6 +62410,7 @@
       "thw_mzkw": 2,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 8000,
       "firetrucks": 40
     },
     "chances": {
@@ -60256,6 +62497,7 @@
       "ulf": 1,
       "heavy_rescue": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 8000,
       "firetrucks": 40
     },
     "chances": {
@@ -60343,6 +62585,7 @@
       "ulf": 1,
       "heavy_rescue": 1,
       "oneof_police_patrol_or_motorcycle": 10,
+      "foam_needed": 8000,
       "firetrucks": 40
     },
     "chances": {
@@ -60528,6 +62771,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 600,
       "firetrucks": 6
     },
     "chances": {
@@ -60597,6 +62841,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 600,
       "firetrucks": 6
     },
     "chances": {
@@ -71531,6 +73776,148 @@
     ]
   },
   {
+    "id": "545/b",
+    "name": "Brand bei Holzverarbeiter",
+    "place": "Holzverarbeitung",
+    "place_array": [
+      "Holzverarbeitung"
+    ],
+    "average_credits": 9500,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 3,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 2,
+      "thw_brmg_r": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 5700,
+      "firetrucks": 14
+    },
+    "chances": {
+      "mobile_command_vehicles": 25,
+      "mobile_air_vehicles": 60,
+      "water_tankers": 50,
+      "gwmess": 10,
+      "nef": 40,
+      "patient_transport": 60
+    },
+    "additional": {
+      "possible_patient": 6,
+      "possible_patient_min": 2,
+      "average_min_fire_personnel": 100,
+      "filter_id": "technical_aid_organization_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 9,
+      "rescue_stations": 5,
+      "police_stations": 4,
+      "thw": 1,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 545,
+    "additive_overlays": "b",
+    "mission_categories": [
+      "thw"
+    ]
+  },
+  {
+    "id": "545/ab",
+    "name": "Brand bei Holzverarbeiter",
+    "place": "Holzverarbeitung",
+    "place_array": [
+      "Holzverarbeitung"
+    ],
+    "average_credits": 9900,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 3,
+      "battalion_chief_vehicles": 2,
+      "mobile_command_vehicles": 1,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 2,
+      "thw_brmg_r": 1,
+      "thw_gkw": 1,
+      "thw_lkw": 1,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 1,
+      "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 5700,
+      "firetrucks": 14
+    },
+    "chances": {
+      "mobile_command_vehicles": 25,
+      "mobile_air_vehicles": 60,
+      "water_tankers": 50,
+      "gwmess": 10,
+      "nef": 40,
+      "patient_transport": 60
+    },
+    "additional": {
+      "possible_patient": 6,
+      "possible_patient_min": 2,
+      "average_min_fire_personnel": 100,
+      "filter_id": "technical_aid_organization_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 9,
+      "rescue_stations": 5,
+      "police_stations": 7,
+      "thw": 1,
+      "thw_bergung_count": 1,
+      "thw_zugtrupp_count": 1,
+      "thw_fg_raeumen_count": 1,
+      "thw_gkw_count": 1,
+      "police_service_group_leader": 5,
+      "fire_stations": 18
+    },
+    "overlay_index": null,
+    "base_mission_id": 545,
+    "additive_overlays": "ab",
+    "mission_categories": [
+      "thw"
+    ]
+  },
+  {
     "id": "546",
     "name": "Hitzschlagvorsorge bei Stau",
     "place": "Autobahnauf.- / abfahrt",
@@ -72071,6 +74458,59 @@
     ]
   },
   {
+    "id": "552/c",
+    "name": "Brand in Reifenlager",
+    "place": "Auto-Werkstatt",
+    "place_array": [
+      "Auto-Werkstatt"
+    ],
+    "average_credits": 5500,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 2,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 2,
+      "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 17000,
+      "firetrucks": 8
+    },
+    "chances": {
+      "nef": 60,
+      "patient_transport": 80
+    },
+    "additional": {
+      "possible_patient": 4,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 4,
+      "police_stations": 1,
+      "fire_stations": 25
+    },
+    "overlay_index": null,
+    "base_mission_id": 552,
+    "additive_overlays": "c",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
     "id": "552/ab",
     "name": "Brand in Reifenlager",
     "place": "Auto-Werkstatt",
@@ -72122,6 +74562,173 @@
     "overlay_index": null,
     "base_mission_id": 552,
     "additive_overlays": "ab",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "552/ac",
+    "name": "Brand in Reifenlager",
+    "place": "Auto-Werkstatt",
+    "place_array": [
+      "Auto-Werkstatt"
+    ],
+    "average_credits": 5900,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 2,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 2,
+      "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 17000,
+      "firetrucks": 8
+    },
+    "chances": {
+      "nef": 60,
+      "patient_transport": 80
+    },
+    "additional": {
+      "possible_patient": 4,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 4,
+      "police_stations": 7,
+      "police_service_group_leader": 5,
+      "fire_stations": 25
+    },
+    "overlay_index": null,
+    "base_mission_id": 552,
+    "additive_overlays": "ac",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "552/bc",
+    "name": "Brand in Reifenlager",
+    "place": "Auto-Werkstatt",
+    "place_array": [
+      "Auto-Werkstatt"
+    ],
+    "average_credits": 5900,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 2,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 2,
+      "ventilation": 1,
+      "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 17000,
+      "firetrucks": 8
+    },
+    "chances": {
+      "nef": 60,
+      "patient_transport": 80
+    },
+    "additional": {
+      "possible_patient": 4,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 4,
+      "police_stations": 1,
+      "ventilation": 2,
+      "fire_stations": 25
+    },
+    "overlay_index": null,
+    "base_mission_id": 552,
+    "additive_overlays": "bc",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "552/abc",
+    "name": "Brand in Reifenlager",
+    "place": "Auto-Werkstatt",
+    "place_array": [
+      "Auto-Werkstatt"
+    ],
+    "average_credits": 6300,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 2,
+      "mobile_air_vehicles": 1,
+      "water_tankers": 2,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 2,
+      "ventilation": 1,
+      "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 17000,
+      "firetrucks": 8
+    },
+    "chances": {
+      "nef": 60,
+      "patient_transport": 80
+    },
+    "additional": {
+      "possible_patient": 4,
+      "filter_id": "firehouse_missions",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 4,
+      "police_stations": 7,
+      "police_service_group_leader": 5,
+      "ventilation": 2,
+      "fire_stations": 25
+    },
+    "overlay_index": null,
+    "base_mission_id": 552,
+    "additive_overlays": "abc",
     "mission_categories": [
       "fire"
     ]
@@ -76737,6 +79344,7 @@
       "thw_mtwtz": 3,
       "thw_mzkw": 3,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 1600,
       "firetrucks": 25
     },
     "chances": {
@@ -76802,6 +79410,7 @@
       "thw_mtwtz": 3,
       "thw_mzkw": 3,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 1600,
       "firetrucks": 25
     },
     "chances": {
@@ -76872,6 +79481,7 @@
       "thw_command_4": 1,
       "thw_command_trailer": 1,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 1600,
       "firetrucks": 25
     },
     "chances": {
@@ -76938,6 +79548,7 @@
       "thw_mzkw": 3,
       "railway_fire": 2,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 1600,
       "firetrucks": 25
     },
     "chances": {
@@ -77009,6 +79620,7 @@
       "thw_command_4": 1,
       "thw_command_trailer": 1,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 1600,
       "firetrucks": 25
     },
     "chances": {
@@ -77077,6 +79689,7 @@
       "thw_mzkw": 3,
       "railway_fire": 2,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 1600,
       "firetrucks": 25
     },
     "chances": {
@@ -77149,6 +79762,7 @@
       "thw_command_trailer": 1,
       "railway_fire": 2,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 1600,
       "firetrucks": 25
     },
     "chances": {
@@ -77222,6 +79836,7 @@
       "thw_command_trailer": 1,
       "railway_fire": 2,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 1600,
       "firetrucks": 25
     },
     "chances": {
@@ -77422,6 +80037,7 @@
       "hazmat_vehicles": 1,
       "gwmess": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 250,
       "firetrucks": 8
     },
     "chances": {
@@ -77477,6 +80093,7 @@
       "gwmess": 1,
       "police_service_group_leader": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 250,
       "firetrucks": 8
     },
     "chances": {
@@ -81657,6 +84274,7 @@
       "gwmess": 1,
       "heavy_rescue_vehicles": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 1000,
       "firetrucks": 15
     },
     "chances": {
@@ -81714,6 +84332,7 @@
       "police_service_group_leader": 1,
       "heavy_rescue_vehicles": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 1000,
       "firetrucks": 15
     },
     "chances": {
@@ -81772,6 +84391,7 @@
       "heavy_rescue_vehicles": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 1000,
       "firetrucks": 15
     },
     "chances": {
@@ -81831,6 +84451,7 @@
       "heavy_rescue_vehicles": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 1000,
       "firetrucks": 15
     },
     "chances": {
@@ -85170,6 +87791,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 1250,
       "firetrucks": 20
     },
     "chances": {
@@ -85236,6 +87858,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 1250,
       "firetrucks": 20
     },
     "chances": {
@@ -85302,6 +87925,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 1250,
       "firetrucks": 20
     },
     "chances": {
@@ -85371,6 +87995,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 1250,
       "firetrucks": 20
     },
     "chances": {
@@ -86159,6 +88784,7 @@
       "thw_mzkw": 1,
       "ulf": 2,
       "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 200,
       "firetrucks": 5
     },
     "chances": {
@@ -86232,6 +88858,7 @@
       "ulf": 2,
       "ventilation": 1,
       "oneof_police_patrol_or_motorcycle": 2,
+      "foam_needed": 200,
       "firetrucks": 5
     },
     "chances": {
@@ -87953,6 +90580,73 @@
     ]
   },
   {
+    "id": "702/c",
+    "name": "Brand in Großwäscherei",
+    "place": "Textilverarbeitung",
+    "place_array": [
+      "Textilverarbeitung"
+    ],
+    "average_credits": 7000,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "mobile_air_vehicles": 1,
+      "hazmat_vehicles": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 2,
+      "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 1500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "mobile_command_vehicles": 60,
+      "mobile_air_vehicles": 30,
+      "hazmat_vehicles": 40,
+      "gwmess": 30,
+      "nef": 30,
+      "patient_transport": 30
+    },
+    "additional": {
+      "possible_patient": 5,
+      "possible_patient_min": 2,
+      "expansion_missions_ids": [
+        462
+      ],
+      "followup_missions_ids": [
+        528,
+        240
+      ],
+      "filter_id": "firehouse_missions",
+      "fire_alarm_system_possible": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 3,
+      "police_stations": 2,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 702,
+    "additive_overlays": "c",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
     "id": "702/ab",
     "name": "Brand in Großwäscherei",
     "place": "Textilverarbeitung",
@@ -88018,6 +90712,215 @@
     "overlay_index": null,
     "base_mission_id": 702,
     "additive_overlays": "ab",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "702/ac",
+    "name": "Brand in Großwäscherei",
+    "place": "Textilverarbeitung",
+    "place_array": [
+      "Textilverarbeitung"
+    ],
+    "average_credits": 7400,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "mobile_air_vehicles": 1,
+      "hazmat_vehicles": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 2,
+      "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 1500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "mobile_command_vehicles": 60,
+      "mobile_air_vehicles": 30,
+      "hazmat_vehicles": 40,
+      "gwmess": 30,
+      "nef": 30,
+      "patient_transport": 30
+    },
+    "additional": {
+      "possible_patient": 5,
+      "possible_patient_min": 2,
+      "expansion_missions_ids": [
+        462
+      ],
+      "followup_missions_ids": [
+        528,
+        240
+      ],
+      "filter_id": "firehouse_missions",
+      "fire_alarm_system_possible": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 3,
+      "police_stations": 7,
+      "police_service_group_leader": 5,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 702,
+    "additive_overlays": "ac",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "702/bc",
+    "name": "Brand in Großwäscherei",
+    "place": "Textilverarbeitung",
+    "place_array": [
+      "Textilverarbeitung"
+    ],
+    "average_credits": 7400,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "mobile_air_vehicles": 1,
+      "hazmat_vehicles": 1,
+      "gwmess": 1,
+      "heavy_rescue_vehicles": 2,
+      "ventilation": 1,
+      "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 1500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "mobile_command_vehicles": 60,
+      "mobile_air_vehicles": 30,
+      "hazmat_vehicles": 40,
+      "gwmess": 30,
+      "nef": 30,
+      "patient_transport": 30
+    },
+    "additional": {
+      "possible_patient": 5,
+      "possible_patient_min": 2,
+      "expansion_missions_ids": [
+        462
+      ],
+      "followup_missions_ids": [
+        528,
+        240
+      ],
+      "filter_id": "firehouse_missions",
+      "fire_alarm_system_possible": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 3,
+      "police_stations": 2,
+      "ventilation": 2,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 702,
+    "additive_overlays": "bc",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "702/abc",
+    "name": "Brand in Großwäscherei",
+    "place": "Textilverarbeitung",
+    "place_array": [
+      "Textilverarbeitung"
+    ],
+    "average_credits": 7800,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 2,
+      "battalion_chief_vehicles": 3,
+      "mobile_command_vehicles": 1,
+      "mobile_air_vehicles": 1,
+      "hazmat_vehicles": 1,
+      "gwmess": 1,
+      "police_service_group_leader": 1,
+      "heavy_rescue_vehicles": 2,
+      "ventilation": 1,
+      "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 1500,
+      "firetrucks": 12
+    },
+    "chances": {
+      "mobile_command_vehicles": 60,
+      "mobile_air_vehicles": 30,
+      "hazmat_vehicles": 40,
+      "gwmess": 30,
+      "nef": 30,
+      "patient_transport": 30
+    },
+    "additional": {
+      "possible_patient": 5,
+      "possible_patient_min": 2,
+      "expansion_missions_ids": [
+        462
+      ],
+      "followup_missions_ids": [
+        528,
+        240
+      ],
+      "filter_id": "firehouse_missions",
+      "fire_alarm_system_possible": true,
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 3,
+      "police_stations": 7,
+      "police_service_group_leader": 5,
+      "ventilation": 2,
+      "fire_stations": 12
+    },
+    "overlay_index": null,
+    "base_mission_id": 702,
+    "additive_overlays": "abc",
     "mission_categories": [
       "fire"
     ]
@@ -89044,8 +91947,8 @@
       "possible_patient": 1,
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-04-05T09:00:00Z",
-      "date_end": "2024-06-20T22:00:00Z",
+      "date_start": "2025-03-28T10:00:00Z",
+      "date_end": "2025-06-20T22:00:00Z",
       "patient_specialization_ids": [
         0
       ],
@@ -89085,8 +91988,8 @@
       "possible_patient": 1,
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-04-05T09:00:00Z",
-      "date_end": "2024-06-20T22:00:00Z",
+      "date_start": "2025-03-28T10:00:00Z",
+      "date_end": "2025-06-20T22:00:00Z",
       "patient_specialization_ids": [
         0
       ],
@@ -89126,8 +92029,8 @@
       "possible_patient": 1,
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-04-05T09:00:00Z",
-      "date_end": "2024-06-20T22:00:00Z",
+      "date_start": "2025-03-28T10:00:00Z",
+      "date_end": "2025-06-20T22:00:00Z",
       "patient_specialization_ids": [
         4
       ],
@@ -89170,8 +92073,8 @@
       "possible_patient": 3,
       "possible_patient_min": 1,
       "filter_id": "police_station_missions",
-      "date_start": "2024-04-05T09:00:00Z",
-      "date_end": "2024-06-20T22:00:00Z",
+      "date_start": "2025-03-28T10:00:00Z",
+      "date_end": "2025-06-20T22:00:00Z",
       "patient_specialization_ids": [
         4
       ],
@@ -89216,8 +92119,8 @@
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
       "patient_allow_first_responder_chance": 50,
-      "date_start": "2024-04-05T09:00:00Z",
-      "date_end": "2024-06-20T22:00:00Z",
+      "date_start": "2025-03-28T10:00:00Z",
+      "date_end": "2025-06-20T22:00:00Z",
       "patient_specialization_ids": [
         1
       ],
@@ -89258,8 +92161,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2024-04-05T09:00:00Z",
-      "date_end": "2024-06-20T22:00:00Z"
+      "date_start": "2025-03-28T10:00:00Z",
+      "date_end": "2025-06-20T22:00:00Z"
     },
     "prerequisites": {
       "main_building": 0,
@@ -89298,8 +92201,8 @@
         729,
         730
       ],
-      "date_start": "2024-04-05T09:00:00Z",
-      "date_end": "2024-06-20T22:00:00Z"
+      "date_start": "2025-03-28T10:00:00Z",
+      "date_end": "2025-06-20T22:00:00Z"
     },
     "prerequisites": {
       "main_building": 6,
@@ -89337,8 +92240,8 @@
       "max_possible_prisoners": 1,
       "filter_id": "police_station_missions",
       "subsequent_mission_only": true,
-      "date_start": "2024-04-05T09:00:00Z",
-      "date_end": "2024-06-20T22:00:00Z"
+      "date_start": "2025-03-28T10:00:00Z",
+      "date_end": "2025-06-20T22:00:00Z"
     },
     "prerequisites": {
       "main_building": 6,
@@ -89379,8 +92282,8 @@
       "filter_id": "ambulance_station_missions",
       "patient_allow_first_responder_chance": 60,
       "subsequent_mission_only": true,
-      "date_start": "2024-04-05T09:00:00Z",
-      "date_end": "2024-06-20T22:00:00Z",
+      "date_start": "2025-03-28T10:00:00Z",
+      "date_end": "2025-06-20T22:00:00Z",
       "patient_specialization_ids": [
         0
       ],
@@ -91317,6 +94220,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 7500,
       "firetrucks": 25
     },
     "chances": {
@@ -91382,6 +94286,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 7500,
       "firetrucks": 25
     },
     "chances": {
@@ -91448,6 +94353,7 @@
       "thw_mzkw": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 7500,
       "firetrucks": 25
     },
     "chances": {
@@ -91513,6 +94419,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 7500,
       "firetrucks": 25
     },
     "chances": {
@@ -91582,6 +94489,7 @@
       "thw_mzkw": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 7500,
       "firetrucks": 25
     },
     "chances": {
@@ -91649,6 +94557,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 7500,
       "firetrucks": 25
     },
     "chances": {
@@ -91718,6 +94627,7 @@
       "thw_mzkw": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 7500,
       "firetrucks": 25
     },
     "chances": {
@@ -91788,6 +94698,7 @@
       "thw_mzkw": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 8,
+      "foam_needed": 7500,
       "firetrucks": 25
     },
     "chances": {
@@ -92042,6 +94953,7 @@
       "police_helicopters": 1,
       "heavy_rescue_vehicles": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 8000,
       "firetrucks": 12
     },
     "chances": {
@@ -92096,6 +95008,7 @@
       "police_helicopters": 1,
       "heavy_rescue_vehicles": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 8000,
       "firetrucks": 12
     },
     "chances": {
@@ -92151,6 +95064,7 @@
       "heavy_rescue_vehicles": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 8000,
       "firetrucks": 12
     },
     "chances": {
@@ -92205,6 +95119,7 @@
       "police_helicopters": 1,
       "heavy_rescue_vehicles": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 8000,
       "firetrucks": 12
     },
     "chances": {
@@ -92262,6 +95177,7 @@
       "heavy_rescue_vehicles": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 8000,
       "firetrucks": 12
     },
     "chances": {
@@ -92318,6 +95234,7 @@
       "police_helicopters": 1,
       "heavy_rescue_vehicles": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 8000,
       "firetrucks": 12
     },
     "chances": {
@@ -92375,6 +95292,7 @@
       "heavy_rescue_vehicles": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 8000,
       "firetrucks": 12
     },
     "chances": {
@@ -92433,6 +95351,7 @@
       "heavy_rescue_vehicles": 1,
       "drone": 1,
       "oneof_police_patrol_or_motorcycle": 4,
+      "foam_needed": 8000,
       "firetrucks": 12
     },
     "chances": {
@@ -92553,6 +95472,7 @@
       "gwmess": 1,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 250,
       "firetrucks": 8
     },
     "chances": {
@@ -92615,6 +95535,7 @@
       "police_service_group_leader": 1,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 250,
       "firetrucks": 8
     },
     "chances": {
@@ -92677,6 +95598,7 @@
       "gwmess": 1,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 250,
       "firetrucks": 8
     },
     "chances": {
@@ -92741,6 +95663,7 @@
       "police_service_group_leader": 1,
       "ulf": 1,
       "oneof_police_patrol_or_motorcycle": 6,
+      "foam_needed": 250,
       "firetrucks": 8
     },
     "chances": {
@@ -93017,6 +95940,7 @@
       "gwoil": 1,
       "heavy_rescue_vehicles": 2,
       "ulf": 1,
+      "foam_needed": 600,
       "firetrucks": 4,
       "police_cars": 2
     },
@@ -95418,6 +98342,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -95491,6 +98416,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "ventilation": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -95565,6 +98491,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "heavy_rescue": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -95639,6 +98566,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -95713,6 +98641,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "drone": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -95788,6 +98717,7 @@
       "thw_mzkw": 1,
       "heavy_rescue": 1,
       "ventilation": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -95864,6 +98794,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "ventilation": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -95940,6 +98871,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "drone": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -96016,6 +98948,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "heavy_rescue": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -96092,6 +99025,7 @@
       "thw_mzkw": 1,
       "heavy_rescue": 1,
       "drone": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -96168,6 +99102,7 @@
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
       "drone": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -96245,6 +99180,7 @@
       "thw_mzkw": 1,
       "heavy_rescue": 1,
       "ventilation": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -96323,6 +99259,7 @@
       "heavy_rescue": 1,
       "ventilation": 1,
       "drone": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -96401,6 +99338,7 @@
       "thw_mzkw": 1,
       "ventilation": 1,
       "drone": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -96479,6 +99417,7 @@
       "thw_mzkw": 1,
       "heavy_rescue": 1,
       "drone": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -96558,6 +99497,7 @@
       "heavy_rescue": 1,
       "ventilation": 1,
       "drone": 1,
+      "foam_needed": 4500,
       "firetrucks": 16,
       "police_cars": 7
     },
@@ -96849,6 +99789,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
+      "foam_needed": 8800,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -96918,6 +99859,7 @@
       "thw_lkw": 1,
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
+      "foam_needed": 8800,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -96988,6 +99930,7 @@
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
       "drone": 1,
+      "foam_needed": 8800,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -97058,6 +100001,7 @@
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
       "railway_fire": 2,
+      "foam_needed": 8800,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -97129,6 +100073,7 @@
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
       "drone": 1,
+      "foam_needed": 8800,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -97201,6 +100146,7 @@
       "thw_mtwtz": 2,
       "thw_mzkw": 2,
       "railway_fire": 2,
+      "foam_needed": 8800,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -97273,6 +100219,7 @@
       "thw_mzkw": 2,
       "drone": 1,
       "railway_fire": 2,
+      "foam_needed": 8800,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -97346,6 +100293,7 @@
       "thw_mzkw": 2,
       "drone": 1,
       "railway_fire": 2,
+      "foam_needed": 8800,
       "firetrucks": 20,
       "police_cars": 6
     },
@@ -116154,6 +119102,7 @@
       "thw_gkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 2400,
       "firetrucks": 12,
       "police_cars": 8
     },
@@ -116220,6 +119169,7 @@
       "thw_gkw": 1,
       "thw_mtwtz": 1,
       "thw_mzkw": 1,
+      "foam_needed": 2400,
       "firetrucks": 12,
       "police_cars": 8
     },
@@ -117939,6 +120889,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "ambulances": 5,
       "wasserwerfer": 3,
@@ -117952,6 +120903,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 4
@@ -117989,6 +120941,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_service_group_leader": 1,
       "ambulances": 5,
@@ -118003,6 +120956,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 4
@@ -118041,6 +120995,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "ambulances": 5,
       "wasserwerfer": 3,
@@ -118055,6 +121010,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 4
@@ -118093,6 +121049,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "ambulances": 5,
       "wasserwerfer": 3,
@@ -118110,6 +121067,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 4,
@@ -118151,6 +121109,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_motorcycle": 4,
       "ambulances": 5,
@@ -118165,6 +121124,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 8
@@ -118203,6 +121163,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_service_group_leader": 1,
       "ambulances": 5,
@@ -118218,6 +121179,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 4
@@ -118257,6 +121219,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_service_group_leader": 1,
       "ambulances": 5,
@@ -118275,6 +121238,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 4,
@@ -118317,6 +121281,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_motorcycle": 4,
       "police_service_group_leader": 1,
@@ -118332,6 +121297,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 8
@@ -118371,6 +121337,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "ambulances": 5,
       "wasserwerfer": 3,
@@ -118389,6 +121356,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 4,
@@ -118431,6 +121399,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_motorcycle": 4,
       "ambulances": 5,
@@ -118446,6 +121415,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 8
@@ -118485,6 +121455,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_motorcycle": 4,
       "ambulances": 5,
@@ -118503,6 +121474,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 8,
@@ -118545,6 +121517,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_service_group_leader": 1,
       "ambulances": 5,
@@ -118564,6 +121537,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 4,
@@ -118607,6 +121581,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_motorcycle": 4,
       "police_service_group_leader": 1,
@@ -118623,6 +121598,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 8
@@ -118663,6 +121639,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_motorcycle": 4,
       "police_service_group_leader": 1,
@@ -118682,6 +121659,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 8,
@@ -118725,6 +121703,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_motorcycle": 4,
       "ambulances": 5,
@@ -118744,6 +121723,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 8,
@@ -118787,6 +121767,7 @@
       "fukw": 6,
       "gefkw": 6,
       "grukw": 54,
+      "k9": 4,
       "lebefkw": 19,
       "police_motorcycle": 4,
       "police_service_group_leader": 1,
@@ -118807,6 +121788,7 @@
       "guard_mission": true,
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
+      "need_k9_only_if_guard_dogs_present": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "allow_ktw_b_instead_of_rtw": true,
       "max_police_motorcycle_replacing_police_cars": 8,
