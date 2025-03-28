@@ -5,11 +5,13 @@
         "short_name": "LF 20",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
 		],
         "cost": 20000,
         "personal": {
@@ -23,6 +25,7 @@
         "additional": {
             "water": 1600,
             "pump_engine": 2000,
+            "foam": 150,
             "rank": "Gruppenführer(in)"
         },
         "prerequisites": {
@@ -35,11 +38,13 @@
         "short_name": "LF 10",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -52,7 +57,8 @@
         ],
         "additional": {
             "water": 1200,
-            "pump_engine": 1000
+            "pump_engine": 1000,
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
@@ -160,11 +166,13 @@
         "short_name": "LF 8/6",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -177,7 +185,8 @@
         ],
         "additional": {
             "water": 600,
-            "pump_engine": 800
+            "pump_engine": 800,
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
@@ -189,11 +198,13 @@
         "short_name": "LF 20/16",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -206,7 +217,8 @@
         ],
         "additional": {
             "water": 1600,
-            "pump_engine": 2000
+            "pump_engine": 2000,
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
@@ -218,11 +230,13 @@
         "short_name": "LF 10/6",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -235,7 +249,8 @@
         ],
         "additional": {
             "water": 600,
-            "pump_engine": 1000
+            "pump_engine": 1000,
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
@@ -247,11 +262,13 @@
         "short_name": "LF 16-TS",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -263,7 +280,8 @@
             18
         ],
         "additional": {
-            "pump_engine": 1600
+            "pump_engine": 1600,
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
@@ -461,11 +479,13 @@
         "short_name": "TLF 2000",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -478,7 +498,8 @@
         ],
         "additional": {
             "water": 2000,
-            "pump_engine": 1000
+            "pump_engine": 1000,
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
@@ -490,11 +511,13 @@
         "short_name": "TLF 3000",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -507,7 +530,8 @@
         ],
         "additional": {
             "water": 3000,
-            "pump_engine": 2000
+            "pump_engine": 2000,
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
@@ -519,11 +543,13 @@
         "short_name": "TLF 8/8",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -536,7 +562,8 @@
         ],
         "additional": {
             "water": 800,
-            "pump_engine": 800
+            "pump_engine": 800,
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
@@ -580,11 +607,13 @@
         "short_name": "TLF 16/24-Tr",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -597,7 +626,8 @@
         ],
         "additional": {
             "water": 2400,
-            "pump_engine": 1600
+            "pump_engine": 1600,
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
@@ -609,11 +639,13 @@
         "short_name": "TLF 16/25",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -626,7 +658,8 @@
         ],
         "additional": {
             "water": 2400,
-            "pump_engine": 1600
+            "pump_engine": 1600,
+            "foam": 750
         },
         "prerequisites": {
             "fire_stations": 1
@@ -638,11 +671,13 @@
         "short_name": "TLF 16/45",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -655,7 +690,8 @@
         ],
         "additional": {
             "water": 4500,
-            "pump_engine": 1600
+            "pump_engine": 1600,
+            "foam": 750
         },
         "prerequisites": {
             "fire_stations": 1
@@ -667,11 +703,13 @@
         "short_name": "TLF 20/40",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -684,7 +722,8 @@
         ],
         "additional": {
             "water": 4000,
-            "pump_engine": 2000
+            "pump_engine": 2000,
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
@@ -696,11 +735,13 @@
         "short_name": "TLF 20/40-SL",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -713,7 +754,8 @@
         ],
         "additional": {
             "water": 4000,
-            "pump_engine": 2000
+            "pump_engine": 2000,
+            "foam": 750
         },
         "prerequisites": {
             "fire_stations": 1
@@ -725,11 +767,13 @@
         "short_name": "TLF 16",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -742,7 +786,8 @@
         ],
         "additional": {
             "water": 1800,
-            "pump_engine": 1600
+            "pump_engine": 1600,
+            "foam": 150
         },
         "prerequisites": {
             "fire_stations": 1
@@ -851,12 +896,14 @@
         "class": [
             "firetrucks",
             "water_damage_pump",
-            "heavy_rescue_vehicles"
+            "heavy_rescue_vehicles",
+            "foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
             "Feuerlöschpumpe",
-            "Rüstwagen"
+            "Rüstwagen",
+            "Sonderlöschmittel"
         ],
         "cost": 20000,
         "personal": {
@@ -870,6 +917,7 @@
         "additional": {
             "water": 1600,
             "pump_engine": 2000,
+            "foam": 150,
             "rank": "Gruppenführer(in)"
         },
         "prerequisites": {
