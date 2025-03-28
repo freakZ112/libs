@@ -4263,26 +4263,26 @@
         "prerequisites": {
             "fire_stations": 1
         }
-    },
-    {
+    }
+	{
         "id": 165,
         "name": "Lautsprecherkraftwagen",
         "short_name": "LauKw",
-	"class": [
+        "class": [
             "police_speaker_operator"
-	],
-	"class_alias":[
-	    "Lautsprecherkraftwagen"
-	],
-	"cost": 32000,
-	"personal": {
-		"min": 5,
-		"max": 5
-	},
-	"building": [
-		11
-	],
-	"additional": {}
+        ],
+        "class_alias":[
+            "Lautsprecherkraftwagen"
+        ],
+        "cost": 32000,
+        "personal": {
+            "min": 5,
+            "max": 5
+        },
+        "building": [
+            11
+        ],
+        "additional": {}
     },
     {
         "id": 166,
