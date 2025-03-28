@@ -548,11 +548,13 @@
         "short_name": "TLF 8/18",
         "class": [
             "firetrucks",
-            "water_damage_pump"
+            "water_damage_pump",
+			"foamTank"
         ],
         "class_alias": [
             "Löschfahrzeuge",
-            "Feuerlöschpumpe"
+            "Feuerlöschpumpe",
+			"Sonderlöschmittel"
         ],
         "cost": 5000,
         "personal": {
@@ -565,7 +567,8 @@
         ],
         "additional": {
             "water": 1800,
-            "pump_engine": 800
+            "pump_engine": 800,
+			"foam": 5000
         },
         "prerequisites": {
             "fire_stations": 1
