@@ -4577,7 +4577,7 @@
     "place_array": [
       "Schule"
     ],
-    "average_credits": 3000,
+    "average_credits": 3365,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -12367,7 +12367,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 5630,
+    "average_credits": 5995,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -12437,7 +12437,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 6030,
+    "average_credits": 6395,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -12509,7 +12509,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 6030,
+    "average_credits": 6395,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -12581,7 +12581,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 6430,
+    "average_credits": 6795,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -26492,8 +26492,8 @@
     "additional": {
       "max_possible_prisoners": 1,
       "filter_id": "police_station_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 6,
@@ -26528,8 +26528,8 @@
     "additional": {
       "max_possible_prisoners": 1,
       "filter_id": "police_station_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 6,
@@ -26564,8 +26564,8 @@
     "chances": {},
     "additional": {
       "filter_id": "technical_aid_organization_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 9,
@@ -26605,8 +26605,8 @@
     "chances": {},
     "additional": {
       "filter_id": "technical_aid_organization_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 9,
@@ -26647,8 +26647,8 @@
     "chances": {},
     "additional": {
       "filter_id": "technical_aid_organization_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 9,
@@ -26690,8 +26690,8 @@
     "chances": {},
     "additional": {
       "filter_id": "technical_aid_organization_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 9,
@@ -26732,8 +26732,8 @@
       "possible_patient": 1,
       "possible_patient_min": 1,
       "filter_id": "police_station_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
       "patient_specialization_ids": [
         4
       ],
@@ -26772,8 +26772,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -26805,8 +26805,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -26837,8 +26837,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -26882,8 +26882,8 @@
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
       "allow_ktw_b_instead_of_rtw": true,
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 11,
@@ -26931,8 +26931,8 @@
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
       "allow_ktw_b_instead_of_rtw": true,
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 11,
@@ -33474,7 +33474,7 @@
     "place_array": [
       "Baumarkt"
     ],
-    "average_credits": 10000,
+    "average_credits": 10365,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -33542,7 +33542,7 @@
     "place_array": [
       "Baumarkt"
     ],
-    "average_credits": 10400,
+    "average_credits": 10765,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -33612,7 +33612,7 @@
     "place_array": [
       "Baumarkt"
     ],
-    "average_credits": 10400,
+    "average_credits": 10765,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -33682,7 +33682,7 @@
     "place_array": [
       "Baumarkt"
     ],
-    "average_credits": 12500,
+    "average_credits": 12956,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -33752,7 +33752,7 @@
     "place_array": [
       "Baumarkt"
     ],
-    "average_credits": 10800,
+    "average_credits": 11165,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -33824,7 +33824,7 @@
     "place_array": [
       "Baumarkt"
     ],
-    "average_credits": 13000,
+    "average_credits": 13456,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -33896,7 +33896,7 @@
     "place_array": [
       "Baumarkt"
     ],
-    "average_credits": 13000,
+    "average_credits": 13456,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -33968,7 +33968,7 @@
     "place_array": [
       "Baumarkt"
     ],
-    "average_credits": 13500,
+    "average_credits": 13956,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -34630,7 +34630,7 @@
     "place_array": [
       "Flughafen (groß): Vorfeld / Standplätze"
     ],
-    "average_credits": 10000,
+    "average_credits": 10730,
     "generated_by": "",
     "icons": [
       "/images/planecrash_gruen.png",
@@ -34680,7 +34680,7 @@
     "place_array": [
       "Flughafen (groß): Vorfeld / Standplätze"
     ],
-    "average_credits": 12500,
+    "average_credits": 13412,
     "generated_by": "",
     "icons": [
       "/images/planecrash_gruen.png",
@@ -34832,7 +34832,7 @@
     "place_array": [
       "Flughafen (groß): Start-/Landebahn"
     ],
-    "average_credits": 10000,
+    "average_credits": 10730,
     "generated_by": "",
     "icons": [
       "/images/planecrash_gruen.png",
@@ -34882,7 +34882,7 @@
     "place_array": [
       "Flughafen (groß): Start-/Landebahn"
     ],
-    "average_credits": 12500,
+    "average_credits": 13412,
     "generated_by": "",
     "icons": [
       "/images/planecrash_gruen.png",
@@ -41397,7 +41397,7 @@
     "place_array": [
       "Chemiepark"
     ],
-    "average_credits": 8500,
+    "average_credits": 8865,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -41530,7 +41530,7 @@
     "place_array": [
       "Chemiepark"
     ],
-    "average_credits": 8900,
+    "average_credits": 9265,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -41597,7 +41597,7 @@
     "place_array": [
       "Chemiepark"
     ],
-    "average_credits": 10625,
+    "average_credits": 11081,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -41664,7 +41664,7 @@
     "place_array": [
       "Chemiepark"
     ],
-    "average_credits": 11125,
+    "average_credits": 11581,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -43965,7 +43965,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 8600,
+    "average_credits": 8965,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -44250,7 +44250,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 9000,
+    "average_credits": 9365,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -44465,7 +44465,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 9000,
+    "average_credits": 9365,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -44608,7 +44608,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 9000,
+    "average_credits": 9365,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -44679,7 +44679,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 10750,
+    "average_credits": 11206,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -44898,7 +44898,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 9400,
+    "average_credits": 9765,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -45045,7 +45045,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 9400,
+    "average_credits": 9765,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -45118,7 +45118,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 11250,
+    "average_credits": 11706,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -45265,7 +45265,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 9400,
+    "average_credits": 9765,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -45338,7 +45338,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 11250,
+    "average_credits": 11706,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -45411,7 +45411,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 11250,
+    "average_credits": 11706,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -45560,7 +45560,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 9800,
+    "average_credits": 10165,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -45635,7 +45635,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 11750,
+    "average_credits": 12206,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -45710,7 +45710,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 11750,
+    "average_credits": 12206,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -45785,7 +45785,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 11750,
+    "average_credits": 12206,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -45860,7 +45860,7 @@
     "place_array": [
       "Müllverbrennungsanlage"
     ],
-    "average_credits": 12250,
+    "average_credits": 12706,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -47799,7 +47799,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 5800,
+    "average_credits": 6165,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -47858,7 +47858,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 6200,
+    "average_credits": 6565,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -47919,7 +47919,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 6200,
+    "average_credits": 6565,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -47980,7 +47980,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 7250,
+    "average_credits": 7706,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -48041,7 +48041,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 6600,
+    "average_credits": 6965,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -48104,7 +48104,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 7750,
+    "average_credits": 8206,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -48167,7 +48167,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 7750,
+    "average_credits": 8206,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -48230,7 +48230,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 8250,
+    "average_credits": 8706,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -49654,8 +49654,8 @@
     "chances": {},
     "additional": {
       "filter_id": "water_watch_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 15,
@@ -49695,8 +49695,8 @@
       "possible_patient": 2,
       "possible_patient_min": 1,
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
       "patient_specialization_ids": [
         4
       ],
@@ -49736,8 +49736,8 @@
     "chances": {},
     "additional": {
       "filter_id": "riot_police_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 11,
@@ -49770,8 +49770,8 @@
     "chances": {},
     "additional": {
       "filter_id": "police_station_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 6,
@@ -49805,8 +49805,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -50781,7 +50781,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 10500,
+    "average_credits": 11230,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -50850,7 +50850,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 10900,
+    "average_credits": 11630,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -50921,7 +50921,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 10900,
+    "average_credits": 11630,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -50992,7 +50992,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 10900,
+    "average_credits": 11630,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51063,7 +51063,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 13125,
+    "average_credits": 14037,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51134,7 +51134,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 11300,
+    "average_credits": 12030,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51207,7 +51207,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 11300,
+    "average_credits": 12030,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51280,7 +51280,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 13625,
+    "average_credits": 14537,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51353,7 +51353,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 11300,
+    "average_credits": 12030,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51426,7 +51426,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 13625,
+    "average_credits": 14537,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51499,7 +51499,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 13625,
+    "average_credits": 14537,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51572,7 +51572,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 11700,
+    "average_credits": 12430,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51647,7 +51647,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 14125,
+    "average_credits": 15037,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51722,7 +51722,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 14125,
+    "average_credits": 15037,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51797,7 +51797,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 14125,
+    "average_credits": 15037,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -51872,7 +51872,7 @@
     "place_array": [
       "Lagerhalle"
     ],
-    "average_credits": 14625,
+    "average_credits": 15537,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -52220,7 +52220,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 10112,
+    "average_credits": 10477,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -52297,7 +52297,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 10912,
+    "average_credits": 11277,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -52376,7 +52376,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 10512,
+    "average_credits": 10877,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -52455,7 +52455,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 12640,
+    "average_credits": 13096,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -52534,7 +52534,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 11312,
+    "average_credits": 11677,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -52615,7 +52615,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 13640,
+    "average_credits": 14096,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -52696,7 +52696,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 13140,
+    "average_credits": 13596,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -52777,7 +52777,7 @@
       "Industrie-Allgemein",
       "Werksgelände"
     ],
-    "average_credits": 14140,
+    "average_credits": 14596,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -73782,7 +73782,7 @@
     "place_array": [
       "Holzverarbeitung"
     ],
-    "average_credits": 9500,
+    "average_credits": 9865,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -73852,7 +73852,7 @@
     "place_array": [
       "Holzverarbeitung"
     ],
-    "average_credits": 9900,
+    "average_credits": 10265,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -74464,7 +74464,7 @@
     "place_array": [
       "Auto-Werkstatt"
     ],
-    "average_credits": 5500,
+    "average_credits": 6960,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -74573,7 +74573,7 @@
     "place_array": [
       "Auto-Werkstatt"
     ],
-    "average_credits": 5900,
+    "average_credits": 7360,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -74628,7 +74628,7 @@
     "place_array": [
       "Auto-Werkstatt"
     ],
-    "average_credits": 5900,
+    "average_credits": 7360,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -74683,7 +74683,7 @@
     "place_array": [
       "Auto-Werkstatt"
     ],
-    "average_credits": 6300,
+    "average_credits": 7760,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -81015,8 +81015,8 @@
       "possible_patient": 70,
       "possible_patient_min": 35,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -81071,8 +81071,8 @@
       "possible_patient": 70,
       "possible_patient_min": 35,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -81129,8 +81129,8 @@
       "filter_id": "ambulance_station_missions",
       "care_affected_people_min": 70,
       "care_affected_people_max": 140,
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -81188,8 +81188,8 @@
       "filter_id": "ambulance_station_missions",
       "care_affected_people_min": 70,
       "care_affected_people_max": 140,
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -92387,8 +92387,8 @@
       "possible_patient_min": 1,
       "max_possible_prisoners": 1,
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -92432,8 +92432,8 @@
     "additional": {
       "average_min_fire_personnel": 9,
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -92468,8 +92468,8 @@
       "average_min_fire_personnel": 9,
       "filter_id": "firehouse_missions",
       "care_includes_staff_members": true,
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -92501,8 +92501,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -92546,8 +92546,8 @@
         571
       ],
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -92601,8 +92601,8 @@
         571
       ],
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -92644,8 +92644,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -92684,8 +92684,8 @@
     "chances": {},
     "additional": {
       "filter_id": "water_watch_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
       "personnel_educations": {
         "GW-Wasserrettung": 4
       }
@@ -92767,8 +92767,8 @@
       "average_min_fire_personnel": 9,
       "guard_mission": true,
       "filter_id": "firehouse_missions",
-      "date_start": "2024-03-22T10:00:00Z",
-      "date_end": "2024-04-02T23:59:59+02:00"
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -94199,7 +94199,7 @@
     "place_array": [
       "Einkaufszentrum"
     ],
-    "average_credits": 13000,
+    "average_credits": 13365,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -94264,7 +94264,7 @@
     "place_array": [
       "Einkaufszentrum"
     ],
-    "average_credits": 13400,
+    "average_credits": 13765,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -94331,7 +94331,7 @@
     "place_array": [
       "Einkaufszentrum"
     ],
-    "average_credits": 13400,
+    "average_credits": 13765,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -94398,7 +94398,7 @@
     "place_array": [
       "Einkaufszentrum"
     ],
-    "average_credits": 13560,
+    "average_credits": 13925,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -94466,7 +94466,7 @@
     "place_array": [
       "Einkaufszentrum"
     ],
-    "average_credits": 13800,
+    "average_credits": 14165,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -94535,7 +94535,7 @@
     "place_array": [
       "Einkaufszentrum"
     ],
-    "average_credits": 13960,
+    "average_credits": 14325,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -94605,7 +94605,7 @@
     "place_array": [
       "Einkaufszentrum"
     ],
-    "average_credits": 13960,
+    "average_credits": 14325,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -94675,7 +94675,7 @@
     "place_array": [
       "Einkaufszentrum"
     ],
-    "average_credits": 14360,
+    "average_credits": 14725,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -94937,7 +94937,7 @@
     "place_array": [
       "Kraftwerk"
     ],
-    "average_credits": 16000,
+    "average_credits": 16730,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -94991,7 +94991,7 @@
     "place_array": [
       "Kraftwerk"
     ],
-    "average_credits": 16400,
+    "average_credits": 17130,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -95047,7 +95047,7 @@
     "place_array": [
       "Kraftwerk"
     ],
-    "average_credits": 16400,
+    "average_credits": 17130,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -95103,7 +95103,7 @@
     "place_array": [
       "Kraftwerk"
     ],
-    "average_credits": 20000,
+    "average_credits": 20912,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -95159,7 +95159,7 @@
     "place_array": [
       "Kraftwerk"
     ],
-    "average_credits": 16800,
+    "average_credits": 17530,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -95217,7 +95217,7 @@
     "place_array": [
       "Kraftwerk"
     ],
-    "average_credits": 20500,
+    "average_credits": 21412,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -95275,7 +95275,7 @@
     "place_array": [
       "Kraftwerk"
     ],
-    "average_credits": 20500,
+    "average_credits": 21412,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -95333,7 +95333,7 @@
     "place_array": [
       "Kraftwerk"
     ],
-    "average_credits": 21000,
+    "average_credits": 21912,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -98319,7 +98319,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 13500,
+    "average_credits": 13865,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -98392,7 +98392,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 13900,
+    "average_credits": 14265,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -98467,7 +98467,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 13900,
+    "average_credits": 14265,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -98542,7 +98542,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 13900,
+    "average_credits": 14265,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -98617,7 +98617,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 13900,
+    "average_credits": 14265,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -98692,7 +98692,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 14300,
+    "average_credits": 14665,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -98769,7 +98769,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 14300,
+    "average_credits": 14665,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -98846,7 +98846,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 14300,
+    "average_credits": 14665,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -98923,7 +98923,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 14300,
+    "average_credits": 14665,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -99000,7 +99000,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 14300,
+    "average_credits": 14665,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -99077,7 +99077,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 14300,
+    "average_credits": 14665,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -99154,7 +99154,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 14700,
+    "average_credits": 15065,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -99233,7 +99233,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 14700,
+    "average_credits": 15065,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -99312,7 +99312,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 14700,
+    "average_credits": 15065,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -99391,7 +99391,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 14700,
+    "average_credits": 15065,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -99470,7 +99470,7 @@
     "place_array": [
       "Industrie-Allgemein"
     ],
-    "average_credits": 15100,
+    "average_credits": 15465,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -99767,7 +99767,7 @@
     "place_array": [
       "Güterbahnhof"
     ],
-    "average_credits": 11500,
+    "average_credits": 12230,
     "generated_by": "",
     "icons": [
       "/images/tramway_gruen.png",
@@ -99836,7 +99836,7 @@
     "place_array": [
       "Güterbahnhof"
     ],
-    "average_credits": 11900,
+    "average_credits": 12630,
     "generated_by": "",
     "icons": [
       "/images/tramway_gruen.png",
@@ -99907,7 +99907,7 @@
     "place_array": [
       "Güterbahnhof"
     ],
-    "average_credits": 11900,
+    "average_credits": 12630,
     "generated_by": "",
     "icons": [
       "/images/tramway_gruen.png",
@@ -99978,7 +99978,7 @@
     "place_array": [
       "Güterbahnhof"
     ],
-    "average_credits": 11900,
+    "average_credits": 12630,
     "generated_by": "",
     "icons": [
       "/images/tramway_gruen.png",
@@ -100049,7 +100049,7 @@
     "place_array": [
       "Güterbahnhof"
     ],
-    "average_credits": 12300,
+    "average_credits": 13030,
     "generated_by": "",
     "icons": [
       "/images/tramway_gruen.png",
@@ -100122,7 +100122,7 @@
     "place_array": [
       "Güterbahnhof"
     ],
-    "average_credits": 12300,
+    "average_credits": 13030,
     "generated_by": "",
     "icons": [
       "/images/tramway_gruen.png",
@@ -100195,7 +100195,7 @@
     "place_array": [
       "Güterbahnhof"
     ],
-    "average_credits": 12300,
+    "average_credits": 13030,
     "generated_by": "",
     "icons": [
       "/images/tramway_gruen.png",
@@ -100268,7 +100268,7 @@
     "place_array": [
       "Güterbahnhof"
     ],
-    "average_credits": 12700,
+    "average_credits": 13430,
     "generated_by": "",
     "icons": [
       "/images/tramway_gruen.png",
@@ -119081,7 +119081,7 @@
     "name": "Brand in Düngemittellager",
     "place": "",
     "place_array": [],
-    "average_credits": 13430,
+    "average_credits": 13795,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -119147,7 +119147,7 @@
     "name": "Brand in Düngemittellager",
     "place": "",
     "place_array": [],
-    "average_credits": 13830,
+    "average_credits": 14195,
     "generated_by": "",
     "icons": [
       "/images/fire_gruen.png",
@@ -122733,6 +122733,167 @@
     "overlay_index": null,
     "base_mission_id": 925,
     "additive_overlays": "abcd",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "926",
+    "name": "Brandsicherheitswache Rockfestival",
+    "place": "Festplatz",
+    "place_array": [
+      "Festplatz"
+    ],
+    "average_credits": 12000,
+    "generated_by": "",
+    "icons": [
+      "/images/clock_gruen.png",
+      "/images/clock_gelb.png",
+      "/images/clock_rot.png"
+    ],
+    "requirements": {
+      "battalion_chief_vehicles": 1,
+      "firetrucks": 3
+    },
+    "chances": {},
+    "additional": {
+      "duration_text": "5 Stunden",
+      "duration": 18000,
+      "average_min_fire_personnel": 30,
+      "guard_mission": true,
+      "filter_id": "firehouse_missions"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "fire_stations": 4
+    },
+    "overlay_index": null,
+    "base_mission_id": 926,
+    "additive_overlays": "",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "927",
+    "name": "Brand in Schokoeierfabrik",
+    "place": "",
+    "place_array": [],
+    "average_credits": 13755,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 4,
+      "mobile_command_vehicles": 1,
+      "mobile_air_vehicles": 2,
+      "water_tankers": 4,
+      "thw_brmg_r": 2,
+      "thw_gkw": 2,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 2,
+      "firetrucks": 16,
+      "police_cars": 8
+    },
+    "chances": {
+      "nef": 25,
+      "patient_transport": 75,
+      "helicopter": 5
+    },
+    "additional": {
+      "possible_patient": 80,
+      "possible_patient_min": 20,
+      "filter_id": "firehouse_missions",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 8,
+      "thw": 3,
+      "thw_bergung_count": 3,
+      "thw_zugtrupp_count": 3,
+      "thw_fg_raeumen_count": 2,
+      "fire_stations": 25
+    },
+    "overlay_index": null,
+    "base_mission_id": 927,
+    "additive_overlays": "",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "927/a",
+    "name": "Brand in Schokoeierfabrik",
+    "place": "",
+    "place_array": [],
+    "average_credits": 14155,
+    "generated_by": "",
+    "icons": [
+      "/images/fire_gruen.png",
+      "/images/fire_gelb.png",
+      "/images/fire_rot.png"
+    ],
+    "requirements": {
+      "platform_trucks": 4,
+      "battalion_chief_vehicles": 4,
+      "mobile_command_vehicles": 1,
+      "mobile_air_vehicles": 2,
+      "water_tankers": 4,
+      "police_service_group_leader": 1,
+      "thw_brmg_r": 2,
+      "thw_gkw": 2,
+      "thw_mtwtz": 1,
+      "thw_mzkw": 2,
+      "firetrucks": 16,
+      "police_cars": 8
+    },
+    "chances": {
+      "nef": 25,
+      "patient_transport": 75,
+      "helicopter": 5
+    },
+    "additional": {
+      "possible_patient": 80,
+      "possible_patient_min": 20,
+      "filter_id": "firehouse_missions",
+      "date_start": "2025-04-09T09:00:00Z",
+      "date_end": "2025-04-22T23:59:59+02:00",
+      "patient_specialization_ids": [
+        0
+      ],
+      "patient_specialization_captions": [
+        "Allgemeine Innere"
+      ],
+      "patient_specializations": "Allgemeine Innere"
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "rescue_stations": 20,
+      "police_stations": 8,
+      "thw": 3,
+      "thw_bergung_count": 3,
+      "thw_zugtrupp_count": 3,
+      "thw_fg_raeumen_count": 2,
+      "police_service_group_leader": 5,
+      "fire_stations": 25
+    },
+    "overlay_index": null,
+    "base_mission_id": 927,
+    "additive_overlays": "a",
     "mission_categories": [
       "fire"
     ]
