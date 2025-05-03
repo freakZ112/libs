@@ -4261,6 +4261,7 @@
         "name": "Rüstwagen-Schiene",
         "short_name": "RW-Schiene",
         "class": [
+	    "railway_fire",
             "heavy_rescue_vehicles"
         ],
         "class_alias": [
@@ -4285,6 +4286,7 @@
         "name": "HLF Schiene",
         "short_name": "HLF Schiene",
         "class": [
+	    "railway_fire",
             "firetrucks",
             "water_damage_pump",
             "heavy_rescue_vehicles",
@@ -4320,6 +4322,7 @@
         "name": "Abrollbehälter-Schiene",
         "short_name": "AB-Schiene",
         "class": [
+	    "railway_fire",
             "heavy_rescue_vehicles"
         ],
         "class_alias": [
