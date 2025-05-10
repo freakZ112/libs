@@ -123,6 +123,12 @@
                 "name": "Verpflegungsdienst",
                 "cost": 200000,
                 "duration": 5
+            },
+	    {
+                "id": 25,
+                "name": "Bahnrettung",
+                "cost": 200000,
+                "duration": 5
             }
         ]
     },
