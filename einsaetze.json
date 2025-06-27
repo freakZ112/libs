@@ -12254,8 +12254,8 @@
       "possible_patient": 1,
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00",
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -12297,8 +12297,8 @@
       "possible_patient": 1,
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00",
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -12339,8 +12339,8 @@
       "possible_patient": 1,
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00",
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -50753,8 +50753,8 @@
       "possible_patient": 1,
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00",
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -73945,8 +73945,8 @@
       "filter_id": "rapid_deployment_group_missions",
       "allow_ktw_instead_of_rtw": true,
       "allow_ktw_b_instead_of_rtw": true,
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00"
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 12,
@@ -73989,8 +73989,8 @@
       "filter_id": "rapid_deployment_group_missions",
       "allow_ktw_instead_of_rtw": true,
       "allow_ktw_b_instead_of_rtw": true,
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00"
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 12,
@@ -74028,8 +74028,8 @@
       "duration": 7200,
       "guard_mission": true,
       "filter_id": "water_watch_missions",
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00"
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 15,
@@ -74060,8 +74060,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00"
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -83795,8 +83795,8 @@
       "filter_id": "water_watch_missions",
       "allow_ktw_instead_of_rtw": true,
       "allow_ktw_b_instead_of_rtw": true,
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00"
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 15,
@@ -83832,8 +83832,8 @@
     "additional": {
       "max_possible_prisoners": 1,
       "filter_id": "firehouse_missions",
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00"
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -83868,8 +83868,8 @@
       "possible_patient": 4,
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00",
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -93478,8 +93478,8 @@
       "possible_patient": 4,
       "possible_patient_min": 1,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00",
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -109783,8 +109783,8 @@
         25
       ],
       "patient_at_end_of_mission": true,
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00",
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -109838,8 +109838,8 @@
         25
       ],
       "patient_at_end_of_mission": true,
-      "date_start": "2024-06-21T09:00:00Z",
-      "date_end": "2024-09-02T23:59:59+02:00",
+      "date_start": "2025-06-27T09:00:00Z",
+      "date_end": "2025-08-22T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
