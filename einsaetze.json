@@ -12233,7 +12233,7 @@
     "name": "Sonnenstich",
     "place": "",
     "place_array": [],
-    "average_credits": null,
+    "average_credits": 250,
     "generated_by": "",
     "icons": [
       "/images/medicalstore_gruen.png",
@@ -12276,7 +12276,7 @@
     "name": "Hitzschlag",
     "place": "",
     "place_array": [],
-    "average_credits": null,
+    "average_credits": 250,
     "generated_by": "",
     "icons": [
       "/images/medicalstore_gruen.png",
@@ -12319,7 +12319,7 @@
     "name": "Hitzekrampf",
     "place": "",
     "place_array": [],
-    "average_credits": null,
+    "average_credits": 250,
     "generated_by": "",
     "icons": [
       "/images/medicalstore_gruen.png",
@@ -26488,8 +26488,8 @@
     "additional": {
       "max_possible_prisoners": 1,
       "filter_id": "police_station_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 6,
@@ -26524,8 +26524,8 @@
     "additional": {
       "max_possible_prisoners": 1,
       "filter_id": "police_station_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 6,
@@ -26560,8 +26560,8 @@
     "chances": {},
     "additional": {
       "filter_id": "technical_aid_organization_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 9,
@@ -26601,8 +26601,8 @@
     "chances": {},
     "additional": {
       "filter_id": "technical_aid_organization_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 9,
@@ -26643,8 +26643,8 @@
     "chances": {},
     "additional": {
       "filter_id": "technical_aid_organization_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 9,
@@ -26686,8 +26686,8 @@
     "chances": {},
     "additional": {
       "filter_id": "technical_aid_organization_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 9,
@@ -26728,8 +26728,8 @@
       "possible_patient": 1,
       "possible_patient_min": 1,
       "filter_id": "police_station_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         4
       ],
@@ -26768,8 +26768,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -26801,8 +26801,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -26833,8 +26833,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -26878,8 +26878,8 @@
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
       "allow_ktw_b_instead_of_rtw": true,
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 11,
@@ -26927,8 +26927,8 @@
       "filter_id": "riot_police_missions",
       "allow_ktw_instead_of_rtw": true,
       "allow_ktw_b_instead_of_rtw": true,
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 11,
@@ -49650,8 +49650,8 @@
     "chances": {},
     "additional": {
       "filter_id": "water_watch_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 15,
@@ -49691,8 +49691,8 @@
       "possible_patient": 2,
       "possible_patient_min": 1,
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         4
       ],
@@ -49732,8 +49732,8 @@
     "chances": {},
     "additional": {
       "filter_id": "riot_police_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 11,
@@ -49766,8 +49766,8 @@
     "chances": {},
     "additional": {
       "filter_id": "police_station_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 6,
@@ -49801,8 +49801,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -50733,7 +50733,7 @@
     "name": "Dehydrierte Person",
     "place": "",
     "place_array": [],
-    "average_credits": null,
+    "average_credits": 250,
     "generated_by": "",
     "icons": [
       "/images/medicalstore_gruen.png",
@@ -81008,8 +81008,8 @@
       "possible_patient": 70,
       "possible_patient_min": 35,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -81064,8 +81064,8 @@
       "possible_patient": 70,
       "possible_patient_min": 35,
       "filter_id": "ambulance_station_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -81122,8 +81122,8 @@
       "filter_id": "ambulance_station_missions",
       "care_affected_people_min": 70,
       "care_affected_people_max": 140,
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -81181,8 +81181,8 @@
       "filter_id": "ambulance_station_missions",
       "care_affected_people_min": 70,
       "care_affected_people_max": 140,
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -83845,7 +83845,7 @@
     "name": "Verkeimter Eiswagen",
     "place": "",
     "place_array": [],
-    "average_credits": null,
+    "average_credits": 500,
     "generated_by": "",
     "icons": [
       "/images/medicalstore_gruen.png",
@@ -92380,8 +92380,8 @@
       "possible_patient_min": 1,
       "max_possible_prisoners": 1,
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -92425,8 +92425,8 @@
     "additional": {
       "average_min_fire_personnel": 9,
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -92461,8 +92461,8 @@
       "average_min_fire_personnel": 9,
       "filter_id": "firehouse_missions",
       "care_includes_staff_members": true,
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -92494,8 +92494,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -92535,8 +92535,8 @@
     "additional": {
       "possible_patient": 1,
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -92586,8 +92586,8 @@
     "additional": {
       "possible_patient": 1,
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -92629,8 +92629,8 @@
     "chances": {},
     "additional": {
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -92669,8 +92669,8 @@
     "chances": {},
     "additional": {
       "filter_id": "water_watch_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "personnel_educations": {
         "GW-Wasserrettung": 4
       }
@@ -92752,8 +92752,8 @@
       "average_min_fire_personnel": 9,
       "guard_mission": true,
       "filter_id": "firehouse_missions",
-      "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00"
+      "date_start": "2025-06-10T09:00:00Z",
+      "date_end": "2025-07-15T23:59:59+02:00"
     },
     "prerequisites": {
       "main_building": 0,
@@ -93455,7 +93455,7 @@
     "name": "Wespenangriff",
     "place": "",
     "place_array": [],
-    "average_credits": null,
+    "average_credits": 250,
     "generated_by": "",
     "icons": [
       "/images/medicalstore_gruen.png",
@@ -122794,7 +122794,7 @@
       "possible_patient_min": 20,
       "filter_id": "firehouse_missions",
       "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -122856,7 +122856,7 @@
       "possible_patient_min": 20,
       "filter_id": "firehouse_missions",
       "date_start": "2025-04-09T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -122917,7 +122917,7 @@
       "possible_patient_min": 120,
       "filter_id": "ambulance_station_missions",
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -122974,7 +122974,7 @@
       "possible_patient_min": 120,
       "filter_id": "ambulance_station_missions",
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -123032,7 +123032,7 @@
       "possible_patient_min": 120,
       "filter_id": "ambulance_station_missions",
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -123092,7 +123092,7 @@
       "care_affected_people_min": 250,
       "care_affected_people_max": 500,
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -123151,7 +123151,7 @@
       "possible_patient_min": 120,
       "filter_id": "ambulance_station_missions",
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -123213,7 +123213,7 @@
       "care_affected_people_min": 250,
       "care_affected_people_max": 500,
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -123275,7 +123275,7 @@
       "care_affected_people_min": 250,
       "care_affected_people_max": 500,
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -123338,7 +123338,7 @@
       "care_affected_people_min": 250,
       "care_affected_people_max": 500,
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -123397,7 +123397,7 @@
       "allow_police_motorcycle_instead_of_fustw": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -123458,7 +123458,7 @@
       "allow_police_motorcycle_instead_of_fustw": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -123520,7 +123520,7 @@
       "allow_police_motorcycle_instead_of_fustw": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -123583,7 +123583,7 @@
       "allow_police_motorcycle_instead_of_fustw": true,
       "max_civil_patrol_replacing_police_cars": 2,
       "date_start": "2025-04-11T09:00:00Z",
-      "date_end": "2025-04-22T23:59:59+02:00",
+      "date_end": "2025-07-15T23:59:59+02:00",
       "patient_specialization_ids": [
         0
       ],
@@ -125401,6 +125401,86 @@
     "overlay_index": null,
     "base_mission_id": 936,
     "additive_overlays": "",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "937",
+    "name": "Bauernhof steht unter Wasser",
+    "place": "Bauernhof",
+    "place_array": [
+      "Bauernhof"
+    ],
+    "average_credits": 2165,
+    "generated_by": "",
+    "icons": [
+      "/images/river_gruen.png",
+      "/images/river_gelb.png",
+      "/images/river_rot.png"
+    ],
+    "requirements": {
+      "hazmat_vehicles": 1,
+      "water_tankers": 1,
+      "heavy_rescue_vehicles": 1,
+      "water_damage_pump": 3,
+      "firetrucks": 1
+    },
+    "chances": {
+      "hazmat_vehicles": 50
+    },
+    "additional": {
+      "filter_id": "firehouse_missions",
+      "pump_water_amount": 250000
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "fire_stations": 6
+    },
+    "overlay_index": null,
+    "base_mission_id": 937,
+    "additive_overlays": "",
+    "mission_categories": [
+      "fire"
+    ]
+  },
+  {
+    "id": "937/a",
+    "name": "Bauernhof steht unter Wasser",
+    "place": "Bauernhof",
+    "place_array": [
+      "Bauernhof"
+    ],
+    "average_credits": 2565,
+    "generated_by": "",
+    "icons": [
+      "/images/river_gruen.png",
+      "/images/river_gelb.png",
+      "/images/river_rot.png"
+    ],
+    "requirements": {
+      "hazmat_vehicles": 1,
+      "water_tankers": 1,
+      "heavy_rescue_vehicles": 1,
+      "water_damage_pump": 3,
+      "drone": 1,
+      "firetrucks": 1
+    },
+    "chances": {
+      "hazmat_vehicles": 50
+    },
+    "additional": {
+      "filter_id": "firehouse_missions",
+      "pump_water_amount": 250000
+    },
+    "prerequisites": {
+      "main_building": 0,
+      "drone": 1,
+      "fire_stations": 6
+    },
+    "overlay_index": null,
+    "base_mission_id": 937,
+    "additive_overlays": "a",
     "mission_categories": [
       "fire"
     ]
