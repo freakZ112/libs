@@ -123,6 +123,12 @@
                 "name": "Verpflegungsdienst",
                 "cost": 200000,
                 "duration": 5
+            },
+	    {
+                "id": 25,
+                "name": "Bahnrettung",
+                "cost": 200000,
+                "duration": 5
             }
         ]
     },
@@ -477,6 +483,12 @@
                 "name": "Trupp Unbemannte Luftfahrtsysteme",
                 "cost": 50000,
                 "duration": 5
+            },
+            {
+                "id": 13,
+                "name": "Fachzug Führung und Kommunikation",
+                "cost": 50000,
+                "duration": 5
             }
         ]
     },
@@ -581,7 +593,14 @@
                 "name": "Reiterstaffel",
                 "cost": 300000,
                 "duration": 5
+            },
+            {
+                "id": 10,
+                "name": "Sonderfahrzeug: Lautsprecherkraftwagen",
+                "cost": 1,
+                "duration": 1
             }
+		
         ]
     },
     {
@@ -628,6 +647,12 @@
             {
                 "id": 5,
                 "name": "Betreuungs- und Verpflegungsdienst",
+                "cost": 200000,
+                "duration": 5
+            },
+	    {
+                "id": 6,
+                "name": "Technik und Sicherheit",
                 "cost": 200000,
                 "duration": 5
             }
