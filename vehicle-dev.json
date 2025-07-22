@@ -927,7 +927,7 @@
     {
         "id": 31,
         "name": "Rettungshubschrauber",
-        "short_name": "RTH",
+        "short_name": "Noppicopter",
         "class": [
             "helicopter"
         ],
