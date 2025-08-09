@@ -4500,7 +4500,7 @@
 	    "trailer": true,
 	    "water": 3000,
             "foam": 5000
-	},
+		},
         "prerequisites": {
             "fire_stations": 1
         }
@@ -4516,7 +4516,7 @@
         },
         "building": [
             12
-        ],
+        ]
     },
 	    {
         "id": 172,
@@ -4532,9 +4532,9 @@
         },
         "building": [
             12
-        ],
+        ]
     },
-	    {
+	{
         "id": 173,
         "name": "MTW TeSi",
         "short_name": "MTW TeSi",
@@ -4545,7 +4545,8 @@
         },
         "building": [
             12
-        ],
+        ]
+		
     },
 	{
         "id": 174,
@@ -4560,8 +4561,8 @@
             12
         ],
         "additional": {
-	    "trailer": true,
-		},
+	    "trailer": true
+		}
     },
 	{
         "id": 175,
@@ -4579,7 +4580,7 @@
             12
         ],
         "additional": {
-	    "trailer": true,
-		},
+	    "trailer": true
+		}
     }
 ]
