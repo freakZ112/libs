@@ -4509,6 +4509,9 @@
         "id": 171,
         "name": "Gerätewagen Technik und Sicherheit",
         "short_name": "GW TeSi",
+		"class": [
+            "disaster_response_technology_equipment"
+        ],
         "cost": 35000,
         "personal": {
             "min": 0,
@@ -4538,6 +4541,9 @@
         "id": 173,
         "name": "MTW TeSi",
         "short_name": "MTW TeSi",
+		"class": [
+            "disaster_response_technology_crew"
+        ],
         "cost": 20000,
         "personal": {
             "min": 0,
@@ -4551,6 +4557,9 @@
         "id": 174,
         "name": "Anh TeSi",
         "short_name": "Anh TeSi",
+		"class": [
+            "disaster_response_technology_trailer"
+        ],
         "cost": 10000,
         "personal": {
             "min": 0,
