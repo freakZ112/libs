@@ -3316,6 +3316,7 @@
         "name": "Netzersatzanlage 50 kVA",
         "short_name": "NEA50 (THW)",
         "class": [
+			"thw_mzkw",
             "energy_supply"
         ],
         "cost": 10000,
