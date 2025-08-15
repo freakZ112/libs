@@ -1229,6 +1229,9 @@
         "class_alias": [
             "MzGW (FGr N)"
         ],
+		"class": [
+			"thw_mzkw"
+        ],
         "cost": 15000,
         "personal": {
             "min": 1,
@@ -3313,8 +3316,7 @@
         "name": "Netzersatzanlage 50 kVA",
         "short_name": "NEA50 (THW)",
         "class": [
-			"thw_mzkw",
-            "energy_supply"
+			"energy_supply"
         ],
         "cost": 10000,
         "personal": {
