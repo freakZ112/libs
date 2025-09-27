@@ -4577,7 +4577,7 @@
         "name": "NEA50 (SEG)",
         "short_name": "NEA50 (SEG)",
         "class": [
-            "energy_supply"
+            "energy_supply55"
         ],
         "cost": 10000,
         "personal": {
