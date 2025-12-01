@@ -4571,7 +4571,8 @@
         "additional": {
 	    "trailer": true
 		}
-    },
+    }
+	*/
 	{
         "id": 175,
         "name": "NEA50 (SEG)",
@@ -4591,4 +4592,5 @@
 	    "trailer": true
 		}
     }
+	*/
 ]
