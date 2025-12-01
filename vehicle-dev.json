@@ -4572,25 +4572,4 @@
 	    "trailer": true
 		}
     }
-	*/
-	{
-        "id": 175,
-        "name": "NEA50 (SEG)",
-        "short_name": "NEA50 (SEG)",
-        "class": [
-            "energy_supply"
-        ],
-        "cost": 10000,
-        "personal": {
-            "min": 0,
-            "max": 0
-        },
-        "building": [
-            12
-        ],
-        "additional": {
-	    "trailer": true
-		}
-    }
-	/*
 ]
