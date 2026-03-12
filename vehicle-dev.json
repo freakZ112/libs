@@ -4606,5 +4606,21 @@
         "building": [
             9
         ]
+    },
+	{
+        "id": 177,
+        "name": "MTW-FGr Log-V)",
+        "short_name": "MTW-FGr Log-V",
+        "class": [
+            ""
+        ],
+        "cost": 2500,
+        "personal": {
+            "min": 5,
+            "max": 5
+        },
+        "building": [
+            9
+        ]
     }
 ]
