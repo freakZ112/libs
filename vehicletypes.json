@@ -4590,5 +4590,147 @@
         "additional": {
 	    "trailer": true
 		}
+    },
+	{
+        "id": 176,
+        "name": "LKW 7 Lbw (FGr Log-V)",
+        "short_name": "LKW 7 Lbw (FGr Log-V)",
+        "class": [
+            ""
+        ],
+        "cost": 15000,
+        "personal": {
+            "min": 3,
+            "max": 3
+        },
+        "building": [
+            9
+        ]
+    },
+	{
+        "id": 177,
+        "name": "MTW-FGr Log-V",
+        "short_name": "MTW-FGr Log-V",
+        "class": [
+            ""
+        ],
+        "cost": 2500,
+        "personal": {
+            "min": 5,
+            "max": 5
+        },
+        "building": [
+            9
+        ]
+    },
+	{
+        "id": 178,
+        "name": "Anh 12 Lbw (FGr Log-V)",
+        "short_name": "Anh 12 Lbw (FGr Log-V)",
+        "class": [
+            ""
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            9
+        ],
+        "additional": {
+	    "trailer": true
+		}
+    },
+	{
+        "id": 179,
+        "name": "AB-NEA50",
+        "short_name": "AB-NEA50",
+        "class": [
+            "energy_supply"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            0,
+			18
+        ],
+        "additional": {
+	    "trailer": true
+		}
+    },
+	{
+        "id": 180,
+        "name": "AB-NEA200",
+        "short_name": "AB-NEA200",
+        "class": [
+            "energy_supply_2"
+        ],
+        "cost": 8000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            0,
+			18
+        ],
+        "additional": {
+	    "trailer": true
+		}
+    },
+	{
+        "id": 181,
+        "name": "MzGW (FGr BrB)",
+        "short_name": "MzGW (FGr BrB)",
+        "class": [
+            ""
+        ],
+        "cost": 15000,
+        "personal": {
+            "min": 6,
+            "max": 9
+        },
+        "building": [
+            9
+        ]
+    },
+	{
+        "id": 182,
+        "name": "Mobilkran",
+        "short_name": "Mobilkran",
+        "class": [
+            ""
+        ],
+        "cost": 30000,
+        "personal": {
+            "min": 1,
+            "max": 1
+        },
+        "building": [
+            9
+        ]
+    },
+	{
+        "id": 183,
+        "name": "Anh Plattform (FGr BrB)",
+        "short_name": "Anh Plattform (FGr BrB)",
+        "class": [
+            ""
+        ],
+        "cost": 6000,
+        "personal": {
+            "min": 0,
+            "max": 0
+        },
+        "building": [
+            9
+        ],
+        "additional": {
+	    "trailer": true
+		}
     }
 ]
