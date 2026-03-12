@@ -4590,5 +4590,21 @@
         "additional": {
 	    "trailer": true
 		}
+    },
+	{
+        "id": 176,
+        "name": "LKW 7 Lbw (FGr Log-V)",
+        "short_name": "LKW 7 Lbw (FGr Log-V)",
+        "class": [
+            ""
+        ],
+        "cost": 15000,
+        "personal": {
+            "min": 3,
+            "max": 3
+        },
+        "building": [
+            9
+        ]
     }
 ]
