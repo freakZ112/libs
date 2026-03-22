@@ -489,6 +489,18 @@
                 "name": "Fachzug Führung und Kommunikation",
                 "cost": 50000,
                 "duration": 5
+            },
+			{
+                "id": 14,
+                "name": "Fachgruppe Logistik-Verpflegung",
+                "cost": 50000,
+                "duration": 5
+            },
+			{
+                "id": 15,
+                "name": "Fachgruppe Brückenbau",
+                "cost": 50000,
+                "duration": 5
             }
         ]
     },
