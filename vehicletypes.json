@@ -4687,7 +4687,7 @@
         "name": "MzGW (FGr BrB)",
         "short_name": "MzGW (FGr BrB)",
         "class": [
-            ""
+            "thw_bridge_construction_equipment"
         ],
         "cost": 15000,
         "personal": {
@@ -4703,7 +4703,7 @@
         "name": "Mobilkran",
         "short_name": "Mobilkran",
         "class": [
-            ""
+            "thw_bridge_construction_crane"
         ],
         "cost": 30000,
         "personal": {
@@ -4719,7 +4719,7 @@
         "name": "Anh Plattform (FGr BrB)",
         "short_name": "Anh Plattform (FGr BrB)",
         "class": [
-            ""
+            "thw_bridge_construction_trailer"
         ],
         "cost": 6000,
         "personal": {
