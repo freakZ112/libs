@@ -4349,8 +4349,7 @@
         "name": "Lautsprecherkraftwagen",
         "short_name": "LauKw",
         "class": [
-			"police_speaker",
-            "police_speaker_operator"
+			"police_speaker"
         ],
         "class_alias":[
             "Lautsprecherkraftwagen"
