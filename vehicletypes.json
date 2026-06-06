@@ -4738,10 +4738,10 @@
         "name": "Funkstreifenwagen Autobahnpolizei",
         "short_name": "FuStW (AP)",
         "class": [
-            "police_cars"
+            "kA"
         ],
         "class_alias": [
-            "Polizeistreifen"
+            "kA"
         ],
         "cost": 5000,
         "personal": {
