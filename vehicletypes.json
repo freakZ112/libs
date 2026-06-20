@@ -4200,7 +4200,6 @@
         "name": "RTH Winde",
         "short_name": "RTH Winde",
         "class": [
-			"helicopter"
             "lift"
         ],		
 		"personal": {
