@@ -4349,7 +4349,7 @@
         "name": "Lautsprecherkraftwagen",
         "short_name": "LauKw",
         "class": [
-            "police_speaker_operator"
+			"police_speaker"
         ],
         "class_alias":[
             "Lautsprecherkraftwagen"
@@ -4732,5 +4732,31 @@
         "additional": {
 	    "trailer": true
 		}
+    },
+	{
+        "id": 184,
+        "name": "Funkstreifenwagen Autobahnpolizei",
+        "short_name": "FuStW (AP)",
+        "class": [
+            "kA"
+        ],
+        "class_alias": [
+            "kA"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 2,
+            "max": 2
+        },
+        "building": [
+            6,
+            19
+        ],
+        "additional": {
+            "prisoners_transport": 1
+        },
+        "prerequisites": {
+            "police_stations": 1
+        }
     }
 ]
