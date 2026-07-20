@@ -1225,7 +1225,7 @@
     {
         "id": 41,
         "name": "Mehrzweck-Gerätewagen der Fachgruppe N",
-        "short_name": "MzGw N",
+        "short_name": "MzGW (FGr N)",
 		"class": [
 			"thw_mzkw"
         ],
