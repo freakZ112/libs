@@ -129,6 +129,12 @@
                 "name": "Bahnrettung",
                 "cost": 200000,
                 "duration": 5
+            },
+		{
+                "id": 29,
+                "name": "Tierrettung",
+                "cost": 200000,
+                "duration": 5
             }
         ]
     },
@@ -487,6 +493,18 @@
             {
                 "id": 13,
                 "name": "Fachzug Führung und Kommunikation",
+                "cost": 50000,
+                "duration": 5
+            },
+			{
+                "id": 14,
+                "name": "Fachgruppe Logistik-Verpflegung",
+                "cost": 50000,
+                "duration": 5
+            },
+			{
+                "id": 15,
+                "name": "Fachgruppe Brückenbau",
                 "cost": 50000,
                 "duration": 5
             }
