@@ -4577,7 +4577,7 @@
         "name": "NEA50 (SEG)",
         "short_name": "NEA50 (SEG)",
         "class": [
-            "energy_supply3"
+            "seg_strom"
         ],
         "cost": 10000,
         "personal": {
