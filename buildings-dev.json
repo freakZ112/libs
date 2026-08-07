@@ -129,6 +129,12 @@
                 "name": "Bahnrettung",
                 "cost": 200000,
                 "duration": 5
+            },
+		{
+                "id": 29,
+                "name": "Tierrettung",
+                "cost": 200000,
+                "duration": 5
             }
         ]
     },
