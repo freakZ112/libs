@@ -4286,7 +4286,7 @@
         "name": "HLF Schiene",
         "short_name": "HLF Schiene",
         "class": [
-	    "railway_fire",
+	    	"railway_fire",
             "firetrucks",
             "water_damage_pump",
             "heavy_rescue_vehicles",
