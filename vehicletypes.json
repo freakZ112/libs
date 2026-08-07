@@ -3335,7 +3335,7 @@
         "name": "NEA50",
         "short_name": "NEA50 (FW)",
         "class": [
-            "energy_supply2"
+            "fw_strom"
         ],
         "cost": 10000,
         "personal": {
@@ -4647,7 +4647,7 @@
         "name": "AB-NEA50",
         "short_name": "AB-NEA50",
         "class": [
-            "energy_supply2"
+            "fw_strom"
         ],
         "cost": 5000,
         "personal": {
