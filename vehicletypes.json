@@ -4758,5 +4758,153 @@
         "prerequisites": {
             "police_stations": 1
         }
+    },
+    {
+        "id": 185,
+        "name": "GW-Tierrettung",
+        "short_name": "GW-Tierrettung",
+        "class": [
+            "",
+        ],
+        "class_alias": [
+            "",
+        ],
+        "cost": 15000,
+        "personal": {
+            "min": 2,
+            "max": 6
+        },
+        "building": [
+            0,
+            18
+        ],
+    },
+	{
+        "id": 187,
+        "name": "TLF 3000 W",
+        "short_name": "TLF 3000 W",
+        "class": [
+            "firetrucks",
+            "water_damage_pump",
+            "foamTank"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+            "water": 3000,
+            "pump_engine": 2000,
+            "foam": 150
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
+	{
+        "id": 188,
+        "name": "TLF 5000 W",
+        "short_name": "TLF 5000 W",
+        "class": [
+            "firetrucks",
+            "water_damage_pump",
+            "foamTank"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+            "water": 5000,
+            "pump_engine": 2000,
+            "foam": 500
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
+	{
+        "id": 189,
+        "name": "TLF 10000 W",
+        "short_name": "TLF 10000 W",
+        "class": [
+            "firetrucks",
+            "water_damage_pump",
+            "foamTank"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
+        ],
+        "cost": 10000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+            "water": 10000,
+            "pump_engine": 2000,
+            "foam": 1000
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
+    },
+	{
+        "id": 190,
+        "name": "GW-Waldbrand",
+        "short_name": "GW-Waldbrand",
+        "class": [
+            "firetrucks",
+            "water_damage_pump",
+            "foamTank"
+        ],
+        "class_alias": [
+            "Löschfahrzeuge",
+            "Feuerlöschpumpe",
+            "Sonderlöschmittel"
+        ],
+        "cost": 5000,
+        "personal": {
+            "min": 1,
+            "max": 3
+        },
+        "building": [
+            0,
+            18
+        ],
+        "additional": {
+            "water": 500,
+            "pump_engine": 500,
+            "foam": 50
+        },
+        "prerequisites": {
+            "fire_stations": 1
+        }
     }
 ]
