@@ -4764,10 +4764,10 @@
         "name": "GW-Tierrettung",
         "short_name": "GW-Tierrettung",
         "class": [
-            "",
+            "tier"
         ],
         "class_alias": [
-            "",
+            "tier"
         ],
         "cost": 15000,
         "personal": {
@@ -4777,7 +4777,7 @@
         "building": [
             0,
             18
-        ],
+        ]
     },
 	{
         "id": 187,
