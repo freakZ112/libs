@@ -4845,8 +4845,8 @@
     },
 	{
         "id": 189,
-        "name": "TLF 10000 W",
-        "short_name": "TLF 10000 W",
+        "name": "GTLF 10000 W",
+        "short_name": "GTLF 10000 W",
         "class": [
             "firetrucks",
             "water_damage_pump",
